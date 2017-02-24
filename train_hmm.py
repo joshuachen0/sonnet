@@ -1,4 +1,5 @@
-from HMM import *
+from baum_welch.HMM import *
+import poem
 
 def invert_map(my_map):
     """
@@ -50,5 +51,5 @@ def train_n_states(X, word_map):
         )
         print()
 
-
+X, word_map = poem.load_sp()
 
