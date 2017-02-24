@@ -1,4 +1,6 @@
+from __future__ import print_function
 from HMM import unsupervised_HMM, supervised_HMM
+
 
 def load_sonnets(f_name, supervised=True):
     '''
@@ -112,41 +114,40 @@ def make_emission(HMM, word_map):
     # pick a number of syllables (a state)
     # generate a word from this state
     # repeat until we've exhausted 10 syllables
-    temp = HMM.generate_emission(10)
-    res = []
+    temp = HMM.generate_emission(10, word_map)
 
-    for i in temp:
-        word = word_map.keys()[word_map.values().index(i)]
-        res.append(word)
-        print word
+    # for i in temp:
+    #     print i
 
-    return res
+    return temp
+
 
 def make_emission_supervised(HMM, word_map):
     temp = HMM.generate_emission_sonnet(10)
-    res = []
 
     for i in temp:
         word = word_map.keys()[word_map.values().index(i)]
         res.append(word)
-        print word
+        print (word)
 
     return res
 
 def main():
-    supervised = True
+    supervised = False
 
     if supervised is True:
         stresses, stress_map, words, word_map = \
             load_sonnets("data/concat_words_supervised.txt", supervised=True)
+        print (len(stress_map.keys()))
+        print (stress_map)
     else:
         words, word_map = load_sonnets("data/concat_words.txt", supervised=False)
-    print len(stress_map.keys())
-    print len(word_map.keys())
-    print stress_map
+    
+    print (len(word_map.keys()))
+    
 
     if supervised is False:
-        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=100)
+        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=1)
     else:
         HMM = supervised_HMM(words, stresses)
 
@@ -155,6 +156,11 @@ def main():
     for i in range(14):
         if supervised is False:
             res = make_emission(HMM, word_map)
+            res.reverse()
+
+            for i in res:
+                print (i, end=' ')
+            print(end='\n')
         else:
             res = make_emission_supervised(HMM, word_map)
         print

@@ -8,6 +8,7 @@
 
 import random
 import numpy as np
+from hyphenate import hyphenate_word
 
 class HiddenMarkovModel:
     '''
@@ -313,9 +314,9 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
-    def generate_emission(self, M):
+    def generate_emission(self, M, word_map):
         '''
-        Generates an emission of length M, assuming that the starting state
+        Generates an emission of M syllables, assuming that the starting state
         is chosen uniformly at random. 
 
         Arguments:
@@ -328,28 +329,20 @@ class HiddenMarkovModel:
         emission = []
         state = random.choice(range(self.L))
 
-        for t in range(M):
-            # Sample next observation.
-            rand_var = random.uniform(0, 1)
-            next_obs = 0
+        while M > 0:
+            obs = np.random.choice(np.arange(self.D), p=self.O[state])
+            word = word_map.keys()[word_map.values().index(obs)]
+            
+            while len(hyphenate_word(word)) > M:
+                obs = np.random.choice(np.arange(self.D), p=self.O[state])
+                word = word_map.keys()[word_map.values().index(obs)]
+            
+            emission.append(word)
+            M -= len(hyphenate_word(word))
 
-            while rand_var > 0:
-                rand_var -= self.O[state][next_obs]
-                next_obs += 1
-
-            next_obs -= 1
-            emission.append(next_obs)
-
-            # Sample next state.
-            rand_var = random.uniform(0, 1)
-            next_state = 0
-
-            while rand_var > 0:
-                rand_var -= self.A[state][next_state]
-                next_state += 1
-
-            next_state -= 1
-            state = next_state
+            state = np.random.choice(np.arange(self.L), 
+                    p=self.A[state])
+            
 
         return emission
 
