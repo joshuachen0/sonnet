@@ -178,14 +178,18 @@ class HiddenMarkovModel:
     def unsupervised_learning(self, X, iters):
         '''
         Trains the HMM using the Baum-Welch algorithm on an unlabeled
-        datset X. Note that this method does not return anything, but
-        instead updates the attributes of the HMM object.
+        datset X. Updates the attributes of the HMM object.
 
         Arguments:
             X:          A dataset consisting of input sequences in the form
                         of lists of length M, consisting of integers ranging
                         from 0 to D - 1. In other words, a list of lists.
             iters:      Number of E-M iterations to train the HMM.
+
+        Returns:
+            scores:     Dict where scores[x] is the score after x E-M
+                        iterations. Populated every 10 iterations, and after
+                        the last iteration.
         '''
 
         # Note that a comment starting with 'E' refers to the fact that
@@ -194,8 +198,11 @@ class HiddenMarkovModel:
         # Similarly, a comment starting with 'M' refers to the fact that
         # the code under the comment is part of the M-step.
 
+        scores = {}
+
         for iteration in range(iters):
-            # print("Iteration: " + str(iteration))
+            if iteration % 10 == 0:
+                scores[iteration] = self.score(X)
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]
@@ -261,6 +268,9 @@ class HiddenMarkovModel:
             for curr in range(self.L):
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
+
+        scores[iters] = self.score(X)
+        return scores
 
     def generate_observation(self, this_state=None):
         '''
@@ -388,6 +398,11 @@ def unsupervised_HMM(X, n_states, n_iters):
 
         n_states:   Number of hidden states to use in training.
         n_iters:    Number of E-M iterations.
+
+    Returns:
+        hmm:        Trained HMM.
+        scores:     Dict where scores[x] is the score after x E-M iterations
+                    of training the HMM.
     '''
 
     # Make a set of observations.
@@ -416,6 +431,6 @@ def unsupervised_HMM(X, n_states, n_iters):
 
     # Train an HMM with unlabeled data.
     HMM = HiddenMarkovModel(A, O)
-    HMM.unsupervised_learning(X, n_iters)
+    scores = HMM.unsupervised_learning(X, n_iters)
 
-    return HMM
+    return HMM, scores
