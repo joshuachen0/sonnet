@@ -7,6 +7,7 @@
 ########################################
 
 import random
+import math
 
 class HiddenMarkovModel:
     '''
@@ -177,13 +178,18 @@ class HiddenMarkovModel:
     def unsupervised_learning(self, X, iters):
         '''
         Trains the HMM using the Baum-Welch algorithm on an unlabeled
-        datset X. Note that this method does not return anything, but
-        instead updates the attributes of the HMM object.
+        datset X. Updates the attributes of the HMM object.
 
         Arguments:
             X:          A dataset consisting of input sequences in the form
                         of lists of length M, consisting of integers ranging
                         from 0 to D - 1. In other words, a list of lists.
+            iters:      Number of E-M iterations to train the HMM.
+
+        Returns:
+            scores:     List of (i, score after i E-M iterations) tuples.
+                        Computed every 10 iterations, and after
+                        the last iteration.
         '''
 
         # Note that a comment starting with 'E' refers to the fact that
@@ -192,8 +198,11 @@ class HiddenMarkovModel:
         # Similarly, a comment starting with 'M' refers to the fact that
         # the code under the comment is part of the M-step.
 
+        scores = []
+
         for iteration in range(iters):
-            print("Iteration: " + str(iteration))
+            if iteration % 10 == 0:
+                scores.append((iteration, self.score(X)))
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]
@@ -260,6 +269,42 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
+        scores.append((iters, self.score(X)))
+        return scores
+
+    def generate_observation(self, this_state=None):
+        '''
+        Generate a single observation.
+
+        Arguments:
+            this_state: None, or an integer in [0, D - 1] representing the
+                        current state of HMM. If None, choose a start state
+                        at random. Default None.
+        Returns:
+            obs:        Observation.
+            next_state: Next state of HMM, an integer in [0, D - 1].
+        '''
+        if this_state == None:
+            this_state = random.choice(range(self.L))
+
+        # Sample next observation.
+        rand_var = random.uniform(0, 1)
+        obs = 0
+        while rand_var > 0:
+            rand_var -= self.O[this_state][obs]
+            obs += 1
+        obs -= 1
+
+        # Sample next state.
+        rand_var = random.uniform(0, 1)
+        next_state = 0
+        while rand_var > 0:
+            rand_var -= self.A[this_state][next_state]
+            next_state += 1
+        next_state -= 1
+
+        return obs, next_state
+
     def generate_emission(self, M):
         '''
         Generates an emission of length M, assuming that the starting state
@@ -300,6 +345,45 @@ class HiddenMarkovModel:
 
         return emission
 
+    def probability_alphas(self, x):
+        '''
+        Finds the maximum probability of a given input sequence using
+        the forward algorithm.
+
+        Arguments:
+            x:          Input sequence in the form of a list of length M,
+                        consisting of integers ranging from 0 to D - 1.
+
+        Returns:
+            prob:       Total probability that x can occur.
+        '''
+        # Calculate alpha vectors.
+        alphas = self.forward(x)
+
+        # alpha_j(M) gives the probability that the output sequence ends
+        # in j. Summing this value over all possible states j gives the
+        # total probability of x paired with any output sequence, i.e. the
+        # probability of x.
+        prob = sum(alphas[-1])
+        return prob
+
+    def score_emission(self, x):
+        '''
+        :param x: A list of integers in [0, D - 1] representing an emission.
+        :return: The log-likelihood of generating x.
+        '''
+        return math.log(self.probability_alphas(x))
+
+    def score(self, X):
+        '''
+        :param X: A dataset consisting of input sequences in the form
+                  of lists of variable length, consisting of integers
+                  ranging from 0 to D - 1. In other words, a list of lists.
+        :return: The total log-likelihood of generating X.
+        '''
+        return sum([self.score_emission(x) for x in X])
+
+
 def unsupervised_HMM(X, n_states, n_iters):
     '''
     Helper function to train an unsupervised HMM. The function determines the
@@ -313,6 +397,11 @@ def unsupervised_HMM(X, n_states, n_iters):
                     ranging from 0 to D - 1. In other words, a list of lists.
 
         n_states:   Number of hidden states to use in training.
+        n_iters:    Number of E-M iterations.
+
+    Returns:
+        hmm:        Trained HMM.
+        scores:     List of (i, score after i E-M iterations) tuples.
     '''
 
     # Make a set of observations.
@@ -341,6 +430,6 @@ def unsupervised_HMM(X, n_states, n_iters):
 
     # Train an HMM with unlabeled data.
     HMM = HiddenMarkovModel(A, O)
-    HMM.unsupervised_learning(X, n_iters)
+    scores = HMM.unsupervised_learning(X, n_iters)
 
-    return HMM
+    return HMM, scores
