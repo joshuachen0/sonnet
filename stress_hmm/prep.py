@@ -60,7 +60,7 @@ def tokenize(f_read, f_write, supervised=False):
 
 
 def main():
-    SUPERVISED = False
+    SUPERVISED = True
 
     if SUPERVISED is True:
         tokenize('data/concat.txt', 'data/concat_words_supervised.txt', supervised=True)

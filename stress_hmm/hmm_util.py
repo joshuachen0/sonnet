@@ -134,8 +134,8 @@ def make_emission_supervised(HMM, word_map):
     return res
 
 def main():
-    supervised = False
-    
+    supervised = True
+
     if supervised is True:
         stresses, stress_map, words, word_map = \
             load_sonnets("data/concat_words_supervised.txt", supervised=True)
@@ -146,7 +146,7 @@ def main():
     print stress_map
 
     if supervised is False:
-        HMM = unsupervised_learning(words, word_map, n_states=6, n_iters=25)
+        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=100)
     else:
         HMM = supervised_HMM(words, stresses)
 
