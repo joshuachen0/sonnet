@@ -1,5 +1,7 @@
 from baum_welch.HMM import *
 import poem
+import multiprocessing as mp
+import functools
 
 def invert_map(my_map):
     """
@@ -34,23 +36,43 @@ def generate_line_naive(hmm, word_map, num_words):
     # Join with spaces
     return ' '.join(words)
 
-def train_n_states(X, word_map):
+
+def train_and_print(X, n_states, n_iters, model_i, word_map):
+    """
+    Train one hidden model and print the results.
+    :param X: Dataset, list of lists.
+    :param n_states: Number of hidden states to train with.
+    :param n_iters: Number of E-M iterations to train with.
+    :param model_i: Model identifier, for multiple models with the same
+        parameters.
+    :param word_map: Dict of words to ints.
+    """
+    hmm, scores = unsupervised_HMM(X, n_states, n_iters)
+    print('-' * 70)
+    print('{} hidden states, {} iterations, model {}'
+          .format(n_states, n_iters, model_i))
+    print(scores)
+    print(generate_line_naive(hmm, word_map, 300))
+    print
+
+
+def train_over_states(X):
     """Train several HMMs. Vary on the number of states."""
     states_vals = range(2, 21, 2)  # 2, 4, ..., 20
-    n_iterations = 100
+    n_iters = 100
     n_models = 3
 
+    mp.freeze_support()  # Prevent a windows bug
+    pool = mp.Pool()
     for n_states in states_vals:
-        print('-' * 70)
-        print('{} hidden states, {} iterations'.format(n_states, n_iterations))
+        for model_i in range(n_models):
+            pool.apply_async(
+                train_and_print,
+                args=(X, n_states, n_iters, model_i, word_map)
+            )
+    pool.close()
+    pool.join()  # Wait for all tasks
 
-        for i in range(n_models):
-            hmm, scores = unsupervised_HMM(X, n_states, n_iterations)
-
-            print('Model {}'.format(i))
-            print(scores)
-            print(generate_line_naive(hmm, word_map, 400))
-            print
-
-X, word_map = poem.load_sp()
-train_n_states(X, word_map)
+if __name__ == '__main__':
+    X, word_map = poem.load_sp()
+    train_over_states(X)
