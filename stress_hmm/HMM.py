@@ -7,6 +7,7 @@
 ########################################
 
 import random
+import numpy as np
 
 class HiddenMarkovModel:
     '''
@@ -174,6 +175,58 @@ class HiddenMarkovModel:
 
         return betas
 
+    def supervised_learning(self, X, Y):
+        '''
+        Trains the HMM using the Maximum Likelihood closed form solutions
+        for the transition and observation matrices on a labeled
+        datset (X, Y). Note that this method does not return anything, but
+        instead updates the attributes of the HMM object.
+
+        Arguments:
+            X:          A dataset consisting of input sequences in the form
+                        of lists of variable length, consisting of integers 
+                        ranging from 0 to D - 1. In other words, a list of
+                        lists.
+            Y:          A dataset consisting of state sequences in the form
+                        of lists of variable length, consisting of integers 
+                        ranging from 0 to L - 1. In other words, a list of
+                        lists.
+                        Note that the elements in X line up with those in Y.
+        '''
+        print "A"
+        # Calculate each element of A using the M-step formulas.
+        for a in range(len(self.A)):
+            for b in range(len(self.A)):
+                num = 0.
+                denom = 0.
+
+                for j in range(len(Y)):
+                    for i in range(len(Y[j]) - 1):
+                        if Y[j][i + 1] == b and Y[j][i] == a:
+                            num += 1
+                        if Y[j][i] == a:
+                            denom += 1
+
+                self.A[a][b] = num / denom
+
+        print "O"
+        # Calculate each element of O using the M-step formulas.
+        for w in range(len(self.O)):
+            for z in range(len(self.O[0])):
+                num = 0.
+                denom = 0.
+
+                for j in range(len(Y)):
+                    for i in range(len(Y[j])):
+                        if X[j][i] == z and Y[j][i] == w:
+                            num += 1
+                        if Y[j][i] == w:
+                            denom += 1
+                
+                self.O[w][z] = num / denom
+
+        "returning from sup_learning"
+
     def unsupervised_learning(self, X, iters):
         '''
         Trains the HMM using the Baum-Welch algorithm on an unlabeled
@@ -272,7 +325,7 @@ class HiddenMarkovModel:
             emission:   The randomly generated emission as a string.
         '''
 
-        emission = ''
+        emission = []
         state = random.choice(range(self.L))
 
         for t in range(M):
@@ -285,7 +338,7 @@ class HiddenMarkovModel:
                 next_obs += 1
 
             next_obs -= 1
-            emission += str(next_obs)
+            emission.append(next_obs)
 
             # Sample next state.
             rand_var = random.uniform(0, 1)
@@ -299,6 +352,82 @@ class HiddenMarkovModel:
             state = next_state
 
         return emission
+
+    def generate_emission_sonnet(self, num_syllables):
+        emission = []
+        first = True
+
+        while num_syllables > 0:
+            # set state
+            if first is True:
+                first = False
+                # initial state randomly generated from uniform distribution over 
+                # states
+                # some jank nonsense to get syllable length
+                curr_state = np.random.choice(np.arange(self.L))
+                num_syllables -= curr_state / 2 + 1
+
+            else:
+                temp_state = np.random.choice(np.arange(self.L), 
+                    p=self.A[curr_state])
+                while abs(temp_state) > num_syllables:
+                    temp_state = np.random.choice(np.arange(self.L), 
+                        p=self.A[curr_state])
+                curr_state = temp_state
+                num_syllables -= curr_state / 2 + 1
+
+            # set observation
+            emission.append(np.random.choice(np.arange(self.D), 
+                p=self.O[curr_state]))
+
+        return emission
+
+def supervised_HMM(X, Y):
+    '''
+    Helper function to train a supervised HMM. The function determines the
+    number of unique states and observations in the given data, initializes
+    the transition and observation matrices, creates the HMM, and then runs
+    the training function for supervised learing.
+
+    Arguments:
+        X:          A list of variable length emission sequences 
+        Y:          A corresponding list of variable length state sequences
+                    Note that the elements in X line up with those in Y
+    '''
+    # Make a set of observations.
+    observations = set()
+    for x in X:
+        observations |= set(x)
+
+    # Make a set of states.
+    states = set()
+    for y in Y:
+        states |= set(y)
+    
+    # Compute L and D.
+    L = len(states)
+    D = len(observations)
+
+    # Randomly initialize and normalize matrices A and O.
+    A = [[random.random() for i in range(L)] for j in range(L)]
+
+    for i in range(len(A)):
+        norm = sum(A[i])
+        for j in range(len(A[i])):
+            A[i][j] /= norm
+    
+    O = [[random.random() for i in range(D)] for j in range(L)]
+
+    for i in range(len(O)):
+        norm = sum(O[i])
+        for j in range(len(O[i])):
+            O[i][j] /= norm
+
+    # Train an HMM with labeled data.
+    HMM = HiddenMarkovModel(A, O)
+    HMM.supervised_learning(X, Y)
+
+    return HMM
 
 def unsupervised_HMM(X, n_states, n_iters):
     '''

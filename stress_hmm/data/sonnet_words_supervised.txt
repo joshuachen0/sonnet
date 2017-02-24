@@ -1,0 +1,19737 @@
+US	increase
+US	desire
+S	we
+SU	creatures
+U	fairest
+S	from
+@
+S	die
+SU	never
+U	might
+S	rose
+SU	beauty's
+SU	thereby
+U	that
+@
+US	decease
+S	time
+U	by
+S	should
+U	riper
+S	the
+U	as
+S	but
+@
+SUS	memory
+U	his
+S	bear
+U	might
+S	heir
+SU	tender
+U	his
+@
+S	eyes
+U	bright
+S	own
+U	thine
+S	to
+USU	contracted
+S	thou
+U	but
+@
+S	fuel
+SUSU	self-substantial
+U	with
+S	flame
+U	light's
+S	thy
+U	feed'st
+@
+S	lies
+SU	abundance
+U	where
+S	famine
+U	a
+US	making
+@
+US	cruel
+S	too
+U	self
+S	sweet
+U	thy
+S	to
+U	foe
+S	thy
+U	self
+S	thy
+@
+SUS	ornament
+U	fresh
+S	world's
+U	the
+S	now
+U	art
+S	that
+U	thou
+@
+S	spring
+U	gaudy
+S	the
+U	to
+US	herald
+S	only
+U	and
+@
+US	content
+S	thy
+SU	buriest
+U	bud
+S	own
+U	thine
+US	within
+@
+SUS	niggarding
+U	in
+S	waste
+U	mak'st
+S	churl
+SU	tender
+U	and
+@
+S	be
+SU	glutton
+U	this
+S	else
+U	or
+S	world
+U	the
+S	pity
+@
+S	thee
+U	and
+S	grave
+U	the
+S	by
+U	due
+S	world's
+U	the
+S	eat
+U	to
+@
+S	brow
+U	thy
+US	besiege
+S	shall
+SU	winters
+U	forty
+S	when
+@
+S	field
+SU	beauty's
+U	thy
+S	in
+SU	trenches
+U	deep
+S	dig
+U	and
+@
+S	now
+U	on
+S	gazed
+U	so
+US	livery
+S	proud
+U	youth's
+S	thy
+@
+S	held
+U	worth
+S	small
+U	of
+S	weed
+SU	tattered
+U	a
+S	be
+U	will
+@
+S	lies
+SU	beauty
+U	thy
+S	all
+U	where
+S	asked
+SU	being
+U	then
+@
+S	days
+U	lusty
+S	thy
+U	of
+US	treasure
+S	the
+U	all
+S	where
+@
+S	eyes
+U	sunken
+S	deep
+U	own
+S	thine
+SU	within
+U	say
+S	to
+@
+S	praise
+SU	thriftless
+U	and
+S	shame
+USU	all-eating
+S	an
+U	were
+@
+S	use
+SU	beauty's
+U	thy
+US	deserved
+S	praise
+U	more
+S	much
+U	how
+@
+S	mine
+U	of
+S	child
+U	fair
+S	this
+SU	answer
+U	couldst
+S	thou
+U	if
+@
+US	excuse
+S	old
+U	my
+S	make
+U	and
+S	count
+U	my
+S	sum
+U	shall
+@
+S	thine
+USU	succession
+S	by
+SU	beauty
+U	his
+US	proving
+@
+S	old
+U	art
+S	thou
+U	when
+S	made
+U	new
+S	be
+U	to
+S	were
+U	this
+@
+S	cold
+U	it
+S	feel'st
+U	thou
+S	when
+U	warm
+S	blood
+U	thy
+S	see
+U	and
+@
+S	viewest
+U	thou
+S	face
+U	the
+S	tell
+U	and
+S	glass
+U	thy
+S	in
+U	look
+@
+SUS	another
+U	form
+S	should
+U	face
+S	that
+U	time
+S	the
+U	is
+S	now
+@
+US	renewest
+S	not
+U	thou
+S	now
+U	if
+US	repair
+S	fresh
+U	whose
+@
+US	mother
+S	some
+USU	unbless
+S	world
+U	the
+US	beguile
+S	dost
+U	thou
+@
+S	womb
+SU	uneared
+U	whose
+S	fair
+U	so
+S	she
+U	is
+S	where
+U	for
+@
+US	husbandry
+S	thy
+U	of
+S	tillage
+U	the
+US	disdains
+@
+S	tomb
+U	the
+S	be
+U	will
+S	fond
+U	so
+S	he
+U	is
+S	who
+U	or
+@
+USUS	posterity
+S	stop
+U	to
+US	self-love
+S	his
+U	of
+@
+S	thee
+U	in
+S	she
+U	and
+S	glass
+SU	mother's
+U	thy
+S	art
+U	thou
+@
+S	prime
+U	her
+S	of
+U	april
+US	lovely
+S	the
+U	back
+S	calls
+@
+S	see
+U	shalt
+S	age
+U	thine
+S	of
+SU	windows
+U	through
+S	thou
+U	so
+@
+S	time
+SU	golden
+U	thy
+S	this
+SU	wrinkles
+U	of
+US	despite
+@
+S	be
+U	to
+S	not
+USU	remembered
+S	live
+U	thou
+S	if
+U	but
+@
+S	thee
+U	with
+S	dies
+SU	image
+U	thine
+S	and
+SU	single
+U	die
+@
+S	spend
+U	thou
+S	dost
+U	why
+SUS	loveliness
+SU	unthrifty
+@
+US	legacy
+US	beauty's
+S	thy
+U	self
+S	thy
+U	upon
+@
+S	lend
+U	doth
+S	but
+SU	nothing
+U	gives
+US	bequest
+US	nature's
+@
+S	free
+U	are
+S	those
+U	to
+S	lends
+U	she
+S	frank
+SU	being
+U	and
+@
+S	abuse
+U	thou
+S	dost
+U	why
+US	niggard
+US	beauteous
+S	then
+@
+S	give
+U	to
+S	thee
+SU	given
+U	largess
+US	bounteous
+S	the
+@
+S	use
+U	thou
+S	dost
+U	why
+S	usurer
+USU	profitless
+@
+S	live
+U	not
+S	canst
+U	yet
+S	sums
+U	of
+S	sum
+U	a
+S	great
+U	so
+@
+S	alone
+U	self
+S	thy
+U	with
+US	traffic
+US	having
+S	for
+@
+US	deceive
+S	dost
+U	self
+S	sweet
+U	thy
+S	self
+U	thy
+S	of
+U	thou
+@
+S	gone
+U	be
+S	to
+U	thee
+S	calls
+SU	nature
+U	when
+S	how
+U	then
+@
+S	leave
+U	thou
+S	canst
+SU	audit
+USU	acceptable
+S	what
+@
+S	thee
+U	with
+S	tombed
+U	be
+S	must
+SU	beauty
+SU	unused
+U	thy
+@
+S	be
+U	to
+SUS	executor
+U	th
+S	lives
+U	used
+S	which
+@
+S	frame
+U	did
+S	work
+SU	gentle
+U	with
+S	that
+U	hours
+S	those
+@
+S	dwell
+U	doth
+S	eye
+U	every
+S	where
+U	gaze
+US	lovely
+S	the
+@
+S	same
+U	very
+S	the
+U	to
+S	tyrants
+U	the
+S	play
+U	will
+@
+US	excel
+S	doth
+SU	fairly
+U	which
+US	unfair
+S	that
+U	and
+@
+S	on
+SU	summer
+U	leads
+S	time
+USU	never-resting
+S	for
+@
+S	there
+U	him
+US	confounds
+S	and
+SU	winter
+U	hideous
+S	to
+@
+S	gone
+U	quite
+S	leaves
+U	lusty
+S	and
+U	frost
+S	with
+U	checked
+S	sap
+@
+S	where
+U	every
+US	bareness
+S	and
+SU	o'er-snowed
+SU	beauty
+@
+S	left
+SUSU	distillation
+SU	summer's
+U	not
+S	were
+U	then
+@
+S	glass
+U	of
+S	walls
+U	in
+S	pent
+USU	prisoner
+US	liquid
+S	a
+@
+S	bereft
+U	were
+US	beauty
+S	with
+SU	effect
+SU	beauty's
+@
+S	was
+U	it
+S	what
+USU	remembrance
+S	no
+U	nor
+S	it
+U	nor
+@
+S	meet
+SU	winter
+U	with
+S	they
+U	though
+US	distilled
+US	flowers
+S	but
+@
+S	sweet
+U	lives
+S	still
+SU	substance
+U	their
+S	show
+U	their
+S	but
+U	leese
+@
+US	deface
+S	hand
+U	ragged
+US	winter's
+S	not
+U	let
+S	then
+@
+US	distilled
+S	be
+U	thou
+S	ere
+SU	summer
+U	thy
+S	thee
+U	in
+@
+S	place
+U	some
+S	thou
+SU	treasure
+U	vial
+S	some
+U	sweet
+S	make
+@
+US	self-killed
+S	be
+U	it
+S	ere
+SU	treasure
+SU	beauty's
+U	with
+@
+S	usury
+USU	forbidden
+S	not
+U	is
+S	use
+U	that
+@
+S	loan
+SU	willing
+U	the
+S	pay
+U	that
+S	those
+SU	happies
+U	which
+@
+S	thee
+USU	another
+S	breed
+U	to
+S	self
+U	thy
+S	for
+U	that's
+@
+S	one
+U	for
+S	ten
+U	it
+S	be
+USU	happier
+S	times
+U	ten
+S	or
+@
+S	art
+U	thou
+S	than
+USU	happier
+S	were
+U	self
+S	thy
+U	times
+S	ten
+@
+S	thee
+USU	refigured
+S	times
+U	ten
+S	thine
+U	of
+S	ten
+U	if
+@
+US	depart
+S	shouldst
+U	thou
+S	if
+U	do
+S	death
+U	could
+S	what
+U	then
+@
+USUS	posterity
+S	in
+SU	living
+U	thee
+US	leaving
+@
+S	fair
+U	too
+S	much
+U	art
+S	thou
+U	for
+US	self-willed
+S	not
+U	be
+@
+S	heir
+U	thine
+S	worms
+U	make
+S	and
+SU	conquest
+U	death's
+S	be
+U	to
+@
+S	light
+SU	gracious
+U	the
+S	when
+SU	orient
+U	the
+S	in
+U	lo
+@
+S	eye
+SU	under
+U	each
+S	head
+SU	burning
+U	his
+S	up
+U	lifts
+@
+S	sight
+USU	new-appearing
+S	his
+U	to
+S	homage
+U	doth
+@
+S	majesty
+SU	sacred
+U	his
+S	looks
+U	with
+US	serving
+@
+S	hill
+USU	heavenly
+US	steep-up
+S	the
+U	climbed
+US	having
+S	and
+@
+S	age
+SU	middle
+U	his
+S	in
+U	youth
+S	strong
+USU	resembling
+@
+S	still
+SU	beauty
+U	his
+S	adore
+U	looks
+US	mortal
+S	yet
+@
+SUS	pilgrimage
+SU	golden
+U	his
+S	on
+USU	attending
+@
+S	car
+U	weary
+S	with
+U	pitch
+US	highmost
+S	from
+U	when
+S	but
+@
+S	day
+U	the
+S	from
+U	reeleth
+S	he
+U	age
+US	feeble
+S	like
+@
+S	are
+USU	converted
+S	now
+SU	duteous
+U	fore
+S	eyes
+U	the
+@
+S	way
+USU	another
+S	look
+U	and
+S	tract
+U	low
+S	his
+U	from
+@
+S	noon
+U	thy
+S	in
+USU	out-going
+S	self
+U	thy
+S	thou
+U	so
+@
+S	son
+U	a
+S	get
+U	thou
+US	unless
+US	diest
+S	on
+SU	unlooked
+@
+US	sadly
+US	music
+S	thou
+U	hear'st
+S	why
+U	hear
+S	to
+SU	music
+@
+S	joy
+U	in
+US	delights
+S	joy
+U	not
+S	war
+U	sweets
+S	with
+U	sweets
+@
+US	gladly
+S	not
+SU	receiv'st
+U	thou
+S	which
+U	that
+S	thou
+U	lov'st
+S	why
+@
+US	annoy
+S	thine
+SU	pleasure
+U	with
+US	receiv'st
+S	else
+U	or
+@
+S	sounds
+SU	well-tuned
+U	of
+US	concord
+S	true
+U	the
+S	if
+@
+S	ear
+U	thine
+US	offend
+S	do
+SU	married
+U	unions
+S	by
+@
+US	confounds
+S	who
+U	thee
+S	chide
+SU	sweetly
+U	but
+S	do
+U	they
+@
+S	bear
+U	shouldst
+S	thou
+U	that
+S	parts
+U	the
+SUS	singleness
+U	in
+@
+SUS	another
+U	to
+US	husband
+S	sweet
+U	string
+S	one
+U	how
+S	mark
+@
+SUS	ordering
+USU	mutual
+S	by
+U	each
+S	in
+U	each
+S	strikes
+@
+US	mother
+US	happy
+S	and
+U	child
+S	and
+U	sire
+SUS	resembling
+@
+S	sing
+U	do
+S	note
+SU	pleasing
+U	one
+S	one
+U	in
+S	all
+U	who
+@
+S	one
+SU	seeming
+U	many
+US	being
+S	song
+SU	speechless
+U	whose
+@
+S	none
+U	prove
+S	wilt
+SU	single
+U	thou
+S	thee
+U	to
+S	this
+U	sings
+@
+S	eye
+SU	widow's
+U	a
+S	wet
+U	to
+S	fear
+U	for
+S	it
+U	is
+@
+S	life
+SU	single
+U	in
+S	self
+U	thy
+US	consum'st
+S	thou
+U	that
+@
+S	die
+U	to
+S	hap
+U	shalt
+SUS	issueless
+U	thou
+S	if
+U	ah
+@
+S	wife
+SU	makeless
+U	a
+S	like
+U	thee
+S	wail
+U	will
+S	world
+U	the
+@
+S	weep
+U	still
+S	and
+SU	widow
+U	thy
+S	be
+U	will
+S	world
+U	the
+@
+US	behind
+S	left
+U	hast
+S	thee
+U	of
+S	form
+U	no
+S	thou
+U	that
+@
+S	keep
+U	may
+S	well
+SU	widow
+SU	private
+U	every
+S	when
+@
+S	mind
+U	in
+S	shape
+SU	husband's
+U	her
+S	eyes
+SU	children's
+U	by
+@
+S	spend
+U	doth
+S	world
+U	the
+S	in
+SU	unthrift
+U	an
+S	what
+U	look
+@
+S	it
+SU	enjoys
+U	world
+S	the
+U	still
+S	for
+U	place
+S	his
+U	but
+S	shifts
+@
+S	end
+U	an
+S	world
+U	the
+S	in
+U	hath
+S	waste
+SU	beauty's
+U	but
+@
+S	it
+SU	destroys
+U	so
+S	user
+U	the
+US	unused
+S	kept
+U	and
+@
+S	sits
+SU	bosom
+U	that
+S	in
+SU	others
+SU	toward
+U	love
+S	no
+@
+US	commits
+S	shame
+SU	murd'rous
+U	such
+US	himself
+S	on
+U	that
+@
+S	any
+U	to
+S	love
+U	bear'st
+S	thou
+U	that
+S	deny
+U	shame
+S	for
+@
+USUS	unprovident
+S	so
+U	art
+S	self
+U	thy
+S	for
+U	who
+@
+S	many
+U	of
+S	beloved
+U	art
+S	thou
+U	wilt
+S	thou
+U	if
+S	grant
+@
+SUS	evident
+U	most
+S	is
+U	lov'st
+S	none
+U	thou
+S	that
+U	but
+@
+S	hate
+SU	murd'rous
+U	with
+US	possessed
+S	so
+U	art
+S	thou
+U	for
+@
+US	conspire
+S	to
+U	not
+US	stick'st
+S	thou
+U	self
+S	thy
+U	gainst
+S	that
+@
+US	ruinate
+S	to
+U	roof
+US	beauteous
+S	that
+SU	seeking
+@
+US	desire
+S	chief
+U	thy
+S	be
+U	should
+US	repair
+S	to
+U	which
+@
+S	mind
+U	my
+S	change
+U	may
+S	i
+U	that
+S	thought
+U	thy
+S	change
+U	o
+@
+S	love
+SU	gentle
+U	than
+S	lodged
+SU	fairer
+U	be
+S	hate
+U	shall
+@
+S	kind
+U	and
+US	gracious
+S	is
+SU	presence
+U	thy
+S	as
+U	be
+@
+S	prove
+USU	kind-hearted
+S	least
+U	at
+S	self
+U	thy
+S	to
+U	or
+@
+S	me
+U	of
+S	love
+U	for
+S	self
+USU	another
+S	thee
+U	make
+@
+S	thee
+U	or
+S	thine
+U	in
+S	live
+U	may
+S	still
+SU	beauty
+U	that
+@
+S	grow'st
+U	thou
+S	fast
+U	so
+S	wane
+U	shalt
+S	thou
+U	as
+S	fast
+U	as
+@
+US	departest
+S	thou
+U	which
+S	that
+U	from
+S	thine
+U	of
+S	one
+U	in
+@
+US	bestow'st
+S	thou
+SU	youngly
+U	which
+S	blood
+U	fresh
+S	that
+U	and
+@
+US	convertest
+S	youth
+U	from
+S	thou
+U	when
+S	thine
+U	call
+S	mayst
+U	thou
+@
+US	increase
+S	and
+SU	beauty
+SU	wisdom
+U	lives
+US	herein
+@
+US	decay
+S	cold
+U	and
+S	age
+SU	folly
+U	this
+US	without
+@
+S	cease
+U	should
+S	times
+U	the
+S	so
+SU	minded
+U	were
+S	all
+U	if
+@
+S	away
+U	world
+S	the
+U	make
+S	would
+U	year
+US	threescore
+S	and
+@
+S	store
+U	for
+S	made
+U	not
+S	hath
+SU	nature
+U	whom
+S	those
+U	let
+@
+US	perish
+SUS	barrenly
+U	rude
+S	and
+USU	featureless
+S	harsh
+@
+S	more
+U	thee
+S	gave
+U	she
+US	endowed
+S	best
+U	she
+S	whom
+U	look
+@
+US	cherish
+US	bounty
+S	in
+U	shouldst
+S	thou
+U	gift
+US	bounteous
+S	which
+@
+US	thereby
+S	meant
+U	and
+S	seal
+U	her
+S	for
+U	thee
+S	carved
+U	she
+@
+S	die
+U	copy
+S	that
+U	let
+S	not
+U	more
+S	print
+U	shouldst
+S	thou
+@
+S	time
+U	the
+S	tells
+U	that
+S	clock
+U	the
+S	count
+U	do
+S	i
+U	when
+@
+S	night
+U	hideous
+S	in
+U	sunk
+S	day
+U	brave
+S	the
+U	see
+S	and
+@
+S	prime
+U	past
+SUS	violet
+U	the
+US	behold
+S	i
+U	when
+@
+S	white
+U	with
+S	o'er
+SU	silvered
+U	all
+S	curls
+U	sable
+S	and
+@
+S	leaves
+U	of
+US	barren
+S	see
+U	i
+S	trees
+U	lofty
+S	when
+@
+S	herd
+U	the
+S	canopy
+U	did
+S	heat
+U	from
+S	erst
+U	which
+@
+S	sheaves
+U	in
+S	up
+SU	girded
+U	all
+S	green
+SU	summer's
+U	and
+@
+S	beard
+U	bristly
+S	and
+U	white
+S	with
+U	bier
+S	the
+U	on
+S	borne
+@
+S	make
+SU	question
+U	i
+S	do
+SU	beauty
+U	thy
+S	of
+U	then
+@
+S	go
+U	must
+S	time
+U	of
+S	wastes
+U	the
+S	among
+U	thou
+S	that
+@
+US	forsake
+US	themselves
+S	do
+SU	beauties
+U	and
+S	sweets
+U	since
+@
+S	grow
+SU	others
+U	see
+S	they
+U	as
+S	fast
+U	as
+S	die
+U	and
+@
+US	defence
+S	make
+U	can
+S	scythe
+U	time's
+S	gainst
+SU	nothing
+U	and
+@
+S	hence
+U	thee
+S	takes
+U	he
+S	when
+U	him
+S	brave
+U	to
+S	breed
+U	save
+@
+S	are
+U	you
+S	love
+U	but
+S	self
+U	your
+S	were
+U	you
+S	that
+U	o
+@
+S	live
+U	here
+S	self
+U	your
+S	you
+U	than
+S	yours
+U	longer
+S	no
+@
+US	prepare
+S	should
+U	you
+S	end
+SU	coming
+U	this
+S	against
+@
+S	give
+SU	other
+U	some
+S	to
+SU	semblance
+U	sweet
+S	your
+U	and
+@
+S	lease
+U	in
+S	hold
+U	you
+S	which
+SU	beauty
+U	that
+S	should
+U	so
+@
+S	were
+U	you
+S	then
+USUSU	determination
+S	no
+U	find
+@
+US	decease
+US	self's
+S	your
+SU	after
+U	again
+S	self
+U	your
+@
+S	bear
+U	should
+S	form
+U	sweet
+S	your
+SU	issue
+U	sweet
+S	your
+U	when
+@
+US	decay
+S	to
+U	fall
+S	house
+U	a
+S	fair
+U	so
+S	lets
+U	who
+@
+US	uphold
+S	might
+USU	honour
+S	in
+SU	husbandry
+U	which
+@
+S	day
+SU	winter's
+U	of
+S	gusts
+U	stormy
+S	the
+U	against
+@
+S	cold
+SU	eternal
+U	death's
+S	of
+U	rage
+US	barren
+S	and
+@
+S	know
+U	you
+S	love
+U	my
+S	dear
+SU	unthrifts
+U	but
+S	none
+U	o
+@
+S	so
+U	say
+S	son
+U	your
+S	let
+SU	father
+U	a
+S	had
+U	you
+@
+S	pluck
+SU	judgement
+U	my
+S	i
+U	do
+S	stars
+U	the
+S	from
+U	not
+@
+USUS	astronomy
+S	have
+U	i
+US	methinks
+S	yet
+U	and
+@
+S	luck
+U	evil
+S	or
+U	good
+S	of
+U	tell
+S	to
+U	not
+S	but
+@
+SUS	quality
+USU	seasons
+S	or
+U	dearths
+S	of
+U	plagues
+S	of
+@
+S	tell
+SU	minutes
+U	brief
+S	to
+SU	fortune
+U	i
+S	can
+U	nor
+@
+S	wind
+U	and
+S	rain
+SU	thunder
+U	his
+S	each
+U	to
+US	pointing
+@
+S	well
+U	go
+S	shall
+U	it
+S	if
+U	princes
+S	with
+U	say
+S	or
+@
+S	find
+SU	heaven
+U	in
+S	i
+U	that
+US	predict
+S	oft
+U	by
+@
+US	derive
+S	i
+SU	knowledge
+U	my
+S	eyes
+U	thine
+S	from
+U	but
+@
+S	art
+U	such
+S	read
+U	i
+S	them
+U	in
+S	stars
+SU	constant
+U	and
+@
+S	thrive
+USU	together
+S	shall
+SU	beauty
+U	and
+S	truth
+U	as
+@
+US	convert
+S	wouldst
+U	thou
+S	store
+U	to
+S	self
+U	thy
+S	from
+U	if
+@
+USUS	prognosticate
+S	i
+U	this
+S	thee
+U	of
+S	else
+U	or
+@
+S	date
+U	and
+S	doom
+SU	beauty's
+U	and
+S	truth's
+U	is
+S	end
+U	thy
+@
+S	grows
+U	that
+S	thing
+U	every
+SUS	consider
+U	i
+S	when
+@
+US	moment
+US	little
+S	a
+U	but
+SUS	perfection
+U	in
+S	holds
+@
+S	shows
+U	but
+S	nought
+USU	presenteth
+S	stage
+U	huge
+S	this
+U	that
+@
+US	comment
+SUS	influence
+SU	secret
+U	in
+S	stars
+U	the
+US	whereon
+@
+US	increase
+S	plants
+U	as
+S	men
+U	that
+US	perceive
+S	i
+U	when
+@
+S	sky
+SU	self-same
+U	the
+S	by
+U	even
+S	checked
+U	and
+S	cheered
+@
+US	decrease
+S	height
+U	at
+S	sap
+SU	youthful
+U	their
+S	in
+U	vaunt
+@
+SUS	memory
+U	of
+S	out
+U	state
+S	brave
+U	their
+S	wear
+U	and
+@
+S	stay
+USU	inconstant
+S	this
+U	of
+US	conceit
+S	the
+U	then
+@
+S	sight
+U	my
+US	before
+S	youth
+U	in
+S	rich
+U	most
+S	you
+U	sets
+@
+US	decay
+S	with
+SU	debateth
+U	time
+US	wasteful
+S	where
+@
+S	night
+SU	sullied
+U	to
+S	youth
+U	of
+S	day
+U	your
+S	change
+U	to
+@
+S	you
+U	of
+S	love
+U	for
+S	time
+U	with
+S	war
+U	in
+S	all
+U	and
+@
+S	new
+U	you
+US	engraft
+S	i
+U	you
+S	from
+U	takes
+S	he
+U	as
+@
+S	way
+USU	mightier
+S	a
+U	you
+S	not
+U	do
+US	wherefore
+S	but
+@
+S	time
+U	tyrant
+S	bloody
+U	this
+S	upon
+U	war
+S	make
+@
+US	decay
+S	your
+U	in
+S	self
+U	your
+SUS	fortify
+U	and
+@
+S	rhyme
+SU	barren
+U	my
+S	than
+U	blessed
+S	more
+U	means
+S	with
+@
+S	hours
+SU	happy
+U	of
+S	top
+U	the
+S	on
+U	you
+S	stand
+U	now
+@
+US	unset
+S	yet
+SU	gardens
+SU	maiden
+U	many
+S	and
+@
+US	flowers
+US	living
+S	you
+U	bear
+S	would
+U	wish
+SUS	virtuous
+U	with
+@
+SUS	counterfeit
+SU	painted
+U	your
+S	than
+SU	liker
+U	much
+@
+US	repair
+S	life
+U	that
+S	life
+U	of
+S	lines
+U	the
+S	should
+U	so
+@
+S	pen
+U	pupil
+S	my
+U	or
+US	pencil
+S	time's
+U	this
+S	which
+@
+S	fair
+SU	outward
+U	nor
+S	worth
+SU	inward
+U	in
+US	neither
+@
+S	men
+U	of
+S	eyes
+U	in
+S	self
+U	your
+S	live
+U	you
+S	make
+U	can
+@
+S	still
+U	self
+S	your
+U	keeps
+S	self
+U	your
+S	away
+U	give
+S	to
+@
+S	skill
+U	sweet
+S	own
+U	your
+S	by
+U	drawn
+S	live
+U	must
+S	you
+U	and
+@
+S	come
+U	to
+S	time
+U	in
+S	verse
+U	my
+US	believe
+S	will
+U	who
+@
+S	deserts
+U	high
+S	most
+U	your
+S	with
+U	filled
+S	were
+U	it
+S	if
+@
+S	tomb
+U	a
+S	as
+U	but
+S	is
+U	it
+S	knows
+SU	heaven
+U	yet
+S	though
+@
+S	parts
+U	your
+S	half
+U	not
+S	shows
+U	and
+S	life
+U	your
+S	hides
+U	which
+@
+S	eyes
+U	your
+S	of
+SU	beauty
+U	the
+S	write
+U	could
+S	i
+U	if
+@
+S	graces
+U	your
+S	all
+SU	number
+SU	numbers
+U	fresh
+S	in
+U	and
+@
+S	lies
+U	poet
+S	this
+U	say
+S	would
+U	come
+S	to
+U	age
+S	the
+@
+S	faces
+SU	earthly
+U	touched
+S	ne'er
+SU	touches
+USU	heavenly
+S	such
+@
+S	age
+U	their
+S	with
+SU	yellowed
+SU	papers
+U	my
+S	should
+U	so
+@
+S	tongue
+U	than
+S	truth
+U	less
+S	of
+U	men
+S	old
+U	like
+S	scorned
+U	be
+@
+S	rage
+USU	poet's
+S	a
+U	termed
+S	be
+U	rights
+S	true
+U	your
+S	and
+@
+S	song
+SU	antique
+U	an
+S	of
+SU	metre
+U	stretched
+S	and
+@
+S	time
+U	that
+S	alive
+U	yours
+S	of
+U	child
+S	some
+U	were
+S	but
+@
+S	rhyme
+U	my
+S	in
+U	and
+S	it
+U	in
+S	twice
+U	live
+S	should
+U	you
+@
+S	day
+SU	summer's
+U	a
+S	to
+U	thee
+US	compare
+S	i
+U	shall
+@
+SUS	temperate
+U	more
+S	and
+SU	lovely
+U	more
+S	art
+U	thou
+@
+S	may
+U	of
+S	buds
+SU	darling
+U	the
+S	shake
+U	do
+S	winds
+U	rough
+@
+S	date
+U	a
+S	short
+U	too
+S	all
+U	hath
+S	lease
+SU	summer's
+U	and
+@
+S	shines
+SU	heaven
+U	of
+S	eye
+U	the
+S	hot
+U	too
+US	sometime
+@
+S	dimmed
+USU	complexion
+S	gold
+U	his
+S	is
+SU	often
+U	and
+@
+US	declines
+US	sometime
+S	fair
+U	from
+S	fair
+U	every
+S	and
+@
+S	untrimmed
+U	course
+US	changing
+US	nature's
+S	or
+U	chance
+S	by
+@
+S	fade
+U	not
+S	shall
+SU	summer
+SU	eternal
+U	thy
+S	but
+@
+S	ow'st
+U	thou
+S	fair
+U	that
+S	of
+USU	possession
+S	lose
+U	nor
+@
+S	shade
+U	his
+S	in
+U	wand'rest
+S	thou
+U	brag
+S	death
+U	shall
+S	nor
+@
+S	grow'st
+U	thou
+S	time
+U	to
+S	lines
+SU	eternal
+U	in
+S	when
+@
+S	see
+U	can
+S	eyes
+U	or
+S	breathe
+U	can
+S	men
+U	as
+S	long
+U	so
+@
+S	thee
+U	to
+S	life
+U	gives
+S	this
+U	and
+S	this
+U	lives
+S	long
+U	so
+@
+S	paws
+SU	lion's
+U	the
+S	thou
+U	blunt
+S	time
+USU	devouring
+@
+S	brood
+U	sweet
+S	own
+U	her
+US	devour
+S	earth
+U	the
+S	make
+U	and
+@
+S	jaws
+U	tiger's
+S	fierce
+U	the
+S	from
+U	teeth
+S	keen
+U	the
+S	pluck
+@
+S	blood
+U	her
+S	in
+U	phoenix
+S	long-lived
+U	the
+S	burn
+U	and
+@
+S	fleet'st
+U	thou
+S	as
+SU	seasons
+SU	sorry
+U	and
+S	glad
+U	make
+@
+S	time
+USU	swift-footed
+S	wilt
+U	thou
+S	whate'er
+U	do
+S	and
+@
+S	sweets
+SU	fading
+U	her
+S	all
+U	and
+S	world
+U	wide
+S	the
+U	to
+@
+S	crime
+U	heinous
+S	most
+U	one
+S	thee
+SU	forbid
+U	i
+S	but
+@
+S	brow
+U	fair
+S	love's
+U	my
+S	hours
+U	thy
+S	with
+U	not
+S	carve
+U	o
+@
+S	pen
+SU	antique
+U	thine
+S	with
+U	there
+S	lines
+U	no
+S	draw
+U	nor
+@
+US	allow
+S	do
+USU	untainted
+S	course
+U	thy
+S	in
+U	him
+@
+S	men
+USU	succeeding
+S	to
+SU	pattern
+SU	beauty's
+U	for
+@
+S	wrong
+U	thy
+US	despite
+S	time
+U	old
+S	worst
+U	thy
+S	do
+U	yet
+@
+S	young
+U	live
+S	ever
+U	verse
+S	my
+U	in
+S	shall
+U	love
+S	my
+@
+US	painted
+S	hand
+U	own
+US	nature's
+S	with
+U	face
+US	woman's
+S	a
+@
+US	passion
+S	my
+U	of
+US	mistress
+US	master
+S	the
+U	thou
+S	hast
+@
+SUS	acquainted
+U	not
+S	but
+U	heart
+US	gentle
+US	woman's
+S	a
+@
+US	fashion
+US	women's
+S	false
+U	is
+S	as
+U	change
+US	shifting
+S	with
+@
+S	rolling
+U	in
+S	false
+U	less
+S	theirs
+U	than
+S	bright
+U	more
+S	eye
+U	an
+@
+S	gazeth
+U	it
+US	whereupon
+US	object
+S	the
+SU	gilding
+@
+SUS	controlling
+U	his
+S	in
+U	hues
+S	all
+U	hue
+S	in
+U	man
+S	a
+@
+S	amazeth
+U	souls
+US	women's
+S	and
+U	eyes
+S	men's
+U	steals
+S	which
+@
+SUS	created
+U	first
+S	thou
+U	wert
+S	woman
+U	a
+S	for
+U	and
+@
+SUS	a-doting
+U	fell
+S	thee
+U	wrought
+S	she
+U	as
+US	nature
+S	till
+@
+SUS	defeated
+U	thee
+S	of
+U	me
+SUS	addition
+U	by
+S	and
+@
+US	nothing
+US	purpose
+S	my
+U	to
+S	thing
+U	one
+S	adding
+U	by
+@
+US	pleasure
+US	women's
+S	for
+U	out
+S	thee
+U	pricked
+S	she
+U	since
+S	but
+@
+US	treasure
+S	their
+U	use
+S	love's
+U	thy
+S	and
+U	love
+S	thy
+U	be
+S	mine
+@
+S	muse
+U	that
+S	with
+U	as
+S	me
+U	with
+S	not
+U	it
+S	is
+U	so
+@
+S	verse
+U	his
+S	to
+SU	beauty
+SU	painted
+U	a
+S	by
+U	stirred
+@
+S	use
+U	doth
+SUS	ornament
+U	for
+S	self
+U	it
+US	heaven
+S	who
+@
+US	rehearse
+S	doth
+U	fair
+S	his
+U	with
+S	fair
+U	every
+S	and
+@
+US	compare
+S	proud
+U	of
+SUS	couplement
+U	a
+US	making
+@
+S	gems
+U	rich
+S	sea's
+U	and
+S	earth
+U	with
+S	moon
+U	and
+S	sun
+U	with
+@
+S	rare
+U	things
+S	all
+U	and
+US	flowers
+S	first-born
+U	april's
+S	with
+@
+S	hems
+SU	rondure
+U	huge
+S	this
+U	in
+S	air
+SU	heaven's
+U	that
+@
+S	write
+SU	truly
+U	but
+S	love
+U	in
+S	true
+U	me
+S	let
+U	o
+@
+S	fair
+U	as
+S	is
+U	love
+S	my
+U	me
+US	believe
+S	then
+U	and
+@
+S	bright
+U	so
+S	not
+U	though
+S	child
+SU	mother's
+U	any
+S	as
+@
+S	air
+SU	heaven's
+U	in
+S	fixed
+SU	candles
+U	gold
+S	those
+U	as
+@
+S	well
+U	hearsay
+S	of
+U	like
+S	that
+U	more
+S	say
+U	them
+S	let
+@
+S	sell
+U	to
+S	not
+SU	purpose
+U	that
+S	praise
+U	not
+S	will
+U	i
+@
+S	old
+U	am
+S	i
+U	me
+US	persuade
+S	not
+U	shall
+S	glass
+U	my
+@
+S	date
+U	one
+S	of
+U	are
+S	thou
+U	and
+S	youth
+U	as
+S	long
+U	so
+@
+US	behold
+S	i
+SU	furrows
+U	time's
+S	thee
+U	in
+S	when
+U	but
+@
+SUS	expiate
+U	should
+S	days
+U	my
+S	death
+U	i
+S	look
+U	then
+@
+S	thee
+SU	cover
+U	doth
+S	that
+SU	beauty
+U	that
+S	all
+U	for
+@
+S	heart
+U	my
+S	of
+SU	raiment
+SU	seemly
+U	the
+S	but
+U	is
+@
+S	me
+U	in
+S	thine
+U	as
+S	live
+U	doth
+S	breast
+U	thy
+S	in
+U	which
+@
+S	art
+U	thou
+S	than
+SU	elder
+U	be
+S	then
+U	i
+S	can
+U	how
+@
+S	wary
+U	so
+US	thyself
+S	of
+U	be
+S	love
+SU	therefore
+U	o
+@
+S	will
+U	thee
+S	for
+U	but
+S	self
+U	my
+S	for
+U	not
+S	i
+U	as
+@
+S	chary
+U	so
+S	keep
+U	will
+S	i
+U	which
+S	heart
+U	thy
+US	bearing
+@
+S	ill
+SU	faring
+U	from
+S	babe
+U	her
+S	nurse
+SU	tender
+U	as
+@
+S	slain
+U	is
+S	mine
+U	when
+S	heart
+U	thy
+S	on
+U	not
+US	presume
+@
+S	again
+U	back
+S	give
+U	to
+S	not
+U	thine
+S	me
+U	gav'st
+S	thou
+@
+S	stage
+U	the
+S	on
+SU	actor
+USU	unperfect
+S	an
+U	as
+@
+S	part
+U	his
+US	beside
+S	put
+U	is
+S	fear
+U	his
+S	with
+U	who
+@
+S	rage
+U	much
+S	too
+U	with
+US	replete
+S	thing
+U	fierce
+S	some
+U	or
+@
+S	heart
+U	own
+S	his
+SU	weakens
+SU	abundance
+SU	strength's
+U	whose
+@
+S	say
+U	to
+US	forget
+S	trust
+U	of
+S	fear
+U	for
+S	i
+U	so
+@
+S	rite
+U	love's
+S	of
+SUSU	ceremony
+SU	perfect
+U	the
+@
+US	decay
+S	to
+U	seem
+S	strength
+U	love's
+S	own
+U	mine
+S	in
+U	and
+@
+S	might
+U	love's
+S	own
+U	mine
+S	of
+SU	burthen
+U	with
+US	o'ercharged
+@
+US	eloquence
+S	the
+U	then
+S	be
+U	looks
+S	my
+U	let
+S	o
+@
+S	breast
+SU	speaking
+U	my
+S	of
+SU	presagers
+U	dumb
+S	and
+@
+SUS	recompense
+U	for
+S	look
+U	and
+S	love
+U	for
+S	plead
+U	who
+@
+US	expressed
+S	more
+U	hath
+S	more
+U	that
+S	tongue
+U	that
+S	than
+U	more
+@
+S	writ
+U	hath
+S	love
+U	silent
+S	what
+U	read
+S	to
+U	learn
+S	o
+@
+S	wit
+U	fine
+S	love's
+U	to
+US	belongs
+S	eyes
+U	with
+S	hear
+U	to
+@
+S	stelled
+U	hath
+S	and
+U	painter
+S	the
+U	played
+S	hath
+U	eye
+S	mine
+@
+S	heart
+U	my
+S	of
+SU	table
+U	in
+S	form
+SU	beauty's
+U	thy
+@
+S	held
+U	tis
+US	wherein
+S	frame
+U	the
+S	is
+U	body
+S	my
+@
+S	art
+U	painter's
+S	best
+U	is
+S	it
+USU	perspective
+S	and
+@
+S	skill
+U	his
+S	see
+U	you
+S	must
+U	painter
+S	the
+U	through
+S	for
+@
+S	lies
+SU	pictured
+SU	image
+U	true
+S	your
+U	where
+S	find
+U	to
+@
+S	still
+SU	hanging
+U	is
+S	shop
+SU	bosom's
+U	my
+S	in
+U	which
+@
+S	eyes
+U	thine
+S	with
+U	glazed
+US	windows
+S	his
+U	hath
+S	that
+@
+S	done
+U	have
+S	eyes
+U	for
+S	eyes
+U	turns
+S	good
+U	what
+S	see
+U	now
+@
+S	me
+U	for
+S	thine
+U	and
+S	shape
+U	thy
+S	drawn
+U	have
+S	eyes
+U	mine
+@
+S	sun
+U	the
+S	where-through
+U	breast
+S	my
+U	to
+US	windows
+S	are
+@
+S	thee
+U	on
+US	therein
+S	gaze
+U	to
+S	peep
+U	to
+US	delights
+@
+S	art
+U	their
+S	grace
+U	to
+S	want
+SU	cunning
+U	this
+S	eyes
+U	yet
+@
+S	heart
+U	the
+S	not
+U	know
+S	see
+U	they
+S	what
+U	but
+S	draw
+U	they
+@
+S	stars
+U	their
+S	with
+U	favour
+S	in
+U	are
+S	who
+U	those
+S	let
+@
+S	boast
+SU	titles
+U	proud
+S	and
+USU	honour
+US	public
+S	of
+@
+S	bars
+SU	triumph
+U	such
+S	of
+SU	fortune
+U	whom
+S	i
+U	whilst
+@
+S	most
+USU	honour
+S	i
+U	that
+S	in
+U	joy
+S	for
+SU	unlooked
+@
+S	spread
+U	leaves
+S	fair
+U	their
+S	favourites
+U	princes
+S	great
+@
+S	eye
+U	sun's
+S	the
+U	at
+S	marigold
+U	the
+S	as
+U	but
+@
+S	buried
+U	lies
+S	pride
+U	their
+US	themselves
+S	in
+U	and
+@
+S	die
+SU	glory
+U	their
+S	in
+U	they
+S	frown
+U	a
+S	at
+U	for
+@
+S	fight
+U	for
+US	famoused
+US	warrior
+S	painful
+U	the
+@
+S	foiled
+U	once
+SUS	victories
+SU	thousand
+U	a
+US	after
+@
+S	quite
+U	razed
+SUS	honour
+U	of
+S	book
+U	the
+S	from
+U	is
+@
+S	toiled
+U	he
+S	which
+U	for
+US	forgot
+S	rest
+U	the
+S	all
+U	and
+@
+S	beloved
+U	am
+S	and
+U	love
+S	that
+U	i
+US	happy
+S	then
+@
+US	removed
+S	be
+U	nor
+US	remove
+S	not
+U	may
+S	i
+U	where
+@
+US	vassalage
+S	in
+U	whom
+S	to
+U	love
+S	my
+U	of
+S	lord
+@
+S	knit
+SU	strongly
+U	duty
+S	my
+U	hath
+US	merit
+S	thy
+@
+SUS	embassage
+SU	written
+U	this
+S	send
+U	i
+S	thee
+U	to
+@
+S	wit
+U	my
+S	show
+U	to
+S	not
+U	duty
+US	witness
+S	to
+@
+S	mine
+U	as
+S	poor
+U	so
+S	wit
+U	which
+S	great
+U	so
+S	duty
+@
+S	it
+U	show
+S	to
+U	words
+SUS	wanting
+U	in
+S	bare
+U	seem
+S	make
+U	may
+@
+S	thine
+U	of
+US	conceit
+S	good
+U	some
+S	hope
+U	i
+S	that
+U	but
+@
+S	it
+SU	bestow
+U	will
+S	naked
+U	all
+S	thought
+U	soul's
+S	thy
+U	in
+@
+US	moving
+S	my
+U	guides
+S	that
+U	star
+USUS	whatsoever
+S	till
+@
+US	aspect
+S	fair
+U	with
+SUS	graciously
+U	me
+S	on
+U	points
+@
+US	loving
+US	tattered
+S	my
+U	on
+SUS	apparel
+U	puts
+S	and
+@
+US	respect
+S	sweet
+U	thy
+S	of
+SU	worthy
+U	me
+S	show
+U	to
+@
+S	thee
+U	love
+S	do
+U	i
+S	how
+U	boast
+S	to
+U	dare
+S	i
+U	may
+S	then
+@
+S	me
+U	prove
+S	mayst
+U	thou
+S	where
+U	head
+S	my
+U	show
+S	not
+U	then
+S	till
+@
+S	bed
+U	my
+S	to
+U	me
+S	haste
+U	i
+S	toil
+U	with
+S	weary
+@
+S	tired
+SU	travel
+U	with
+S	limbs
+U	for
+US	respose
+S	dear
+U	the
+@
+S	head
+U	my
+S	in
+SU	journey
+U	a
+US	begins
+S	then
+U	but
+@
+US	expired
+S	work's
+U	body's
+S	when
+U	mind
+S	my
+U	work
+S	to
+@
+S	abide
+U	i
+S	where
+U	far
+S	from
+U	thoughts
+S	my
+U	then
+S	for
+@
+S	thee
+U	to
+SUS	pilgrimage
+SU	zealous
+U	a
+US	intend
+@
+S	wide
+U	open
+US	eyelids
+US	drooping
+S	my
+U	keep
+S	and
+@
+S	see
+U	do
+S	blind
+U	the
+S	which
+SU	darkness
+U	on
+US	looking
+@
+S	sight
+USU	imaginary
+S	soul's
+U	my
+S	that
+U	save
+@
+S	view
+SU	sightless
+U	my
+S	to
+SU	shadow
+U	thy
+S	presents
+@
+S	night
+SU	ghastly
+U	in
+S	hung
+SU	jewel
+U	a
+S	like
+U	which
+@
+S	new
+U	face
+S	old
+U	her
+S	and
+SU	beauteous
+U	night
+S	black
+U	makes
+@
+S	mind
+U	my
+S	night
+U	by
+S	limbs
+U	my
+S	day
+U	by
+S	thus
+U	lo
+@
+S	find
+SU	quiet
+U	no
+S	self
+U	my
+S	for
+U	and
+S	thee
+U	for
+@
+S	plight
+SU	happy
+U	in
+US	return
+S	then
+U	i
+S	can
+U	how
+@
+S	rest
+U	of
+SUS	benefit
+U	the
+US	debarred
+S	am
+U	that
+@
+S	night
+U	by
+S	eased
+U	not
+S	is
+USU	oppression
+S	day's
+U	when
+@
+US	oppressed
+S	day
+U	by
+S	night
+U	and
+S	night
+U	by
+S	day
+U	but
+@
+S	reign
+SU	either's
+U	to
+SUS	enemies
+U	though
+S	each
+U	and
+@
+S	me
+SU	torture
+U	to
+S	hands
+U	shake
+US	consent
+S	in
+U	do
+@
+US	complain
+S	to
+SU	other
+U	the
+S	toil
+U	by
+S	one
+U	the
+@
+S	thee
+U	from
+S	off
+SU	farther
+U	still
+S	toil
+U	i
+S	far
+U	how
+@
+S	bright
+U	art
+S	thou
+U	him
+S	please
+U	to
+S	day
+U	the
+S	tell
+U	i
+@
+US	heaven
+S	the
+U	blot
+S	do
+U	clouds
+S	when
+U	grace
+S	him
+U	dost
+S	and
+@
+S	night
+SUSU	swart-complexioned
+U	the
+S	i
+SU	flatter
+U	so
+@
+S	even
+U	the
+S	gild'st
+U	thou
+S	not
+U	twire
+S	stars
+U	sparkling
+S	when
+@
+S	longer
+SU	sorrows
+U	my
+S	draw
+SU	daily
+U	doth
+S	day
+U	but
+@
+S	stronger
+U	seem
+S	length
+U	grief's
+S	make
+SU	nightly
+U	doth
+S	night
+U	and
+@
+S	eyes
+U	men's
+S	and
+SU	fortune
+U	with
+US	disgrace
+S	in
+U	when
+@
+S	state
+SU	outcast
+U	my
+US	beweep
+S	alone
+U	all
+S	i
+@
+S	cries
+SU	bootless
+U	my
+S	with
+SU	heaven
+U	deaf
+US	trouble
+S	and
+@
+S	fate
+U	my
+S	curse
+U	and
+S	self
+U	my
+S	upon
+U	look
+S	and
+@
+S	hope
+U	in
+S	rich
+U	more
+S	one
+U	to
+S	like
+U	me
+US	wishing
+@
+US	possessed
+S	friends
+U	with
+S	him
+U	like
+S	him
+U	like
+US	featured
+@
+S	scope
+U	man's
+S	that
+U	and
+S	art
+U	man's
+S	this
+USU	desiring
+@
+S	least
+USU	contented
+US	enjoy
+S	most
+U	i
+S	what
+U	with
+@
+SUS	despising
+SU	almost
+U	self
+S	my
+U	thoughts
+S	these
+U	in
+S	yet
+@
+S	state
+U	my
+S	then
+U	and
+S	thee
+U	on
+S	think
+U	i
+US	haply
+@
+US	arising
+S	day
+U	of
+S	break
+U	at
+S	lark
+U	the
+S	to
+U	like
+@
+S	gate
+SU	heaven's
+U	at
+S	hymns
+U	sings
+S	earth
+U	sullen
+S	from
+@
+S	brings
+U	wealth
+S	such
+USU	remembered
+S	love
+U	sweet
+S	thy
+U	for
+@
+S	kings
+U	with
+S	state
+U	my
+S	change
+U	to
+S	scorn
+U	i
+S	then
+U	that
+@
+S	thought
+U	silent
+S	sweet
+U	of
+US	sessions
+S	the
+U	to
+S	when
+@
+S	past
+U	things
+S	of
+USU	remembrance
+S	up
+SU	summon
+U	i
+@
+S	sought
+U	i
+S	thing
+U	a
+S	many
+U	of
+S	lack
+U	the
+S	sigh
+U	i
+@
+S	waste
+U	time's
+S	dear
+U	my
+S	wail
+U	new
+S	woes
+U	old
+S	with
+U	and
+@
+S	flow
+U	to
+US	unused
+S	eye
+U	an
+S	drown
+U	i
+S	can
+U	then
+@
+S	night
+SU	dateless
+U	death's
+S	in
+U	hid
+S	friends
+SU	precious
+U	for
+@
+S	woe
+SU	cancelled
+U	since
+S	long
+U	love's
+S	afresh
+U	weep
+S	and
+@
+S	sight
+SU	vanished
+U	a
+S	many
+U	of
+US	expense
+S	th
+U	moan
+S	and
+@
+US	foregone
+US	grievances
+S	at
+U	grieve
+S	i
+U	can
+S	then
+@
+S	o'er
+U	tell
+S	woe
+U	to
+S	woe
+U	from
+SUS	heavily
+U	and
+@
+S	moan
+SU	fore-bemoaned
+U	of
+US	account
+S	sad
+U	the
+@
+US	before
+S	paid
+U	not
+S	if
+U	as
+S	pay
+U	new
+S	i
+U	which
+@
+S	friend
+U	dear
+S	thee
+U	on
+S	think
+U	i
+S	while
+U	the
+S	if
+U	but
+@
+S	end
+SU	sorrows
+U	and
+US	restored
+S	are
+SU	losses
+U	all
+@
+S	hearts
+U	all
+S	with
+SU	endeared
+U	is
+US	bosom
+S	thy
+@
+S	dead
+SU	supposed
+U	have
+US	lacking
+S	by
+U	i
+S	which
+@
+S	parts
+SU	loving
+U	love's
+S	all
+U	and
+S	love
+U	reigns
+S	there
+U	and
+@
+S	buried
+U	thought
+S	i
+U	which
+S	friends
+U	those
+S	all
+U	and
+@
+S	tear
+USU	obsequious
+S	and
+U	holy
+S	a
+U	many
+S	how
+@
+S	eye
+U	mine
+S	from
+U	stol'n
+S	love
+USU	religious
+S	dear
+U	hath
+@
+US	appear
+S	now
+U	which
+S	dead
+U	the
+S	of
+USU	interest
+S	as
+@
+S	lie
+U	thee
+S	in
+SU	hidden
+U	that
+US	removed
+S	things
+U	but
+@
+S	live
+U	doth
+S	love
+U	buried
+S	where
+U	grave
+S	the
+U	art
+S	thou
+@
+S	gone
+U	lovers
+S	my
+U	of
+US	trophies
+S	the
+U	with
+S	hung
+@
+S	give
+U	did
+S	thee
+U	to
+S	me
+U	of
+S	parts
+U	their
+S	all
+U	who
+@
+S	alone
+U	thine
+S	is
+U	now
+S	many
+U	of
+S	due
+U	that
+@
+S	thee
+U	in
+S	view
+U	i
+S	loved
+U	i
+US	images
+S	their
+@
+S	me
+U	of
+S	all
+U	the
+S	all
+U	hast
+S	they
+U	all
+S	thou
+U	and
+@
+S	day
+SUSU	well-contented
+U	my
+US	survive
+S	thou
+U	if
+@
+US	cover
+S	shall
+U	dust
+S	with
+U	bones
+S	my
+U	death
+S	churl
+U	that
+S	when
+@
+SUS	re-survey
+U	more
+S	once
+SU	fortune
+U	by
+S	shalt
+U	and
+@
+S	lover
+SU	deceased
+U	thy
+S	of
+U	lines
+S	rude
+U	poor
+S	these
+@
+S	time
+U	the
+S	of
+SU	bett'ring
+U	the
+S	with
+U	them
+US	compare
+@
+S	pen
+U	every
+S	by
+SU	outstripped
+U	be
+S	they
+U	though
+S	and
+@
+S	rhyme
+U	their
+S	for
+U	not
+S	love
+U	my
+S	for
+U	them
+US	reserve
+@
+S	men
+USU	happier
+S	of
+U	height
+S	the
+U	by
+SUS	exceeded
+@
+S	thought
+SU	loving
+U	this
+S	but
+U	me
+US	vouchsafe
+S	then
+U	o
+@
+S	age
+SU	growing
+U	this
+S	with
+U	grown
+S	muse
+U	friend's
+S	my
+U	had
+@
+S	brought
+U	had
+S	love
+U	his
+S	this
+U	than
+S	birth
+SU	dearer
+U	a
+@
+S	equipage
+SU	better
+U	of
+S	ranks
+U	in
+S	march
+U	to
+@
+S	prove
+SU	better
+SU	poets
+U	and
+S	died
+U	he
+S	since
+U	but
+@
+S	love
+U	his
+S	for
+U	his
+S	read
+U	i'll
+S	style
+U	their
+S	for
+U	theirs
+@
+S	seen
+U	i
+S	have
+SU	morning
+USU	glorious
+S	a
+U	many
+S	full
+@
+S	eye
+USU	sovereign
+S	with
+U	tops
+US	mountain
+S	the
+SU	flatter
+@
+S	green
+SU	meadows
+U	the
+S	face
+SU	golden
+U	with
+US	kissing
+@
+US	alchemy
+SUS	heavenly
+U	with
+S	streams
+U	pale
+US	gilding
+@
+S	ride
+U	to
+S	clouds
+U	basest
+S	the
+SU	permit
+U	anon
+@
+S	face
+USU	celestial
+S	his
+U	on
+S	rack
+U	ugly
+S	with
+@
+S	hide
+SU	visage
+U	his
+S	world
+SU	forlorn
+U	the
+S	from
+U	and
+@
+US	disgrace
+S	this
+U	with
+S	west
+U	to
+US	unseen
+US	stealing
+@
+S	shine
+U	did
+S	morn
+SU	early
+U	one
+S	sun
+U	my
+S	so
+U	even
+@
+S	brow
+U	my
+S	on
+SU	splendour
+SU	triumphant
+U	all
+S	with
+@
+S	mine
+U	hour
+S	one
+U	but
+S	was
+U	he
+S	alack
+U	out
+S	but
+@
+S	now
+U	me
+S	from
+U	him
+S	masked
+U	hath
+S	cloud
+SU	region
+U	the
+@
+US	disdaineth
+S	whit
+U	no
+S	love
+U	my
+S	this
+U	for
+S	him
+U	yet
+@
+S	staineth
+U	sun
+US	heaven's
+S	when
+U	stain
+S	may
+U	world
+S	the
+U	of
+S	suns
+@
+S	day
+SU	beauteous
+U	a
+S	such
+U	promise
+S	thou
+U	didst
+S	why
+@
+S	cloak
+U	my
+US	without
+S	forth
+SU	travel
+U	me
+S	make
+U	and
+@
+S	way
+U	my
+S	in
+U	me
+US	o'ertake
+S	clouds
+U	base
+S	let
+U	to
+@
+S	smoke
+SU	rotten
+U	their
+S	in
+U	brav'ry
+S	thy
+SU	hiding
+@
+S	break
+U	thou
+S	cloud
+U	the
+S	through
+U	that
+S	enough
+U	not
+S	tis
+@
+S	face
+USU	storm-beaten
+S	my
+U	on
+S	rain
+U	the
+S	dry
+U	to
+@
+S	speak
+U	can
+S	salve
+U	a
+S	such
+U	of
+S	well
+U	man
+S	no
+U	for
+@
+US	disgrace
+S	the
+U	not
+S	cures
+U	and
+S	wound
+U	the
+S	heals
+U	that
+@
+S	grief
+U	my
+S	to
+U	physic
+S	give
+U	shame
+S	thy
+U	can
+S	nor
+@
+S	loss
+U	the
+S	still
+U	have
+S	i
+U	yet
+US	repent
+S	thou
+U	though
+@
+US	relief
+S	weak
+U	but
+S	lends
+SU	sorrow
+USU	offender's
+S	th
+@
+S	cross
+SU	offence's
+U	strong
+S	the
+U	bears
+S	that
+U	him
+S	to
+@
+S	sheds
+U	love
+S	thy
+U	which
+S	pearl
+U	are
+S	tears
+U	those
+S	but
+U	ah
+@
+S	deeds
+U	ill
+S	all
+SU	ransom
+U	and
+S	rich
+U	are
+S	they
+U	and
+@
+S	done
+U	hast
+S	thou
+U	which
+S	that
+U	at
+US	grieved
+S	be
+U	more
+S	no
+@
+S	mud
+SU	fountains
+SU	silver
+U	and
+S	thorns
+U	have
+US	roses
+@
+S	sun
+U	and
+S	moon
+U	both
+S	stain
+U	eclipses
+S	and
+U	clouds
+@
+S	bud
+SU	sweetest
+U	in
+S	lives
+U	canker
+US	loathsome
+S	and
+@
+S	this
+U	in
+S	i
+U	even
+S	and
+U	faults
+S	make
+U	men
+S	all
+@
+US	compare
+S	with
+SU	trespass
+U	thy
+USUS	authorizing
+@
+S	amiss
+U	thy
+US	salving
+SUS	corrupting
+U	self
+S	my
+@
+S	are
+U	sins
+S	thy
+U	than
+S	more
+U	sins
+S	thy
+USU	excusing
+@
+S	sense
+U	in
+S	bring
+U	i
+S	fault
+USU	sensual
+S	thy
+U	to
+S	for
+@
+SUS	advocate
+U	thy
+S	is
+SU	party
+SU	adverse
+U	thy
+@
+US	commence
+S	plea
+SU	lawful
+U	a
+S	self
+U	my
+S	gainst
+U	and
+@
+S	hate
+U	and
+S	love
+U	my
+S	in
+U	is
+S	war
+SU	civil
+U	such
+@
+S	be
+U	must
+S	needs
+USU	accessary
+S	an
+U	i
+S	that
+@
+S	me
+U	from
+S	robs
+U	sourly
+S	which
+U	thief
+S	sweet
+U	that
+S	to
+@
+S	twain
+U	be
+S	must
+U	two
+S	we
+U	that
+US	confess
+S	me
+U	let
+@
+S	one
+U	are
+S	loves
+SUSU	undivided
+U	our
+US	although
+@
+US	remain
+S	me
+U	with
+S	do
+U	that
+S	blots
+U	those
+S	shall
+U	so
+@
+S	alone
+U	borne
+S	be
+U	me
+S	by
+U	help
+S	thy
+SU	without
+@
+US	respect
+S	one
+U	but
+S	is
+U	there
+S	loves
+U	two
+S	our
+U	in
+@
+S	spite
+SUSU	separable
+U	a
+S	lives
+U	our
+S	in
+U	though
+@
+US	effect
+S	sole
+U	love's
+S	not
+SU	alter
+U	it
+S	though
+U	which
+@
+US	delight
+S	love's
+U	from
+S	hours
+U	sweet
+S	steal
+U	it
+S	doth
+U	yet
+@
+S	thee
+USU	acknowledge
+US	evermore
+S	not
+U	may
+S	i
+@
+S	shame
+U	thee
+S	do
+U	should
+S	guilt
+SU	bewailed
+U	my
+S	lest
+@
+S	me
+USU	honour
+US	kindness
+US	public
+S	with
+U	thou
+S	nor
+@
+S	name
+U	thy
+S	from
+USU	honour
+S	that
+U	take
+S	thou
+SU	unless
+@
+S	sort
+U	such
+S	in
+U	thee
+S	love
+U	i
+S	so
+U	not
+S	do
+U	but
+@
+US	report
+S	good
+U	thy
+S	is
+U	mine
+S	mine
+SU	being
+U	thou
+S	as
+@
+US	delight
+S	takes
+SU	father
+SU	decrepit
+U	a
+S	as
+@
+S	youth
+U	of
+S	deeds
+U	do
+S	child
+SU	active
+U	his
+S	see
+U	to
+@
+S	spite
+SU	dearest
+SU	fortune's
+U	by
+S	lame
+U	made
+S	i
+U	so
+@
+S	truth
+U	and
+S	worth
+U	thy
+S	of
+SU	comfort
+U	my
+S	all
+U	take
+@
+S	wit
+U	or
+S	wealth
+U	or
+S	birth
+SU	beauty
+U	whether
+S	for
+@
+S	more
+U	or
+S	all
+U	or
+S	all
+U	these
+S	of
+U	any
+S	or
+@
+S	sit
+U	crowned
+S	do
+U	parts
+S	thy
+U	in
+SUS	entitled
+@
+S	store
+U	this
+S	to
+USU	engrafted
+S	love
+U	my
+S	make
+U	i
+@
+US	despised
+S	nor
+U	poor
+S	lame
+U	not
+S	am
+U	i
+S	then
+U	so
+@
+S	give
+SU	substance
+U	such
+S	doth
+SU	shadow
+U	this
+S	that
+U	whilst
+@
+US	sufficed
+S	am
+SU	abundance
+U	thy
+S	in
+U	i
+S	that
+@
+S	live
+SU	glory
+U	thy
+S	all
+U	of
+S	part
+U	a
+S	by
+U	and
+@
+S	thee
+U	in
+S	wish
+U	i
+S	best
+U	that
+S	best
+U	is
+S	what
+U	look
+@
+S	me
+SU	happy
+U	times
+S	ten
+U	then
+S	have
+U	i
+S	wish
+U	this
+@
+US	invent
+S	to
+SU	subject
+U	want
+S	muse
+U	my
+S	can
+U	how
+@
+S	verse
+U	my
+S	into
+U	pour'st
+S	that
+U	breathe
+S	dost
+U	thou
+S	while
+@
+SUS	excellent
+U	too
+SUS	argument
+U	sweet
+S	own
+U	thine
+@
+US	rehearse
+S	to
+SU	paper
+SU	vulgar
+U	every
+S	for
+@
+S	me
+U	in
+S	aught
+U	if
+S	thanks
+U	the
+S	self
+U	thy
+S	give
+U	o
+@
+S	sight
+U	thy
+S	against
+U	stand
+US	perusal
+US	worthy
+@
+S	thee
+U	to
+S	write
+SU	cannot
+U	that
+S	dumb
+U	so
+S	who's
+U	for
+@
+S	light
+USU	invention
+S	give
+U	dost
+S	self
+U	thy
+S	thou
+U	when
+@
+S	worth
+U	in
+S	more
+U	times
+S	ten
+U	muse
+S	tenth
+U	the
+S	thou
+U	be
+@
+SUS	invocate
+U	rhymers
+S	which
+U	nine
+S	old
+U	those
+S	than
+@
+S	forth
+U	bring
+S	him
+U	let
+S	thee
+U	on
+S	calls
+U	that
+S	he
+U	and
+@
+S	date
+U	long
+US	outlive
+S	to
+SU	numbers
+SU	eternal
+@
+S	days
+USU	curious
+S	these
+U	please
+S	do
+U	muse
+S	slight
+U	my
+S	if
+@
+S	praise
+U	the
+S	be
+U	shall
+S	thine
+U	but
+S	mine
+U	be
+S	pain
+U	the
+@
+S	sing
+U	i
+S	may
+SU	manners
+U	with
+S	worth
+U	thy
+S	how
+U	o
+@
+S	me
+U	of
+S	part
+SU	better
+U	the
+S	all
+U	art
+S	thou
+U	when
+@
+S	bring
+U	self
+S	own
+U	mine
+S	to
+U	praise
+S	own
+U	mine
+S	can
+U	what
+@
+S	thee
+U	praise
+S	i
+U	when
+S	own
+U	mine
+S	but
+U	is't
+S	what
+U	and
+@
+S	live
+USU	divided
+S	us
+U	let
+S	this
+U	for
+S	even
+@
+S	one
+SU	single
+U	of
+S	name
+U	lose
+S	love
+U	dear
+S	our
+U	and
+@
+S	give
+U	may
+S	i
+SUSU	separation
+U	this
+S	by
+U	that
+@
+S	alone
+SU	deserv'st
+U	thou
+S	which
+U	thee
+S	to
+U	due
+S	that
+@
+S	prove
+U	thou
+S	wouldst
+SU	torment
+U	a
+S	what
+SU	absence
+U	o
+@
+S	leave
+U	sweet
+S	gave
+U	leisure
+S	sour
+U	thy
+S	not
+U	it
+S	were
+@
+S	love
+U	of
+S	thoughts
+U	with
+S	time
+U	the
+SUS	entertain
+U	to
+@
+US	deceive
+S	doth
+SU	sweetly
+U	so
+S	thoughts
+U	and
+S	time
+U	which
+@
+S	twain
+U	one
+S	make
+U	to
+S	how
+SU	teachest
+U	thou
+S	that
+U	and
+@
+US	remain
+S	hence
+U	doth
+S	who
+U	here
+S	him
+SU	praising
+U	by
+@
+S	all
+U	them
+S	take
+U	yea
+S	love
+U	my
+S	loves
+U	my
+S	all
+U	take
+@
+US	before
+S	hadst
+U	thou
+S	than
+U	more
+S	then
+U	thou
+S	hast
+U	what
+@
+S	call
+U	love
+S	true
+U	mayst
+S	thou
+U	that
+S	love
+U	my
+S	love
+U	no
+@
+S	more
+U	this
+S	hadst
+U	thou
+US	before
+S	thine
+U	was
+S	mine
+U	all
+@
+US	receivest
+S	love
+U	my
+S	thou
+U	love
+S	my
+U	for
+S	if
+U	then
+@
+US	usest
+S	thou
+U	love
+S	my
+U	for
+S	thee
+U	blame
+US	cannot
+S	i
+@
+US	deceivest
+S	self
+U	thy
+S	thou
+U	if
+S	blamed
+U	be
+S	yet
+U	but
+@
+SUS	refusest
+U	self
+S	thy
+U	what
+S	of
+U	taste
+US	wilful
+S	by
+@
+S	thief
+SU	gentle
+SU	robbery
+U	thy
+US	forgive
+S	do
+U	i
+@
+US	poverty
+S	my
+U	all
+S	thee
+U	steal
+S	thou
+SU	although
+@
+S	grief
+U	greater
+S	a
+U	is
+S	it
+U	knows
+S	love
+U	yet
+S	and
+@
+US	injury
+S	known
+U	hate's
+S	than
+U	wrong
+S	greater
+U	bear
+S	to
+@
+S	shows
+U	well
+S	ill
+U	all
+S	whom
+U	in
+S	grace
+SUSU	lascivious
+@
+S	foes
+U	be
+S	not
+U	must
+S	we
+U	yet
+S	spites
+U	with
+S	me
+U	kill
+@
+US	commits
+SUS	liberty
+U	that
+S	wrongs
+SU	pretty
+U	those
+@
+S	heart
+U	thy
+S	from
+SU	absent
+SU	sometime
+U	am
+S	i
+U	when
+@
+US	befits
+S	well
+U	full
+S	years
+U	thy
+S	and
+SU	beauty
+U	thy
+@
+S	art
+U	thou
+S	where
+SU	follows
+USU	temptation
+S	still
+U	for
+@
+S	won
+U	be
+S	to
+SU	therefore
+U	and
+S	art
+U	thou
+US	gentle
+@
+US	assailed
+S	be
+U	to
+US	therefore
+S	art
+U	thou
+US	beauteous
+@
+S	son
+SU	woman's
+U	what
+S	woos
+U	woman
+S	a
+U	when
+S	and
+@
+US	prevailed
+S	have
+U	he
+S	till
+U	her
+S	leave
+U	sourly
+S	will
+@
+US	forbear
+S	seat
+U	my
+S	mightst
+U	thou
+S	yet
+U	but
+S	me
+U	ay
+@
+S	youth
+SU	straying
+U	thy
+S	and
+SU	beauty
+U	thy
+S	chide
+U	and
+@
+S	there
+U	even
+S	riot
+U	their
+S	in
+U	thee
+S	lead
+U	who
+@
+S	truth
+U	twofold
+S	a
+U	break
+S	to
+U	forced
+S	art
+U	thou
+S	where
+@
+S	thee
+U	to
+S	her
+SU	tempting
+SU	beauty
+U	thy
+S	by
+U	hers
+@
+S	me
+U	to
+S	false
+SU	being
+SU	beauty
+U	thy
+S	by
+U	thine
+@
+S	grief
+U	my
+S	all
+U	not
+S	is
+U	it
+S	her
+U	hast
+S	thou
+U	that
+@
+US	dearly
+S	her
+U	loved
+S	i
+U	said
+S	be
+U	may
+S	it
+U	yet
+S	and
+@
+S	chief
+SU	wailing
+U	my
+S	of
+U	is
+S	thee
+U	hath
+S	she
+U	that
+@
+US	nearly
+S	more
+U	me
+US	touches
+S	that
+U	love
+S	in
+U	loss
+S	a
+@
+S	ye
+SU	excuse
+U	will
+S	i
+U	thus
+SUS	offenders
+SU	loving
+@
+S	her
+U	love
+S	i
+U	know'st
+S	thou
+SU	because
+U	her
+S	love
+U	dost
+S	thou
+@
+S	me
+U	abuse
+S	she
+U	doth
+S	so
+U	even
+S	sake
+U	my
+S	for
+U	and
+@
+S	her
+SU	approve
+U	to
+S	sake
+U	my
+S	for
+U	friend
+S	my
+SU	suff'ring
+@
+S	gain
+U	love's
+S	my
+U	is
+S	loss
+U	my
+S	thee
+U	lose
+S	i
+U	if
+@
+S	loss
+U	that
+S	found
+U	hath
+S	friend
+U	my
+S	her
+SU	losing
+U	and
+@
+S	twain
+U	both
+S	lose
+U	i
+S	and
+SU	other
+U	each
+S	find
+U	both
+@
+S	cross
+U	this
+S	me
+U	on
+S	lay
+U	sake
+S	my
+U	for
+S	both
+U	and
+@
+S	one
+U	are
+S	i
+U	and
+S	friend
+U	my
+S	joy
+U	the
+S	here's
+U	but
+@
+S	alone
+U	me
+S	but
+U	loves
+S	she
+U	then
+US	flattery
+S	sweet
+@
+S	see
+U	best
+S	eyes
+U	mine
+S	do
+U	then
+S	wink
+U	i
+S	most
+U	when
+@
+USUS	unrespected
+S	things
+U	view
+S	they
+U	day
+S	the
+U	all
+S	for
+@
+S	thee
+U	on
+S	look
+U	they
+S	dreams
+U	in
+S	sleep
+U	i
+S	when
+U	but
+@
+SUS	directed
+U	dark
+S	in
+U	bright
+S	are
+U	bright
+US	darkly
+S	and
+@
+S	bright
+U	make
+S	doth
+SU	shadows
+SU	shadow
+U	whose
+S	thou
+U	then
+@
+S	show
+SU	happy
+U	form
+S	form
+SU	shadow's
+U	thy
+S	would
+U	how
+@
+S	light
+SU	clearer
+U	much
+S	thy
+U	with
+S	day
+U	clear
+S	the
+U	to
+@
+S	so
+U	shines
+S	shade
+U	thy
+S	eyes
+USU	unseeing
+S	to
+U	when
+@
+S	made
+U	blessed
+S	be
+U	eyes
+S	mine
+U	say
+S	i
+U	would
+S	how
+@
+S	day
+SU	living
+U	the
+S	in
+U	thee
+S	on
+SU	looking
+U	by
+@
+S	shade
+USU	imperfect
+S	fair
+U	thy
+S	night
+U	dead
+S	in
+U	when
+@
+S	stay
+U	doth
+S	eyes
+SU	sightless
+U	on
+S	sleep
+U	heavy
+S	through
+@
+S	thee
+U	see
+S	i
+U	till
+S	see
+U	to
+S	nights
+U	are
+S	days
+U	all
+@
+S	me
+U	thee
+S	show
+U	do
+S	dreams
+U	when
+S	days
+U	bright
+S	nights
+U	and
+@
+S	thought
+U	were
+S	flesh
+U	my
+S	of
+SU	substance
+U	dull
+S	the
+U	if
+@
+S	way
+U	my
+S	stop
+U	not
+S	should
+SU	distance
+SUSU	injurious
+@
+S	brought
+U	be
+S	would
+U	i
+S	space
+U	of
+US	despite
+S	then
+U	for
+@
+S	stay
+U	dost
+S	thou
+U	where
+US	remote
+S	far
+SU	limits
+U	from
+@
+S	stand
+U	did
+S	foot
+U	my
+US	although
+S	then
+SU	matter
+U	no
+@
+S	thee
+U	from
+US	removed
+S	earth
+SU	farthest
+U	the
+S	upon
+@
+S	land
+U	and
+S	sea
+U	both
+S	jump
+U	can
+S	thought
+SU	nimble
+U	for
+@
+S	be
+U	would
+S	he
+U	where
+S	place
+U	the
+S	think
+U	as
+S	soon
+U	as
+@
+S	thought
+U	not
+S	am
+U	i
+S	that
+U	me
+S	kills
+U	thought
+S	ah
+U	but
+@
+S	gone
+U	art
+S	thou
+U	when
+S	miles
+U	of
+S	lengths
+U	large
+S	leap
+U	to
+@
+S	wrought
+SU	water
+U	and
+S	earth
+U	of
+S	much
+U	so
+S	that
+U	but
+@
+S	moan
+U	my
+S	with
+U	leisure
+S	time's
+SU	attend
+U	must
+S	i
+@
+S	slow
+U	so
+SUS	elements
+U	by
+S	nought
+USU	receiving
+@
+S	woe
+SU	either's
+U	of
+S	badges
+U	tears
+S	heavy
+U	but
+@
+S	fire
+SU	purging
+U	and
+S	air
+U	slight
+S	two
+SU	other
+U	the
+@
+S	abide
+U	i
+SUS	wherever
+U	thee
+S	with
+U	both
+S	are
+@
+US	desire
+S	my
+SU	other
+U	the
+S	thought
+U	my
+S	first
+U	the
+@
+S	slide
+SU	motion
+U	swift
+S	with
+SUSU	present-absent
+U	these
+@
+S	gone
+U	are
+SUS	elements
+SU	quicker
+U	these
+S	when
+U	for
+@
+S	thee
+U	to
+S	love
+U	of
+US	embassy
+US	tender
+S	in
+@
+S	alone
+U	two
+S	with
+U	four
+S	of
+U	made
+US	being
+S	life
+U	my
+@
+US	melancholy
+S	with
+SU	oppressed
+U	death
+S	to
+U	down
+S	sinks
+@
+US	recured
+S	be
+SUSU	composition
+U	life's
+US	until
+@
+S	thee
+U	from
+US	returned
+SUS	messengers
+U	swift
+S	those
+U	by
+@
+US	assured
+S	again
+U	back
+S	come
+U	now
+S	but
+U	even
+S	who
+@
+S	me
+U	to
+S	it
+USU	recounting
+S	health
+U	fair
+S	thy
+U	of
+@
+S	glad
+U	longer
+S	no
+U	then
+S	but
+U	joy
+S	i
+U	told
+S	this
+@
+S	sad
+U	grow
+S	straight
+U	and
+S	again
+U	back
+S	them
+U	send
+S	i
+@
+S	war
+SU	mortal
+U	a
+S	at
+U	are
+S	heart
+U	and
+S	eye
+U	mine
+@
+S	sight
+U	thy
+S	of
+SU	conquest
+U	the
+US	divide
+S	to
+U	how
+@
+S	bar
+U	would
+S	sight
+SU	picture's
+U	thy
+S	heart
+U	my
+S	eye
+U	mine
+@
+S	right
+U	that
+S	of
+SU	freedom
+U	the
+S	eye
+U	mine
+S	heart
+U	my
+@
+S	lie
+U	dost
+S	him
+U	in
+S	thou
+U	that
+S	plead
+U	doth
+S	heart
+U	my
+@
+S	eyes
+SU	crystal
+U	with
+S	pierced
+SU	never
+SU	closet
+U	a
+@
+S	deny
+U	plea
+S	that
+U	doth
+SUS	defendant
+U	the
+S	but
+@
+S	lies
+USU	appearance
+S	fair
+U	thy
+S	him
+U	in
+S	says
+U	and
+@
+SUS	impanelled
+U	is
+US	title
+S	this
+U	side
+S	to
+@
+S	heart
+U	the
+S	to
+SU	tenants
+U	all
+S	thoughts
+U	of
+S	quest
+U	a
+@
+SUS	determined
+U	is
+US	verdict
+S	their
+U	by
+S	and
+@
+S	part
+U	heart's
+S	dear
+U	the
+S	and
+SU	moiety
+SU	eye's
+U	clear
+S	the
+@
+S	part
+SU	outward
+U	thy
+S	is
+U	due
+US	eye's
+S	mine
+U	thus
+S	as
+@
+S	heart
+U	of
+S	love
+SU	inward
+U	thy
+S	right
+U	heart's
+S	my
+U	and
+@
+S	took
+U	is
+S	league
+U	a
+S	heart
+U	and
+S	eye
+U	mine
+US	betwixt
+@
+US	other
+S	the
+U	unto
+S	now
+U	turns
+S	good
+U	doth
+S	each
+U	and
+@
+S	look
+U	a
+S	for
+SU	famished
+U	is
+S	eye
+U	mine
+S	that
+U	when
+@
+US	smother
+S	doth
+SU	himself
+U	sighs
+S	with
+U	love
+S	in
+U	heart
+S	or
+@
+S	feast
+U	doth
+S	eye
+U	my
+S	then
+SU	picture
+U	love's
+S	my
+U	with
+@
+S	heart
+U	my
+S	bids
+SU	banquet
+SU	painted
+U	the
+S	to
+U	and
+@
+S	guest
+U	heart's
+S	my
+U	is
+S	eye
+U	mine
+S	time
+USU	another
+@
+S	part
+U	a
+S	share
+U	doth
+S	love
+U	of
+S	thoughts
+U	his
+S	in
+U	and
+@
+S	love
+U	my
+S	or
+SU	picture
+U	thy
+S	by
+SU	either
+U	so
+@
+S	me
+U	with
+S	still
+U	present
+S	art
+U	away
+S	self
+U	thy
+@
+S	move
+U	canst
+S	thoughts
+U	my
+S	than
+SU	farther
+U	not
+S	thou
+U	for
+@
+S	thee
+U	with
+S	they
+U	and
+S	them
+U	with
+S	still
+U	am
+S	i
+U	and
+@
+S	sight
+U	my
+S	in
+SU	picture
+U	thy
+S	sleep
+U	they
+S	if
+U	or
+@
+US	delight
+US	eye's
+S	and
+U	heart's
+S	to
+U	heart
+S	my
+U	awakes
+@
+S	way
+U	my
+S	took
+U	i
+S	when
+U	i
+S	was
+SU	careful
+U	how
+@
+S	thrust
+U	to
+S	bars
+U	truest
+US	under
+US	trifle
+S	each
+@
+S	stay
+SU	unused
+U	might
+S	it
+U	use
+S	my
+U	to
+S	that
+@
+S	trust
+U	of
+S	wards
+U	sure
+S	in
+SU	falsehood
+U	of
+S	hands
+U	from
+@
+S	are
+SU	trifles
+SU	jewels
+U	my
+S	whom
+U	to
+S	thou
+U	but
+@
+S	grief
+SU	greatest
+U	my
+S	now
+SU	comfort
+SU	worthy
+U	most
+@
+S	care
+U	only
+S	mine
+U	and
+US	dearest
+S	of
+U	best
+S	thou
+@
+S	thief
+SU	vulgar
+U	every
+S	of
+U	prey
+S	the
+U	left
+S	art
+@
+S	chest
+U	any
+S	in
+U	up
+S	locked
+U	not
+S	i
+U	have
+S	thee
+@
+S	art
+U	thou
+S	feel
+U	i
+S	though
+U	not
+S	art
+U	thou
+S	where
+U	save
+@
+S	breast
+U	my
+S	of
+SU	closure
+SU	gentle
+U	the
+US	within
+@
+S	part
+U	and
+S	come
+U	mayst
+S	thou
+SU	pleasure
+U	at
+S	whence
+U	from
+@
+S	fear
+U	i
+S	stol'n
+U	be
+S	wilt
+U	thou
+S	thence
+U	even
+S	and
+@
+S	dear
+U	so
+S	prize
+U	a
+S	for
+U	thievish
+S	proves
+U	truth
+S	for
+@
+S	come
+U	time
+S	that
+U	ever
+S	if
+U	time
+S	that
+U	against
+@
+US	defects
+S	my
+U	on
+S	frown
+U	thee
+S	see
+U	shall
+S	i
+U	when
+@
+S	sum
+SU	utmost
+U	his
+S	cast
+U	hath
+S	love
+U	thy
+S	as
+U	when
+@
+US	respects
+US	advised
+S	by
+SU	audit
+U	that
+S	to
+U	called
+@
+S	pass
+SU	strangely
+U	shalt
+S	thou
+U	when
+S	time
+U	that
+S	against
+@
+S	eye
+U	thine
+S	sun
+U	that
+S	with
+U	me
+S	greet
+SU	scarcely
+U	and
+@
+S	was
+U	it
+S	thing
+U	the
+S	from
+USU	converted
+S	love
+U	when
+@
+SUS	gravity
+SU	settled
+U	of
+S	find
+SU	reasons
+U	shall
+@
+S	here
+U	me
+US	ensconce
+S	i
+U	do
+S	time
+U	that
+S	against
+@
+S	desert
+U	own
+S	mine
+U	of
+US	knowledge
+S	the
+SU	within
+@
+US	uprear
+S	self
+U	my
+S	against
+U	hand
+S	my
+U	this
+S	and
+@
+S	part
+U	thy
+S	on
+SU	reasons
+SU	lawful
+U	the
+S	guard
+U	to
+@
+S	laws
+U	of
+S	strength
+U	the
+S	hast
+U	thou
+S	me
+U	poor
+S	leave
+U	to
+@
+S	cause
+U	no
+US	allege
+S	can
+U	i
+S	love
+U	to
+S	why
+U	since
+@
+S	way
+U	the
+S	on
+SU	journey
+U	i
+S	do
+U	heavy
+S	how
+@
+S	end
+SU	travel's
+U	weary
+S	my
+U	seek
+S	i
+U	what
+S	when
+@
+S	say
+U	to
+US	repose
+S	that
+U	and
+S	case
+U	that
+S	teach
+U	doth
+@
+S	friend
+U	thy
+S	from
+SU	measured
+U	are
+S	miles
+U	the
+S	far
+U	thus
+@
+S	woe
+U	my
+S	with
+U	tired
+S	me
+U	bears
+S	that
+U	beast
+S	the
+@
+S	me
+U	in
+S	weight
+U	that
+S	bear
+U	to
+S	on
+SU	dully
+U	plods
+@
+S	know
+U	did
+S	wretch
+U	the
+US	instinct
+S	some
+U	by
+S	if
+U	as
+@
+S	thee
+U	from
+S	made
+SU	being
+U	speed
+S	not
+U	loved
+US	rider
+S	his
+@
+S	on
+U	him
+US	provoke
+US	cannot
+S	spur
+U	bloody
+S	the
+@
+S	hide
+U	his
+S	into
+U	thrusts
+S	anger
+SU	sometimes
+U	that
+@
+S	groan
+U	a
+S	with
+SU	answers
+U	he
+SUS	heavily
+U	which
+@
+S	side
+U	his
+S	to
+U	spurring
+S	than
+U	me
+S	to
+U	sharp
+S	more
+@
+S	mind
+U	my
+S	in
+U	this
+S	put
+U	doth
+S	groan
+U	same
+S	that
+U	for
+@
+US	behind
+S	joy
+U	my
+S	and
+SU	onward
+U	lies
+S	grief
+U	my
+@
+US	offence
+S	slow
+U	the
+US	excuse
+S	love
+U	my
+S	can
+U	thus
+@
+S	speed
+U	i
+S	thee
+U	from
+S	when
+SU	bearer
+U	dull
+S	my
+U	of
+@
+S	thence
+U	me
+S	haste
+U	i
+S	should
+U	why
+S	art
+U	thou
+S	where
+U	from
+@
+S	need
+U	no
+S	is
+SU	posting
+U	of
+US	return
+S	i
+U	till
+@
+S	find
+U	then
+S	beast
+U	poor
+S	my
+U	will
+US	excuse
+S	what
+U	o
+@
+S	slow
+U	but
+S	seem
+U	can
+USUS	extremity
+S	swift
+U	when
+@
+S	wind
+U	the
+S	on
+SU	mounted
+U	though
+S	spur
+U	i
+S	should
+U	then
+@
+S	know
+U	i
+S	shall
+SU	motion
+U	no
+S	speed
+U	winged
+S	in
+@
+S	pace
+U	keep
+US	desire
+S	my
+U	with
+S	horse
+U	no
+S	can
+U	then
+@
+S	made
+SU	being
+U	love
+SUS	perfect'st
+U	of
+US	desire
+US	therefore
+@
+S	race
+U	fiery
+S	his
+U	in
+S	flesh
+U	dull
+S	no
+U	neigh
+S	shall
+@
+S	jade
+U	my
+US	excuse
+S	shall
+U	thus
+S	love
+U	for
+S	love
+U	but
+@
+SUS	wilful-slow
+U	went
+S	he
+SU	going
+U	thee
+S	from
+U	since
+@
+S	go
+U	to
+S	leave
+U	him
+S	give
+U	and
+S	run
+U	i'll
+S	thee
+SU	towards
+@
+S	key
+U	blessed
+S	whose
+U	rich
+S	the
+U	as
+S	i
+U	am
+S	so
+@
+US	treasure
+US	up-locked
+S	sweet
+U	his
+S	to
+U	him
+S	bring
+U	can
+@
+US	survey
+S	hour
+U	every
+S	not
+U	will
+S	he
+U	which
+S	the
+@
+US	pleasure
+US	seldom
+S	of
+U	point
+S	fine
+U	the
+US	blunting
+S	for
+@
+S	rare
+U	so
+S	and
+U	solemn
+S	so
+U	feasts
+S	are
+SU	therefore
+@
+S	set
+U	year
+S	long
+U	that
+S	in
+SU	coming
+SU	seldom
+U	since
+@
+S	are
+U	placed
+US	thinly
+S	they
+U	worth
+S	of
+U	stones
+S	like
+@
+US	carcanet
+S	the
+U	in
+US	jewels
+US	captain
+S	or
+@
+S	chest
+U	my
+S	as
+U	you
+S	keeps
+U	that
+S	time
+U	the
+S	is
+U	so
+@
+S	hide
+U	doth
+S	robe
+U	the
+S	which
+U	wardrobe
+S	the
+U	as
+S	or
+@
+US	special-blest
+US	instant
+US	special
+S	some
+U	make
+S	to
+@
+S	pride
+USU	imprisoned
+S	his
+USU	unfolding
+S	new
+U	by
+@
+S	scope
+U	gives
+SUS	worthiness
+U	whose
+S	you
+U	are
+S	blessed
+@
+S	hope
+U	to
+S	lacked
+SU	being
+SU	triumph
+U	to
+S	had
+SU	being
+@
+S	made
+U	you
+S	are
+SU	whereof
+SU	substance
+U	your
+S	is
+U	what
+@
+S	tend
+U	you
+S	on
+SU	shadows
+U	strange
+S	of
+SU	millions
+U	that
+@
+S	shade
+U	one
+S	one
+U	every
+S	hath
+U	one
+S	every
+U	since
+@
+S	lend
+SU	shadow
+U	every
+S	can
+U	one
+S	but
+U	you
+S	and
+@
+SUS	counterfeit
+U	the
+S	and
+SU	adonis
+SU	describe
+@
+S	you
+SU	after
+SUSU	imitated
+SU	poorly
+U	is
+@
+S	set
+SU	beauty
+U	of
+S	art
+U	all
+S	cheek
+SU	helen's
+U	on
+@
+S	new
+SU	painted
+U	are
+S	tires
+SU	grecian
+U	in
+S	you
+U	and
+@
+S	year
+U	the
+S	of
+SU	foison
+U	and
+S	spring
+U	the
+S	of
+U	speak
+@
+S	show
+SU	beauty
+U	your
+S	of
+SU	shadow
+U	doth
+S	one
+U	the
+@
+US	appear
+S	doth
+SU	bounty
+U	your
+S	as
+SU	other
+U	the
+@
+S	know
+U	we
+S	shape
+U	blessed
+S	every
+U	in
+S	you
+U	and
+@
+S	part
+U	some
+S	have
+U	you
+S	grace
+USU	external
+S	all
+U	in
+@
+S	heart
+SU	constant
+U	for
+S	you
+U	none
+S	none
+U	like
+S	you
+U	but
+@
+S	seem
+SU	beauteous
+SU	beauty
+U	doth
+S	more
+U	much
+S	how
+U	o
+@
+S	give
+U	doth
+S	truth
+U	which
+SUS	ornament
+U	sweet
+S	that
+U	by
+@
+S	deem
+U	it
+S	we
+SU	fairer
+U	but
+S	fair
+U	looks
+S	rose
+U	the
+@
+S	live
+U	it
+S	in
+U	doth
+S	which
+U	odour
+S	sweet
+U	that
+S	for
+@
+S	dye
+U	a
+S	deep
+U	as
+S	full
+U	have
+S	blooms
+U	canker
+S	the
+@
+US	roses
+S	the
+U	of
+US	tincture
+US	perfumed
+S	the
+U	as
+@
+SUS	wantonly
+U	as
+S	play
+U	and
+S	thorns
+U	such
+S	on
+U	hang
+@
+SUS	discloses
+U	buds
+S	masked
+U	their
+S	breath
+SU	summer's
+U	when
+@
+S	show
+U	their
+S	is
+U	only
+S	virtue
+U	their
+S	for
+U	but
+@
+S	fade
+SUSU	unrespected
+U	and
+US	unwooed
+S	live
+U	they
+@
+S	so
+U	not
+S	do
+SU	roses
+U	sweet
+US	themselves
+S	to
+U	die
+@
+S	made
+U	odours
+US	sweetest
+S	are
+U	deaths
+S	sweet
+U	their
+S	of
+@
+S	youth
+SU	lovely
+U	and
+US	beauteous
+S	you
+U	of
+S	so
+U	and
+@
+S	truth
+U	your
+US	distills
+S	verse
+U	my
+S	fade
+U	shall
+S	that
+U	when
+@
+SUS	monuments
+SU	gilded
+U	the
+S	nor
+SU	marble
+U	not
+@
+S	rhyme
+USU	powerful
+S	this
+SU	outlive
+U	shall
+S	princes
+U	of
+@
+US	contents
+S	these
+U	in
+S	bright
+U	more
+S	shine
+U	shall
+S	you
+U	but
+@
+S	time
+SU	sluttish
+U	with
+US	besmeared
+S	stone
+U	unswept
+S	than
+@
+US	overturn
+US	statues
+S	shall
+U	war
+US	wasteful
+S	when
+@
+SUS	masonry
+U	of
+S	work
+U	the
+S	out
+U	root
+S	broils
+U	and
+@
+S	burn
+U	shall
+S	fire
+U	quick
+S	war's
+U	nor
+S	sword
+U	his
+S	mars
+U	nor
+@
+SUS	memory
+U	your
+S	of
+U	record
+US	living
+S	the
+@
+SUS	enmity
+SUSU	all-oblivious
+U	and
+S	death
+U	gainst
+@
+S	room
+U	find
+S	still
+U	shall
+S	praise
+U	your
+S	forth
+U	pace
+S	you
+U	shall
+@
+USUS	posterity
+S	all
+U	of
+S	eyes
+U	the
+S	in
+U	even
+@
+S	doom
+SU	ending
+U	the
+S	to
+U	out
+S	world
+U	this
+S	wear
+U	that
+@
+S	arise
+U	self
+S	your
+U	that
+US	judgment
+S	the
+U	till
+S	so
+@
+S	eyes
+SU	lovers
+U	in
+S	dwell
+U	and
+S	this
+U	in
+S	live
+U	you
+@
+S	said
+U	not
+S	it
+U	be
+S	force
+U	thy
+US	renew
+S	love
+U	sweet
+@
+US	appetite
+S	than
+U	be
+S	blunter
+U	should
+S	edge
+U	thy
+@
+US	allayed
+S	is
+SU	feeding
+U	by
+US	to-day
+S	but
+U	which
+@
+S	might
+SU	former
+U	his
+S	in
+SU	sharpened
+USU	to-morrow
+@
+S	fill
+U	thou
+US	to-day
+US	although
+S	thou
+U	be
+S	love
+U	so
+@
+US	fulness
+S	with
+U	wink
+S	they
+U	till
+S	even
+U	eyes
+US	hungry
+S	thy
+@
+S	kill
+U	not
+S	do
+U	and
+S	again
+U	see
+SUS	to-morrow
+@
+US	dulness
+USUS	perpetual
+S	a
+U	with
+S	love
+U	of
+US	spirit
+S	the
+@
+S	be
+U	ocean
+S	the
+U	like
+SUS	interim
+U	sad
+S	this
+U	let
+@
+S	new
+USU	contracted
+S	two
+U	where
+S	shore
+U	the
+S	parts
+U	which
+@
+S	see
+U	they
+S	when
+U	that
+S	banks
+U	the
+S	to
+SU	daily
+U	come
+@
+S	view
+U	the
+S	be
+U	may
+S	blest
+U	more
+S	love
+U	of
+US	return
+@
+S	care
+U	of
+S	full
+SU	being
+U	which
+US	winter
+S	it
+U	call
+S	or
+@
+S	rare
+U	more
+S	wished
+U	more
+S	thrice
+SU	welcome
+SU	summer's
+U	makes
+@
+S	tend
+U	but
+S	do
+U	i
+S	should
+U	what
+S	slave
+U	your
+US	being
+@
+US	desire
+S	your
+U	of
+S	times
+U	and
+S	hours
+U	the
+S	upon
+@
+S	spend
+U	to
+S	all
+U	at
+S	time
+SU	precious
+U	no
+S	have
+U	i
+@
+US	require
+S	you
+U	till
+S	do
+U	to
+US	services
+S	nor
+@
+S	hour
+SU	world-without-end
+U	the
+S	chide
+U	i
+S	dare
+U	nor
+@
+S	you
+U	for
+S	clock
+U	the
+S	watch
+USU	sovereign
+S	my
+U	i
+S	whilst
+@
+S	sour
+SU	absence
+U	of
+SUS	bitterness
+U	the
+S	think
+U	nor
+@
+S	adieu
+U	once
+US	servant
+S	your
+U	bid
+S	have
+U	you
+S	when
+@
+S	thought
+SU	jealous
+U	my
+S	with
+SU	question
+U	i
+S	dare
+U	nor
+@
+US	suppose
+US	affairs
+S	your
+U	or
+S	be
+U	may
+S	you
+U	where
+@
+S	nought
+U	of
+S	think
+U	and
+S	stay
+U	slave
+S	sad
+U	a
+S	like
+U	but
+@
+S	those
+U	make
+S	you
+SU	happy
+U	how
+S	are
+U	you
+S	where
+U	save
+@
+S	will
+U	your
+S	in
+U	that
+S	love
+U	is
+S	fool
+U	a
+S	true
+U	so
+@
+S	ill
+U	no
+S	thinks
+U	he
+S	thing
+U	any
+S	do
+U	you
+S	though
+@
+S	slave
+U	your
+S	first
+U	me
+S	made
+U	that
+US	forbid
+S	god
+U	that
+@
+US	pleasure
+S	of
+U	times
+S	your
+SU	control
+U	thought
+S	in
+U	should
+S	i
+@
+S	crave
+U	to
+S	hours
+U	of
+US	account
+S	th
+U	hand
+S	your
+U	at
+S	or
+@
+S	leisure
+U	your
+S	stay
+U	to
+S	bound
+SU	vassal
+U	your
+US	being
+@
+S	beck
+U	your
+S	at
+SU	being
+SU	suffer
+U	me
+S	let
+U	o
+@
+SUS	liberty
+U	your
+S	of
+SU	absence
+USU	imprisoned
+S	th
+@
+S	check
+U	each
+S	bide
+USU	sufferance
+S	to
+U	tame
+US	patience
+S	and
+@
+US	injury
+S	of
+U	you
+SUS	accusing
+SU	without
+@
+S	strong
+U	so
+S	is
+SU	charter
+U	your
+S	list
+U	you
+S	where
+U	be
+@
+S	time
+U	your
+SUS	privilage
+U	may
+S	self
+U	your
+S	you
+U	that
+@
+US	belong
+S	doth
+U	it
+S	you
+U	to
+S	will
+U	you
+S	what
+U	to
+@
+S	crime
+USU	self-doing
+S	of
+SU	pardon
+U	to
+S	self
+U	your
+@
+S	hell
+U	be
+S	so
+SU	waiting
+U	though
+S	wait
+U	to
+S	am
+U	i
+@
+S	well
+U	or
+S	ill
+U	it
+S	be
+SU	pleasure
+U	your
+S	blame
+U	not
+@
+S	is
+U	which
+S	that
+U	but
+S	new
+SU	nothing
+U	be
+S	there
+U	if
+@
+US	beguiled
+S	brains
+U	our
+S	are
+U	how
+US	before
+S	been
+U	hath
+@
+S	amis
+U	bear
+SUS	invention
+U	for
+US	labouring
+S	which
+@
+S	child
+SU	former
+U	a
+S	of
+SU	burthen
+SU	second
+U	the
+@
+S	look
+SU	backward
+U	a
+S	with
+U	could
+S	record
+U	that
+S	o
+@
+S	sun
+U	the
+S	of
+SU	courses
+SU	hundred
+U	five
+S	of
+U	even
+@
+S	book
+SU	antique
+U	some
+S	in
+SU	image
+U	your
+S	me
+U	show
+@
+S	done
+U	was
+SUS	character
+U	in
+S	first
+U	at
+S	mind
+U	since
+@
+S	say
+U	could
+S	world
+U	old
+S	the
+U	what
+S	see
+U	might
+S	i
+U	that
+@
+S	frame
+U	your
+S	of
+SU	wonder
+SU	composed
+U	this
+S	to
+@
+S	they
+SU	better
+U	whether
+S	or
+SU	mended
+U	are
+S	we
+U	whether
+@
+S	same
+U	the
+S	be
+SUSU	revolution
+U	whether
+S	or
+@
+S	days
+SU	former
+U	of
+S	wits
+U	the
+S	am
+U	i
+S	sure
+U	o
+@
+S	praise
+USU	admiring
+US	given
+S	have
+U	worse
+US	subjects
+S	to
+@
+S	shore
+SU	pebbled
+U	the
+US	towards
+S	make
+U	waves
+S	the
+U	as
+S	like
+@
+S	end
+U	their
+S	to
+SU	hasten
+SU	minutes
+U	our
+S	do
+U	so
+@
+US	before
+S	goes
+U	which
+S	that
+U	with
+S	place
+SU	changing
+U	each
+@
+US	contend
+S	do
+SU	forwards
+U	all
+S	toil
+SU	sequent
+U	in
+@
+S	light
+U	of
+S	main
+U	the
+S	in
+U	once
+USUS	nativity
+@
+S	crowned
+SU	being
+SU	wherewith
+SUSU	maturity
+U	to
+S	crawls
+@
+S	fight
+SU	glory
+U	his
+S	gainst
+U	eclipses
+S	crooked
+@
+US	confound
+S	gift
+U	his
+S	now
+U	doth
+S	gave
+U	that
+S	time
+U	and
+@
+S	youth
+U	on
+S	set
+SU	flourish
+U	the
+US	transfix
+S	doth
+U	time
+@
+S	brow
+SU	beauty's
+U	in
+SUS	parallels
+U	the
+S	delves
+U	and
+@
+S	truth
+SU	nature's
+U	of
+SUS	rarities
+U	the
+S	on
+U	feeds
+@
+S	mow
+U	to
+S	scythe
+U	his
+S	for
+U	but
+S	stands
+SU	nothing
+U	and
+@
+S	stand
+U	shall
+S	verse
+U	my
+S	hope
+U	in
+S	times
+U	to
+S	yet
+U	and
+@
+S	hand
+SU	cruel
+U	his
+US	despite
+S	worth
+U	thy
+US	praising
+@
+S	open
+U	keep
+S	should
+SU	image
+U	thy
+S	will
+U	thy
+S	it
+U	is
+@
+S	night
+U	weary
+S	the
+U	to
+US	eyelids
+S	heavy
+U	my
+@
+US	broken
+S	be
+U	should
+US	slumbers
+S	my
+SU	desire
+U	thou
+S	dost
+@
+S	sight
+U	my
+S	mock
+U	do
+S	thee
+U	to
+S	like
+SU	shadows
+U	while
+@
+S	thee
+U	from
+S	send'st
+U	thou
+S	that
+SU	spirit
+U	thy
+S	it
+U	is
+@
+S	pry
+U	to
+S	deeds
+U	my
+S	into
+U	home
+S	from
+U	far
+S	so
+@
+S	me
+U	in
+S	hours
+U	idle
+S	and
+U	shames
+S	out
+U	find
+S	to
+@
+US	jealousy
+S	thy
+U	of
+S	tenure
+U	and
+S	scope
+U	the
+@
+S	great
+U	so
+S	not
+U	is
+S	much
+U	though
+S	love
+U	thy
+S	no
+U	o
+@
+S	awake
+U	eye
+S	mine
+U	keeps
+S	that
+U	love
+S	my
+U	is
+S	it
+@
+US	defeat
+S	rest
+U	my
+S	doth
+U	that
+S	love
+U	true
+S	own
+U	mine
+@
+S	sake
+U	thy
+S	for
+U	ever
+US	watchman
+S	the
+U	play
+S	to
+@
+US	elsewhere
+S	wake
+U	dost
+S	thou
+U	whilst
+S	i
+U	watch
+S	thee
+U	for
+@
+S	near
+U	too
+S	all
+SU	others
+U	with
+S	off
+U	far
+S	me
+U	from
+@
+S	eye
+U	mine
+S	all
+USU	possesseth
+US	self-love
+S	of
+U	sin
+@
+S	part
+U	every
+S	my
+U	all
+S	and
+U	soul
+S	my
+U	all
+S	and
+@
+SUS	remedy
+U	no
+S	is
+U	there
+S	sin
+U	this
+S	for
+U	and
+@
+S	heart
+U	my
+S	in
+SU	inward
+SU	grounded
+U	so
+S	is
+U	it
+@
+S	mine
+U	as
+S	is
+SU	gracious
+U	so
+S	face
+U	no
+US	methinks
+@
+US	account
+S	such
+U	of
+S	truth
+U	no
+S	true
+U	so
+S	shape
+U	no
+@
+US	define
+S	do
+U	worth
+S	own
+U	mine
+S	self
+U	my
+S	for
+U	and
+@
+US	surmount
+S	worths
+U	all
+S	in
+SU	other
+U	all
+S	i
+U	as
+@
+US	indeed
+S	self
+U	my
+S	me
+U	shows
+S	glass
+U	my
+S	when
+U	but
+@
+USUS	antiquity
+S	tanned
+U	with
+S	chopt
+U	and
+US	beated
+@
+S	read
+U	i
+US	contrary
+S	quite
+SU	self-love
+U	own
+S	mine
+@
+USUS	iniquity
+S	were
+USU	self-loving
+S	so
+U	self
+@
+S	praise
+U	i
+S	self
+U	my
+S	for
+U	that
+S	self
+U	my
+S	thee
+U	tis
+@
+S	days
+U	thy
+S	of
+SU	beauty
+U	with
+S	age
+U	my
+US	painting
+@
+S	now
+U	am
+S	i
+U	as
+S	be
+U	shall
+S	love
+U	my
+S	against
+@
+US	o'erworn
+S	and
+U	crushed
+S	hand
+SUSU	injurious
+U	time's
+S	with
+@
+S	brow
+U	his
+S	filled
+U	and
+S	blood
+U	his
+S	drained
+U	have
+S	hours
+U	when
+@
+S	morn
+SU	youthful
+U	his
+S	when
+SU	wrinkles
+U	and
+S	lines
+U	with
+@
+S	night
+U	steepy
+S	age's
+U	to
+S	on
+SU	travelled
+U	hath
+@
+S	king
+U	he's
+S	now
+SU	whereof
+SU	beauties
+U	those
+S	all
+U	and
+@
+S	sight
+U	of
+S	out
+SU	vanished
+U	or
+SUS	vanishing
+U	are
+@
+S	spring
+U	his
+S	of
+SU	treasure
+U	the
+S	away
+SU	stealing
+@
+SUS	fortify
+U	now
+S	i
+U	do
+S	time
+U	a
+S	such
+U	for
+@
+S	knife
+SU	cruel
+U	age's
+SUS	confounding
+U	against
+@
+SUS	memory
+U	from
+S	cut
+SU	never
+U	shall
+S	he
+U	that
+@
+S	life
+U	lover's
+S	my
+U	though
+US	beauty
+S	love's
+U	sweet
+S	my
+@
+S	seen
+U	be
+S	lines
+U	black
+S	these
+U	in
+S	shall
+SU	beauty
+U	his
+@
+S	green
+U	still
+S	them
+U	in
+S	he
+U	and
+S	live
+U	shall
+S	they
+U	and
+@
+US	defaced
+S	hand
+U	fell
+S	time's
+U	by
+S	seen
+U	have
+S	i
+U	when
+@
+S	age
+U	buried
+US	outworn
+S	of
+U	cost
+S	rich-proud
+U	the
+@
+S	down-rased
+U	see
+S	i
+SU	towers
+U	lofty
+US	sometime
+S	when
+@
+S	rage
+SU	mortal
+U	to
+S	slave
+SU	eternal
+U	brass
+S	and
+@
+S	gain
+U	ocean
+US	hungry
+S	the
+U	seen
+S	have
+U	i
+S	when
+@
+S	shore
+U	the
+S	of
+SU	kingdom
+U	the
+S	on
+USU	advantage
+@
+S	main
+SU	watery
+U	the
+S	of
+U	win
+S	soil
+U	firm
+S	the
+U	and
+@
+S	store
+U	with
+S	loss
+U	and
+S	loss
+U	with
+S	store
+USU	increasing
+@
+S	state
+U	of
+SUS	interchange
+U	such
+S	seen
+U	have
+S	i
+U	when
+@
+US	decay
+S	to
+USU	confounded
+S	self
+U	it
+S	state
+U	or
+@
+SUS	ruminate
+U	to
+S	thus
+U	me
+S	taught
+U	hath
+S	ruin
+@
+S	away
+U	love
+S	my
+U	take
+S	and
+U	come
+S	will
+U	time
+S	that
+@
+S	choose
+SU	cannot
+U	which
+S	death
+U	a
+S	as
+U	is
+S	thought
+U	this
+@
+S	lose
+U	to
+S	fears
+U	it
+S	which
+U	that
+S	have
+U	to
+S	weep
+U	but
+@
+S	sea
+SU	boundless
+U	nor
+S	earth
+U	nor
+S	stone
+U	nor
+S	brass
+U	since
+@
+US	power
+S	their
+SU	o'ersways
+SUSU	mortality
+U	sad
+S	but
+@
+S	plea
+U	a
+S	hold
+SU	beauty
+U	shall
+S	rage
+U	this
+S	with
+U	how
+@
+S	flower
+U	a
+S	than
+U	stronger
+S	no
+U	is
+US	action
+S	whose
+@
+S	out
+U	hold
+S	breath
+SU	honey
+SU	summer's
+U	shall
+S	how
+U	o
+@
+S	days
+SU	batt'ring
+U	of
+S	siege
+SU	wrackful
+U	the
+S	against
+@
+S	stout
+U	so
+S	not
+U	are
+SUS	impregnable
+U	rocks
+S	when
+@
+US	decays
+S	time
+U	but
+S	strong
+U	so
+S	steel
+U	of
+S	gates
+U	nor
+@
+S	alack
+U	where
+USUS	meditation
+US	fearful
+S	o
+@
+S	hid
+U	lie
+S	chest
+U	time's
+S	from
+SU	jewel
+U	best
+S	time's
+U	shall
+@
+S	back
+U	foot
+S	swift
+U	his
+S	hold
+U	can
+S	hand
+U	strong
+S	what
+U	or
+@
+US	forbid
+S	can
+SU	beauty
+U	of
+S	spoil
+U	his
+S	who
+U	or
+@
+S	might
+U	have
+SUS	miracle
+U	this
+US	unless
+S	none
+U	o
+@
+S	bright
+U	shine
+S	still
+U	may
+S	love
+U	my
+S	ink
+U	black
+S	in
+U	that
+@
+S	cry
+U	i
+S	death
+SU	restful
+U	for
+S	these
+U	all
+S	with
+U	tired
+@
+S	born
+SU	beggar
+U	a
+S	desert
+SU	behold
+U	to
+S	as
+@
+SUS	jollity
+U	in
+S	trimmed
+SU	nothing
+U	needy
+S	and
+@
+US	forsworn
+USUS	unhappily
+S	faith
+U	purest
+S	and
+@
+US	misplaced
+SUS	shamefully
+USU	honour
+US	gilded
+S	and
+@
+SUS	strumpeted
+SU	rudely
+U	virtue
+US	maiden
+S	and
+@
+US	disgraced
+SUS	wrongfully
+USU	perfection
+S	right
+U	and
+@
+US	disabled
+S	sway
+SU	limping
+U	by
+S	strength
+U	and
+@
+USUS	authority
+S	by
+U	tongue-tied
+S	made
+U	art
+S	and
+@
+S	skill
+USU	controlling
+SUS	doctor-like
+SU	folly
+U	and
+@
+USUS	simplicity
+US	miscalled
+S	truth
+SU	simple
+U	and
+@
+S	ill
+SU	captain
+USU	attending
+S	good
+SU	captive
+U	and
+@
+S	gone
+U	be
+S	i
+U	would
+S	these
+U	from
+S	these
+U	all
+S	with
+U	tired
+@
+S	alone
+U	love
+S	my
+U	leave
+S	i
+U	die
+S	to
+U	that
+S	save
+@
+S	live
+U	he
+S	should
+USU	infection
+S	with
+SU	wherefore
+U	ah
+@
+US	impiety
+S	grace
+SU	presence
+U	his
+S	with
+U	and
+@
+S	achieve
+U	should
+SUS	advantage
+U	him
+S	by
+U	sin
+S	that
+@
+SUS	society
+U	his
+S	with
+U	self
+S	it
+U	lace
+S	and
+@
+S	cheek
+U	his
+SUS	imitate
+SU	painting
+U	false
+S	should
+U	why
+@
+S	hue
+SU	living
+U	his
+S	of
+SU	seeming
+U	dead
+S	steal
+U	and
+@
+S	seek
+SUSU	indirectly
+SU	beauty
+U	poor
+S	should
+U	why
+@
+S	true
+U	is
+S	rose
+U	his
+S	since
+SU	shadow
+U	of
+US	roses
+@
+S	is
+SU	bankrupt
+SU	nature
+U	now
+S	live
+U	he
+S	should
+U	why
+@
+S	veins
+SU	lively
+U	through
+S	blush
+U	to
+S	blood
+U	of
+US	beggared
+@
+S	his
+U	but
+S	now
+USU	exchequer
+S	no
+U	hath
+S	she
+U	for
+@
+S	gains
+U	his
+S	upon
+U	lives
+S	many
+U	of
+S	proud
+U	and
+@
+S	had
+U	she
+S	wealth
+U	what
+S	show
+U	to
+S	stores
+U	she
+S	him
+U	o
+@
+S	bad
+U	so
+S	last
+U	these
+US	before
+S	since
+U	long
+S	days
+U	in
+@
+US	outworn
+S	days
+U	of
+S	map
+U	the
+S	cheek
+U	his
+S	is
+U	thus
+@
+S	now
+U	do
+US	flowers
+S	as
+U	died
+S	and
+U	lived
+US	beauty
+S	when
+@
+S	born
+U	were
+S	fair
+U	of
+S	signs
+SU	bastard
+U	these
+US	before
+@
+S	brow
+SU	living
+U	a
+S	on
+USU	inhabit
+S	durst
+U	or
+@
+S	dead
+U	the
+S	of
+SU	tresses
+SU	golden
+U	the
+US	before
+@
+S	away
+U	shorn
+S	were
+SU	sepulchres
+U	of
+S	right
+U	the
+@
+S	head
+SU	second
+U	on
+S	life
+SU	second
+U	a
+S	live
+U	to
+@
+S	gay
+USU	another
+S	made
+U	fleece
+S	dead
+SU	beauty's
+U	ere
+@
+S	seen
+U	are
+S	hours
+SU	antique
+U	holy
+S	those
+U	him
+S	in
+@
+S	true
+U	and
+S	self
+U	it
+SUS	ornament
+U	all
+US	without
+@
+S	green
+USU	another's
+S	of
+SU	summer
+U	no
+US	making
+@
+S	new
+SU	beauty
+U	his
+S	dress
+U	to
+S	old
+U	no
+US	robbing
+@
+S	store
+SU	nature
+U	doth
+S	map
+U	a
+S	for
+U	as
+S	him
+U	and
+@
+S	yore
+U	of
+S	was
+SU	beauty
+U	what
+S	art
+U	false
+S	show
+U	to
+@
+S	view
+U	doth
+S	eye
+U	world's
+S	the
+U	that
+S	thee
+U	of
+S	parts
+U	those
+@
+S	mend
+U	can
+S	hearts
+U	of
+S	thought
+U	the
+S	that
+SU	nothing
+U	want
+@
+S	due
+U	that
+S	thee
+U	give
+S	souls
+U	of
+S	voice
+U	the
+S	tongues
+U	all
+@
+US	commend
+S	foes
+U	as
+S	so
+U	even
+S	truth
+U	bare
+SUS	uttering
+@
+S	crowned
+U	is
+S	praise
+SU	outward
+U	with
+S	thus
+SU	outward
+U	thy
+@
+S	own
+U	thine
+S	so
+U	thee
+S	give
+U	that
+S	tongues
+U	same
+S	those
+U	but
+@
+US	confound
+S	praise
+U	this
+S	do
+SU	accents
+SU	other
+U	in
+@
+S	shown
+U	hath
+S	eye
+U	the
+S	than
+SU	farther
+SU	seeing
+U	by
+@
+S	mind
+U	thy
+S	of
+SU	beauty
+U	the
+S	into
+U	look
+S	they
+@
+S	deeds
+U	thy
+S	by
+SU	measure
+U	they
+S	guess
+U	in
+S	that
+U	and
+@
+S	kind
+U	were
+S	eyes
+U	their
+US	although
+S	thoughts
+U	their
+S	churls
+U	then
+@
+S	weeds
+U	of
+S	smell
+U	rank
+S	the
+U	add
+S	flower
+U	fair
+S	thy
+U	to
+@
+S	show
+U	thy
+S	not
+SU	matcheth
+U	odour
+S	thy
+U	why
+S	but
+@
+S	grow
+SU	common
+U	dost
+S	thou
+U	that
+S	this
+U	is
+S	soil
+U	the
+@
+US	defect
+S	thy
+U	be
+S	not
+U	shall
+S	blamed
+U	art
+S	thou
+U	that
+@
+S	fair
+U	the
+S	yet
+U	ever
+S	was
+U	mark
+US	slander's
+S	for
+@
+US	suspect
+S	is
+SU	beauty
+U	of
+SUS	ornament
+U	the
+@
+S	air
+SU	sweetest
+SU	heaven's
+U	in
+S	flies
+U	that
+S	crow
+U	a
+@
+US	approve
+S	but
+U	doth
+US	slander
+S	good
+U	be
+S	thou
+U	so
+@
+S	time
+U	of
+S	wooed
+SU	being
+U	greater
+S	the
+U	worth
+S	thy
+@
+S	love
+U	doth
+S	buds
+SU	sweetest
+U	the
+S	vice
+U	canker
+S	for
+@
+S	prime
+SU	unstained
+U	pure
+S	a
+USU	present'st
+S	thou
+U	and
+@
+S	days
+U	young
+S	of
+SU	ambush
+U	the
+S	by
+U	passed
+S	hast
+U	thou
+@
+S	charged
+SU	being
+SU	victor
+U	or
+US	assailed
+S	not
+SU	either
+@
+S	praise
+U	thy
+S	so
+U	be
+US	cannot
+S	praise
+U	thy
+S	this
+U	yet
+@
+US	enlarged
+US	evermore
+S	envy
+U	up
+S	tie
+U	to
+@
+S	show
+U	thy
+S	not
+U	masked
+S	ill
+U	of
+US	suspect
+S	some
+U	if
+@
+S	owe
+U	shouldst
+S	hearts
+U	of
+US	kingdoms
+S	alone
+U	thou
+S	then
+@
+S	dead
+U	am
+S	i
+U	when
+S	me
+U	for
+S	mourn
+U	longer
+S	no
+@
+S	bell
+U	sullen
+S	surly
+U	the
+S	hear
+U	shall
+S	you
+U	than
+@
+S	fled
+U	am
+S	i
+U	that
+S	world
+U	the
+S	to
+SU	warning
+U	give
+@
+S	dwell
+U	to
+S	worms
+U	vilest
+S	with
+U	world
+S	vile
+U	this
+S	from
+@
+S	not
+USU	remember
+S	line
+U	this
+S	read
+U	you
+S	if
+U	nay
+@
+S	so
+U	you
+S	love
+U	i
+S	for
+U	it
+S	writ
+U	that
+S	hand
+U	the
+@
+US	forgot
+S	be
+U	would
+S	thoughts
+U	sweet
+S	your
+U	in
+S	i
+U	that
+@
+S	woe
+U	you
+S	make
+U	should
+S	then
+U	me
+S	on
+SU	thinking
+U	if
+@
+S	verse
+U	this
+S	upon
+U	look
+S	you
+U	say
+S	i
+U	if
+S	o
+@
+S	clay
+U	with
+S	am
+USU	compounded
+US	perhaps
+S	i
+U	when
+@
+US	rehearse
+S	name
+U	poor
+S	my
+U	as
+S	much
+U	so
+S	not
+U	do
+@
+US	decay
+S	life
+U	my
+S	with
+U	even
+S	love
+U	your
+S	let
+U	but
+@
+S	moan
+U	your
+S	into
+U	look
+S	should
+U	world
+S	wise
+U	the
+S	lest
+@
+S	gone
+U	am
+S	i
+SU	after
+U	me
+S	with
+U	you
+S	mock
+U	and
+@
+US	recite
+S	to
+U	you
+S	task
+U	should
+S	world
+U	the
+S	lest
+U	o
+@
+S	love
+U	should
+S	you
+U	that
+S	me
+U	in
+S	lived
+SU	merit
+U	what
+@
+S	quite
+U	me
+US	forget
+S	love
+U	dear
+S	death
+U	my
+US	after
+@
+S	prove
+SU	worthy
+SU	nothing
+U	can
+S	me
+U	in
+S	you
+U	for
+@
+S	lie
+USU	virtuous
+S	some
+SU	devise
+U	would
+S	you
+SU	unless
+@
+S	desert
+U	own
+S	mine
+U	than
+S	me
+U	for
+S	more
+U	do
+S	to
+@
+S	i
+SU	deceased
+U	upon
+S	praise
+U	more
+S	hang
+U	and
+@
+US	impart
+SUS	willingly
+U	would
+S	truth
+SU	niggard
+U	than
+@
+S	this
+U	in
+S	false
+U	seem
+S	may
+U	love
+S	true
+U	your
+S	lest
+U	o
+@
+US	untrue
+S	me
+U	of
+S	well
+U	speak
+S	love
+U	for
+S	you
+U	that
+@
+S	is
+U	body
+S	my
+U	where
+S	buried
+U	be
+S	name
+U	my
+@
+S	you
+U	nor
+S	me
+U	nor
+S	shame
+U	to
+S	more
+U	no
+S	live
+U	and
+@
+S	forth
+U	bring
+S	i
+U	which
+S	that
+U	by
+S	shamed
+U	am
+S	i
+U	for
+@
+S	worth
+SU	nothing
+U	things
+S	love
+U	to
+S	you
+U	should
+S	so
+U	and
+@
+US	behold
+S	me
+U	in
+S	mayst
+U	thou
+S	year
+U	of
+S	time
+U	that
+@
+S	hang
+U	do
+S	few
+U	or
+S	none
+U	or
+S	leaves
+SU	yellow
+U	when
+@
+S	cold
+U	the
+S	against
+U	shake
+S	which
+U	boughs
+S	those
+U	upon
+@
+S	sang
+U	birds
+S	sweet
+U	the
+S	late
+U	where
+S	choirs
+SU	ruined
+U	bare
+@
+S	day
+U	such
+S	of
+SU	twilight
+U	the
+S	seest
+U	thou
+S	me
+U	in
+@
+S	west
+U	the
+S	in
+U	fadeth
+US	sunset
+US	after
+S	as
+@
+S	away
+U	take
+S	doth
+U	night
+S	black
+U	by
+S	and
+U	by
+S	which
+@
+S	rest
+U	in
+S	all
+U	up
+S	seals
+U	that
+S	self
+SU	second
+U	death's
+@
+S	fire
+U	such
+S	of
+SU	glowing
+U	the
+S	seest
+U	thou
+S	me
+U	in
+@
+S	lie
+U	doth
+S	youth
+U	his
+S	of
+SU	ashes
+U	the
+S	on
+U	that
+@
+US	expire
+S	must
+U	it
+US	whereon
+S	death-bed
+U	the
+S	as
+@
+S	by
+SU	nourished
+U	was
+S	it
+U	which
+S	that
+U	with
+US	consumed
+@
+S	strong
+U	more
+S	love
+U	thy
+S	makes
+U	which
+US	perceiv'st
+S	thou
+U	this
+@
+S	long
+U	ere
+S	leave
+U	must
+S	thou
+U	which
+S	well
+U	that
+S	love
+U	to
+@
+US	arrest
+S	fell
+U	that
+S	when
+USU	contented
+S	be
+U	but
+@
+S	away
+U	me
+US	carry
+S	shall
+U	bail
+S	all
+SU	without
+@
+SUS	interest
+U	some
+S	line
+U	this
+S	in
+U	hath
+S	life
+U	my
+@
+S	stay
+U	shall
+S	thee
+U	with
+S	still
+SUSU	memorial
+U	for
+S	which
+@
+US	review
+S	dost
+U	thou
+S	this
+SU	reviewest
+U	thou
+S	when
+@
+S	thee
+U	to
+SUS	consecrate
+U	was
+S	part
+U	very
+S	the
+@
+S	due
+U	his
+S	is
+U	which
+S	earth
+U	but
+S	have
+U	can
+S	earth
+U	the
+@
+S	me
+U	of
+S	part
+SU	better
+U	the
+S	thine
+U	is
+US	spirit
+S	my
+@
+S	life
+U	of
+S	dregs
+U	the
+S	lost
+U	but
+S	hast
+U	thou
+S	then
+U	so
+@
+S	dead
+SU	being
+U	body
+S	my
+U	worms
+S	of
+U	prey
+S	the
+@
+S	knife
+U	wretch's
+S	a
+U	of
+US	conquest
+US	coward
+S	the
+@
+SUS	remembered
+U	be
+S	to
+U	thee
+S	of
+U	base
+S	too
+@
+US	contains
+S	it
+U	which
+S	that
+U	is
+S	that
+U	of
+S	worth
+U	the
+@
+US	remains
+S	thee
+U	with
+S	this
+U	and
+S	this
+U	is
+S	that
+U	and
+@
+S	life
+U	to
+S	food
+U	as
+S	thoughts
+U	my
+S	to
+U	you
+S	are
+U	so
+@
+S	ground
+U	the
+S	to
+U	are
+US	showers
+SUS	sweet-seasoned
+U	as
+S	or
+@
+S	strife
+U	such
+S	hold
+U	i
+S	you
+U	of
+S	peace
+U	the
+S	for
+U	and
+@
+S	found
+U	is
+S	wealth
+U	his
+S	and
+U	miser
+S	a
+U	twixt
+S	as
+@
+S	anon
+U	and
+SUS	enjoyer
+U	an
+S	as
+U	proud
+S	now
+@
+US	treasure
+S	his
+U	steal
+S	will
+U	age
+US	filching
+S	the
+SU	doubting
+@
+S	alone
+U	you
+S	with
+U	be
+S	to
+U	best
+US	counting
+S	now
+@
+US	pleasure
+S	my
+U	see
+S	may
+U	world
+S	the
+U	that
+US	bettered
+S	then
+@
+S	sight
+U	your
+S	on
+SU	feasting
+U	with
+S	full
+U	all
+US	sometime
+@
+S	look
+U	a
+S	for
+U	starved
+S	clean
+U	by
+S	and
+U	by
+S	and
+@
+US	delight
+S	no
+USU	pursuing
+S	or
+USU	possessing
+@
+S	took
+U	be
+S	you
+U	from
+S	must
+U	or
+S	had
+U	is
+S	what
+U	save
+@
+S	day
+U	by
+S	day
+SU	surfeit
+U	and
+S	pine
+U	i
+S	do
+U	thus
+@
+S	away
+U	all
+S	or
+U	all
+S	on
+USU	gluttoning
+S	or
+@
+S	pride
+U	new
+S	of
+SU	barren
+U	so
+S	verse
+U	my
+S	is
+U	why
+@
+S	change
+U	quick
+S	or
+USU	variation
+S	from
+U	far
+S	so
+@
+S	aside
+U	glance
+S	not
+U	i
+S	do
+U	time
+S	the
+U	with
+S	why
+@
+S	strange
+SU	compounds
+U	to
+S	and
+SU	methods
+SU	new-found
+U	to
+@
+S	same
+U	the
+S	ever
+U	one
+S	all
+U	still
+S	i
+U	write
+S	why
+@
+S	weed
+SU	noted
+U	a
+S	in
+USU	invention
+S	keep
+U	and
+@
+S	name
+U	my
+S	tell
+SU	almost
+U	doth
+S	word
+U	every
+S	that
+@
+US	proceed
+S	did
+U	they
+S	where
+U	and
+S	birth
+U	their
+US	showing
+@
+S	you
+U	of
+S	write
+SU	always
+U	i
+S	love
+U	sweet
+S	know
+U	o
+@
+SUS	argument
+U	my
+S	still
+U	are
+S	love
+U	and
+S	you
+U	and
+@
+S	new
+U	words
+S	old
+SU	dressing
+U	is
+S	best
+U	my
+S	all
+U	so
+@
+S	spent
+SU	already
+U	is
+S	what
+U	again
+US	spending
+@
+S	old
+U	and
+S	new
+SU	daily
+U	is
+S	sun
+U	the
+S	as
+U	for
+@
+S	told
+U	is
+S	what
+U	telling
+S	still
+U	love
+S	my
+U	is
+S	so
+@
+S	wear
+SU	beauties
+U	thy
+S	how
+U	thee
+S	show
+U	will
+S	glass
+U	thy
+@
+S	waste
+SU	minutes
+SU	precious
+U	thy
+S	how
+U	dial
+S	thy
+@
+S	bear
+U	will
+US	imprint
+S	mind's
+U	thy
+S	leaves
+SU	vacant
+U	these
+@
+S	taste
+U	thou
+S	mayst
+SU	learning
+U	this
+S	book
+U	this
+S	of
+U	and
+@
+S	show
+SU	truly
+U	will
+S	glass
+U	thy
+S	which
+SU	wrinkles
+U	the
+@
+SUS	memory
+U	thee
+S	give
+U	will
+S	graves
+U	mouthed
+S	of
+@
+S	know
+U	mayst
+S	stealth
+U	shady
+US	dial's
+S	thy
+U	by
+S	thou
+@
+SUS	eternity
+U	to
+S	progress
+U	thievish
+S	time's
+@
+US	contain
+US	cannot
+SUS	memory
+U	thy
+S	what
+U	look
+@
+S	find
+U	shalt
+S	thou
+U	and
+S	blanks
+U	waste
+S	these
+U	to
+US	commit
+@
+S	brain
+U	thy
+S	from
+USU	delivered
+S	nursed
+SU	children
+U	those
+@
+S	mind
+U	thy
+S	of
+USU	acquaintance
+S	new
+U	a
+S	take
+U	to
+@
+S	look
+U	wilt
+S	thou
+U	as
+S	oft
+U	so
+US	offices
+S	these
+@
+S	book
+U	thy
+US	enrich
+S	much
+U	and
+S	thee
+SU	profit
+U	shall
+@
+S	muse
+U	my
+S	for
+U	thee
+US	invoked
+S	i
+U	have
+S	oft
+U	so
+@
+S	verse
+U	my
+S	in
+USU	assistance
+S	fair
+U	such
+S	found
+U	and
+@
+S	use
+U	my
+S	got
+U	hath
+S	pen
+U	alien
+S	every
+U	as
+@
+US	disperse
+S	poesy
+U	their
+S	thee
+SU	under
+U	and
+@
+S	sing
+U	to
+S	high
+U	on
+S	dumb
+U	the
+S	taught
+U	that
+S	eyes
+U	thine
+@
+S	fly
+U	to
+S	aloft
+USU	ignorance
+S	heavy
+U	and
+@
+S	wing
+U	learned's
+S	the
+U	to
+US	feathers
+S	added
+U	have
+@
+S	majesty
+SU	double
+U	a
+S	grace
+SU	given
+U	and
+@
+US	compile
+S	i
+U	which
+S	that
+U	of
+S	proud
+U	most
+S	be
+U	yet
+@
+S	thee
+U	of
+S	born
+U	and
+S	thine
+U	is
+SUS	influence
+U	whose
+@
+S	style
+U	the
+S	mend
+U	but
+S	dost
+U	thou
+S	works
+USU	others
+S	in
+@
+S	be
+U	graced
+S	graces
+U	sweet
+S	thy
+U	with
+S	arts
+U	and
+@
+US	advance
+S	dost
+U	and
+S	art
+U	my
+S	all
+U	art
+S	thou
+U	but
+@
+SUS	ignorance
+U	rude
+S	my
+SU	learning
+U	as
+S	high
+U	as
+@
+S	aid
+U	thy
+S	upon
+U	call
+S	did
+U	alone
+S	i
+U	whilst
+@
+S	grace
+SU	gentle
+U	thy
+S	all
+U	had
+S	alone
+U	verse
+S	my
+@
+US	decayed
+S	are
+SU	numbers
+SU	gracious
+U	my
+S	now
+U	but
+@
+S	place
+SU	other
+U	an
+S	give
+U	doth
+S	muse
+U	sick
+S	my
+U	and
+@
+SUS	argument
+SU	lovely
+U	thy
+S	love
+U	sweet
+S	grant
+U	i
+@
+S	pen
+USU	worthier
+S	a
+U	of
+US	travail
+S	the
+SU	deserves
+@
+US	invent
+S	doth
+U	poet
+S	thy
+U	thee
+S	of
+U	what
+S	yet
+@
+S	again
+U	thee
+S	it
+U	pays
+S	and
+U	of
+S	thee
+U	robs
+S	he
+@
+S	word
+U	that
+S	stole
+U	he
+S	and
+U	virtue
+S	thee
+U	lends
+S	he
+@
+S	give
+U	he
+S	doth
+SU	beauty
+USU	behaviour
+S	thy
+U	from
+@
+US	afford
+S	can
+U	he
+S	cheek
+U	thy
+S	in
+U	it
+S	found
+U	and
+@
+S	live
+U	doth
+S	thee
+U	in
+S	what
+U	but
+S	thee
+U	to
+S	praise
+U	no
+@
+S	say
+U	doth
+S	he
+U	which
+S	that
+U	for
+S	not
+U	him
+S	thank
+U	then
+@
+S	pay
+U	dost
+S	self
+U	thy
+S	thou
+U	thee
+S	owes
+U	he
+S	what
+U	since
+@
+S	write
+U	do
+S	you
+U	of
+S	i
+U	when
+S	faint
+U	i
+S	how
+U	o
+@
+S	name
+U	your
+S	use
+U	doth
+US	spirit
+US	better
+S	a
+SU	knowing
+@
+S	might
+U	his
+S	all
+U	spends
+US	thereof
+S	praise
+U	the
+S	in
+U	and
+@
+S	fame
+U	your
+S	of
+SU	speaking
+U	tongue-tied
+S	me
+U	make
+S	to
+@
+S	is
+U	ocean
+S	the
+U	as
+S	wide
+U	worth
+S	your
+U	since
+S	but
+@
+S	bear
+U	doth
+S	sail
+SU	proudest
+U	the
+S	as
+SU	humble
+U	the
+@
+S	his
+U	to
+S	far
+SUSU	inferior
+U	bark
+S	saucy
+U	my
+@
+US	appear
+SUS	wilfully
+U	doth
+S	main
+U	broad
+S	your
+U	on
+@
+S	afloat
+U	up
+S	me
+U	hold
+S	will
+U	help
+SUS	shallowest
+U	your
+@
+S	ride
+U	doth
+S	deep
+SU	soundless
+U	your
+S	upon
+U	he
+S	whilst
+@
+S	boat
+SU	worthless
+U	a
+S	am
+U	i
+S	wrecked
+SU	being
+U	or
+@
+S	pride
+SU	goodly
+U	of
+S	and
+SU	building
+U	tall
+S	of
+U	he
+@
+S	away
+U	cast
+S	be
+U	i
+S	and
+U	thrive
+S	he
+U	if
+S	then
+@
+US	decay
+S	my
+U	was
+S	love
+U	my
+S	this
+U	was
+S	worst
+U	the
+@
+S	make
+U	to
+US	epitaph
+S	your
+U	live
+S	shall
+U	i
+S	or
+@
+US	rotten
+S	am
+U	earth
+S	in
+U	i
+S	when
+SU	survive
+U	you
+S	or
+@
+S	take
+SU	cannot
+U	death
+SUS	memory
+U	your
+S	hence
+U	from
+@
+SUS	forgotten
+U	be
+S	will
+U	part
+S	each
+U	me
+S	in
+SU	although
+@
+S	have
+U	shall
+S	life
+USU	immortal
+S	hence
+U	from
+S	name
+U	your
+@
+S	die
+U	must
+S	world
+U	the
+S	all
+U	to
+S	gone
+U	once
+S	i
+U	though
+@
+S	grave
+SU	common
+U	a
+S	but
+U	me
+S	yield
+U	can
+S	earth
+U	the
+@
+S	lie
+U	shall
+S	eyes
+U	men's
+S	in
+SU	entombed
+U	you
+S	when
+@
+S	verse
+SU	gentle
+U	my
+S	be
+U	shall
+SUS	monument
+U	your
+@
+S	o'er-read
+U	shall
+SUS	created
+U	yet
+S	not
+U	eyes
+S	which
+@
+US	rehearse
+S	shall
+SU	being
+U	your
+S	be
+U	to
+S	tongues
+U	and
+@
+S	dead
+U	are
+S	world
+U	this
+S	of
+U	breathers
+S	the
+U	all
+S	when
+@
+S	pen
+U	my
+S	hath
+U	virtue
+S	such
+U	live
+S	shall
+U	still
+S	you
+@
+S	men
+U	of
+S	mouths
+U	the
+S	in
+U	even
+S	breathes
+U	most
+S	breath
+U	where
+@
+S	muse
+U	my
+S	to
+SU	married
+U	not
+S	wert
+U	thou
+S	grant
+U	i
+@
+US	o'erlook
+US	attaint
+US	without
+S	mayst
+SU	therefore
+U	and
+@
+S	use
+SU	writers
+U	which
+S	words
+SUSU	dedicated
+U	the
+@
+S	book
+U	every
+US	blessing
+US	subject
+S	fair
+U	their
+S	of
+@
+S	hue
+U	in
+S	as
+SU	knowledge
+U	in
+S	fair
+U	as
+S	art
+U	thou
+@
+S	praise
+U	my
+S	past
+SU	limit
+U	a
+S	worth
+U	thy
+US	finding
+@
+S	anew
+U	seek
+S	to
+SU	enforced
+U	art
+US	therefore
+S	and
+@
+S	days
+SUSU	time-bettering
+U	the
+S	of
+U	stamp
+US	fresher
+S	some
+@
+US	devised
+S	have
+U	they
+S	when
+U	yet
+S	love
+U	so
+S	do
+U	and
+@
+S	lend
+U	can
+S	rhetoric
+SU	touches
+U	strained
+S	what
+@
+SUS	sympathized
+SU	truly
+U	wert
+S	fair
+SU	truly
+U	thou
+@
+S	friend
+U	true-telling
+S	thy
+U	by
+S	words
+U	plain
+S	true
+U	in
+@
+S	used
+SU	better
+U	be
+S	might
+SU	painting
+U	gross
+S	their
+U	and
+@
+S	abused
+U	is
+S	it
+U	thee
+S	in
+U	blood
+S	need
+U	cheeks
+S	where
+@
+S	need
+SU	painting
+U	did
+S	you
+U	that
+S	saw
+SU	never
+U	i
+@
+S	set
+SU	painting
+U	no
+S	fair
+U	your
+S	to
+SU	therefore
+U	and
+@
+US	exceed
+S	did
+U	you
+S	found
+U	i
+S	thought
+U	or
+S	found
+U	i
+@
+S	debt
+USU	poet's
+S	a
+U	of
+US	tender
+US	barren
+S	that
+@
+US	report
+S	your
+U	in
+S	slept
+U	i
+S	have
+SU	therefore
+U	and
+@
+S	show
+U	might
+S	well
+SU	extant
+SU	being
+U	self
+S	your
+U	you
+S	that
+@
+S	short
+U	too
+S	come
+U	doth
+S	quill
+SU	modern
+U	a
+S	far
+U	how
+@
+S	grow
+U	doth
+S	you
+U	in
+S	worth
+U	what
+S	worth
+U	of
+US	speaking
+@
+US	impute
+S	did
+U	you
+S	sin
+U	my
+S	for
+SU	silence
+U	this
+@
+S	dumb
+SU	being
+SU	glory
+U	my
+S	most
+U	be
+S	shall
+U	which
+@
+S	mute
+SU	being
+SU	beauty
+U	not
+US	impair
+S	i
+U	for
+@
+S	tomb
+U	a
+S	bring
+U	and
+S	life
+U	give
+S	would
+SU	others
+U	when
+@
+S	eyes
+U	fair
+S	your
+U	of
+S	one
+U	in
+S	life
+U	more
+S	lives
+U	there
+@
+US	devise
+S	praise
+U	in
+S	can
+SU	poets
+U	your
+S	both
+U	than
+@
+S	more
+U	say
+S	can
+U	which
+S	most
+U	says
+S	that
+U	it
+S	is
+U	who
+@
+S	you
+U	are
+S	alone
+U	you
+S	that
+U	praise
+S	rich
+U	this
+S	than
+@
+S	store
+U	the
+S	is
+SU	immured
+SU	confine
+U	whose
+S	in
+@
+S	grew
+U	equal
+S	your
+U	where
+SUS	example
+U	should
+S	which
+@
+S	dwell
+U	doth
+S	pen
+U	that
+US	within
+S	penury
+U	lean
+@
+US	glory
+S	small
+U	some
+S	not
+U	lends
+US	subject
+S	his
+U	to
+S	that
+@
+S	tell
+U	can
+S	he
+U	if
+S	you
+U	of
+S	writes
+U	that
+S	he
+U	but
+@
+US	story
+S	his
+USU	dignifies
+S	so
+U	you
+S	are
+U	you
+S	that
+@
+S	writ
+U	is
+S	you
+U	in
+S	what
+U	copy
+S	but
+U	him
+S	let
+@
+S	clear
+U	so
+S	made
+SU	nature
+U	what
+S	worse
+SU	making
+U	not
+@
+S	wit
+U	his
+S	fame
+U	shall
+SUS	counterpart
+U	a
+S	such
+U	and
+@
+S	where
+U	every
+US	admired
+S	style
+U	his
+US	making
+@
+S	curse
+U	a
+S	add
+SU	blessings
+SU	beauteous
+U	your
+S	to
+U	you
+@
+S	worse
+SU	praises
+U	your
+S	makes
+U	which
+S	praise
+U	on
+S	fond
+SU	being
+@
+S	still
+U	her
+S	holds
+SU	manners
+U	in
+S	muse
+U	tongue-tied
+S	my
+@
+US	compiled
+US	richly
+S	praise
+U	your
+S	of
+SU	comments
+U	while
+@
+S	quill
+SU	golden
+U	with
+SUS	character
+U	their
+US	reserve
+@
+S	filed
+SU	muses
+U	the
+S	all
+U	by
+S	phrase
+SU	precious
+U	and
+@
+S	words
+U	good
+S	write
+SU	other
+U	whilst
+S	thoughts
+U	good
+S	think
+U	i
+@
+S	amen
+U	cry
+S	still
+U	clerk
+SUS	unlettered
+U	like
+S	and
+@
+US	affords
+US	spirit
+S	able
+U	that
+S	hymn
+U	every
+S	to
+@
+S	pen
+SU	refined
+U	well
+S	of
+U	form
+US	polished
+S	in
+@
+S	true
+U	tis
+S	so
+U	tis
+S	say
+U	i
+S	praised
+U	you
+US	hearing
+@
+S	more
+SU	something
+U	add
+S	praise
+U	of
+S	most
+U	the
+S	to
+U	and
+@
+S	you
+U	to
+S	love
+U	whose
+S	thought
+U	my
+S	in
+U	is
+S	that
+U	but
+@
+US	before
+S	rank
+U	his
+S	holds
+SU	hindmost
+U	come
+S	words
+U	though
+@
+US	respect
+S	words
+U	of
+S	breath
+U	the
+S	for
+SU	others
+U	then
+@
+US	effect
+S	in
+SU	speaking
+U	thoughts
+S	dumb
+U	my
+S	for
+U	me
+@
+S	verse
+U	great
+S	his
+U	of
+S	sail
+U	full
+S	proud
+U	the
+S	it
+U	was
+@
+S	you
+SU	precious
+U	too
+S	all
+U	of
+S	prize
+U	the
+S	for
+U	bound
+@
+US	inhearse
+S	brain
+U	my
+S	in
+U	thoughts
+S	ripe
+U	my
+S	did
+U	that
+@
+S	grew
+U	they
+US	wherein
+S	womb
+U	the
+S	tomb
+U	their
+US	making
+@
+S	write
+U	to
+S	taught
+SU	spirits
+U	by
+US	spirit
+S	his
+U	it
+S	was
+@
+S	dead
+U	me
+S	struck
+U	that
+S	pitch
+SU	mortal
+U	a
+S	above
+@
+S	night
+U	by
+US	compeers
+S	his
+U	nor
+S	he
+SU	neither
+U	no
+@
+SUS	astonished
+U	verse
+S	my
+U	aid
+S	him
+SU	giving
+@
+S	ghost
+USU	familiar
+SUS	affable
+U	that
+S	nor
+U	he
+@
+USUS	intelligence
+S	with
+U	him
+S	gulls
+SU	nightly
+U	which
+@
+S	boast
+SU	cannot
+SU	silence
+U	my
+S	of
+SU	victors
+U	as
+@
+S	thence
+U	from
+S	fear
+U	any
+S	of
+U	sick
+S	not
+U	was
+S	i
+@
+S	line
+U	his
+S	up
+U	filled
+SUS	countenance
+U	your
+S	when
+U	but
+@
+S	mine
+USU	enfeebled
+S	that
+SU	matter
+U	i
+S	lacked
+U	then
+@
+SUS	possessing
+U	my
+S	for
+U	dear
+S	too
+U	art
+S	thou
+U	farewell
+@
+SUS	estimate
+U	thy
+S	know'st
+U	thou
+S	enough
+U	like
+S	and
+@
+SUS	releasing
+U	thee
+S	gives
+U	worth
+S	thy
+U	of
+US	charter
+S	the
+@
+USUS	determinate
+S	all
+U	are
+S	thee
+U	in
+S	bonds
+U	my
+@
+SUS	granting
+U	thy
+S	by
+U	but
+S	thee
+U	hold
+S	i
+U	do
+S	how
+U	for
+@
+SUS	deserving
+U	my
+S	is
+U	where
+US	riches
+S	that
+U	for
+S	and
+@
+SUS	wanting
+U	is
+S	me
+U	in
+S	gift
+U	fair
+S	this
+U	of
+S	cause
+U	the
+@
+US	swerving
+S	is
+U	again
+S	back
+U	patent
+S	my
+U	so
+S	and
+@
+US	knowing
+S	not
+U	then
+S	worth
+U	own
+S	thy
+U	gav'st
+S	thou
+U	self
+S	thy
+@
+SUS	mistaking
+U	else
+S	it
+U	gav'st
+S	thou
+U	whom
+S	to
+U	me
+S	or
+@
+US	growing
+SUS	misprision
+U	upon
+S	gift
+U	great
+S	thy
+U	so
+@
+US	making
+US	judgement
+US	better
+S	on
+U	again
+S	home
+U	comes
+@
+US	flatter
+S	doth
+U	dream
+S	a
+U	as
+S	thee
+U	had
+S	i
+U	have
+S	thus
+@
+US	matter
+S	such
+U	no
+US	waking
+S	but
+U	king
+S	a
+U	sleep
+S	in
+@
+S	light
+U	me
+S	set
+U	to
+US	disposed
+S	be
+U	shalt
+S	thou
+U	when
+@
+S	scorn
+U	of
+S	eye
+U	the
+S	in
+SU	merit
+U	my
+S	place
+U	and
+@
+S	fight
+U	i'll
+S	self
+U	my
+S	against
+U	side
+S	thy
+U	upon
+@
+US	forsworn
+S	art
+U	thou
+S	though
+USU	virtuous
+S	thee
+U	prove
+S	and
+@
+SUS	acquainted
+U	best
+US	being
+US	weakness
+S	own
+U	mine
+S	with
+@
+US	story
+S	a
+U	down
+S	set
+U	can
+S	i
+U	part
+S	thy
+U	upon
+@
+SUS	attainted
+U	am
+S	i
+SU	wherein
+SU	concealed
+U	faults
+S	of
+@
+US	glory
+S	much
+U	win
+S	shalt
+U	me
+US	losing
+S	in
+U	thou
+S	that
+@
+S	too
+SU	gainer
+U	a
+S	be
+U	will
+S	this
+U	by
+S	i
+U	and
+@
+S	thee
+U	on
+S	thoughts
+SU	loving
+U	my
+S	all
+SU	bending
+U	for
+@
+S	do
+U	i
+S	self
+U	my
+S	to
+U	that
+US	injuries
+S	the
+@
+S	me
+SUSU	double-vantage
+SU	vantage
+U	thee
+US	doing
+@
+US	belong
+S	so
+U	i
+S	thee
+U	to
+S	love
+U	my
+S	is
+U	such
+@
+S	wrong
+U	all
+S	bear
+U	will
+S	self
+U	my
+S	right
+U	thy
+S	for
+U	that
+@
+S	fault
+U	some
+S	for
+U	me
+US	forsake
+S	didst
+U	thou
+S	that
+U	say
+@
+US	offence
+S	that
+U	upon
+US	comment
+S	will
+U	i
+S	and
+@
+S	halt
+U	will
+S	straight
+U	i
+S	and
+SU	lameness
+U	my
+S	of
+U	speak
+@
+US	defence
+S	no
+SU	making
+SU	reasons
+U	thy
+S	against
+@
+S	ill
+U	so
+S	half
+U	me
+US	disgrace
+S	love
+U	not
+S	canst
+U	thou
+@
+S	change
+SU	desired
+U	upon
+S	form
+U	a
+S	set
+U	to
+@
+S	will
+U	thy
+US	knowing
+US	disgrace
+S	self
+U	my
+S	i'll
+U	as
+@
+S	strange
+U	look
+S	and
+SU	strangle
+USU	acquaintance
+S	will
+U	i
+@
+S	tongue
+U	my
+S	in
+U	and
+S	walks
+U	thy
+S	from
+SU	absent
+U	be
+@
+S	dwell
+U	shall
+S	more
+U	no
+S	name
+U	beloved
+S	sweet
+U	thy
+@
+S	wronk
+U	it
+S	do
+U	should
+US	profane
+S	much
+U	too
+S	i
+U	lest
+@
+S	tell
+USU	acquaintance
+S	old
+U	our
+S	of
+SU	haply
+U	and
+@
+US	debate
+S	vow
+U	i'll
+S	self
+U	my
+S	against
+U	thee
+S	for
+@
+S	hate
+U	dost
+S	thou
+U	whom
+S	him
+U	love
+S	ne'er
+U	must
+S	i
+U	for
+@
+S	now
+U	ever
+S	if
+U	wilt
+S	thou
+U	when
+S	me
+U	hate
+S	then
+@
+S	cross
+U	to
+S	deeds
+U	my
+S	bent
+U	is
+S	world
+U	the
+S	while
+U	now
+@
+S	bow
+U	me
+S	make
+SU	fortune
+U	of
+S	spite
+U	the
+S	with
+U	join
+@
+US	after-loss
+S	an
+U	for
+S	in
+U	drop
+S	not
+U	do
+S	and
+@
+US	sorrow
+S	this
+SU	scaped
+U	hath
+S	heart
+U	my
+S	when
+U	not
+S	do
+U	ah
+@
+S	woe
+SU	conquered
+U	a
+S	of
+SU	rearward
+U	the
+S	in
+U	come
+@
+US	morrow
+S	rainy
+U	a
+S	night
+U	windy
+S	a
+U	not
+S	give
+@
+US	overthrow
+US	purposed
+S	a
+U	out
+S	linger
+U	to
+@
+S	last
+U	me
+S	leave
+U	not
+S	do
+U	me
+S	leave
+U	wilt
+S	thou
+U	if
+@
+S	spite
+U	their
+S	done
+U	have
+S	griefs
+SU	petty
+SU	other
+U	when
+@
+S	taste
+U	i
+S	shall
+U	so
+S	come
+SU	onset
+U	the
+S	in
+U	but
+@
+S	might
+SU	fortune's
+U	of
+S	worst
+U	very
+S	the
+U	first
+S	at
+@
+S	woe
+U	seem
+S	now
+U	which
+S	woe
+U	of
+S	strains
+SU	other
+U	and
+@
+S	so
+U	seem
+S	not
+U	will
+S	thee
+U	of
+S	loss
+U	with
+US	compared
+@
+S	skill
+U	their
+S	in
+U	some
+S	birth
+U	their
+S	in
+SU	glory
+U	some
+@
+S	force
+U	body's
+S	their
+U	in
+S	some
+U	wealth
+S	their
+U	in
+S	some
+@
+S	ill
+USU	new-fangled
+S	though
+SU	garments
+U	their
+S	in
+U	some
+@
+S	horse
+U	their
+S	in
+U	some
+S	hounds
+U	and
+S	hawks
+U	their
+S	in
+U	some
+@
+US	pleasure
+US	adjunct
+S	his
+U	hath
+US	humour
+S	every
+U	and
+@
+S	rest
+U	the
+S	above
+U	joy
+S	a
+U	finds
+S	it
+SU	wherein
+@
+US	measure
+S	my
+U	not
+S	are
+SUSU	particulars
+U	these
+S	but
+@
+S	best
+USU	general
+S	one
+U	in
+US	better
+S	i
+U	these
+S	all
+@
+S	me
+U	to
+S	birth
+U	high
+S	than
+SU	better
+U	is
+S	love
+U	thy
+@
+S	costs
+SU	garments
+U	than
+US	prouder
+S	wealth
+U	than
+US	richer
+@
+S	be
+SU	horses
+U	and
+S	hawks
+U	than
+US	delight
+S	more
+U	of
+@
+S	boast
+U	i
+S	pride
+U	men's
+S	all
+U	of
+S	thee
+SU	having
+U	and
+@
+S	take
+U	mayst
+S	thou
+U	that
+S	alone
+U	this
+S	in
+U	wretched
+@
+S	make
+SU	wretchcd
+U	most
+S	me
+U	and
+S	away
+U	this
+S	all
+@
+S	away
+U	self
+S	thy
+U	steal
+S	to
+U	worst
+S	thy
+U	do
+S	but
+@
+S	mine
+SU	assured
+U	art
+S	thou
+U	life
+S	of
+U	term
+S	for
+@
+S	stay
+U	will
+S	love
+U	thy
+S	than
+U	longer
+S	no
+U	life
+S	and
+@
+S	thine
+U	of
+S	love
+U	that
+S	upon
+SU	depends
+U	it
+S	for
+@
+S	wrongs
+U	of
+S	worst
+U	the
+S	fear
+U	to
+S	not
+U	i
+S	need
+U	then
+@
+S	end
+U	hath
+S	life
+U	my
+S	them
+U	of
+S	least
+U	the
+S	in
+U	when
+@
+US	belongs
+S	me
+U	to
+S	state
+SU	better
+U	a
+S	see
+U	i
+@
+US	depend
+S	doth
+SU	humour
+U	thy
+S	on
+U	which
+S	that
+U	than
+@
+S	mind
+USU	inconstant
+S	with
+U	me
+S	vex
+U	not
+S	canst
+U	thou
+@
+S	lie
+U	doth
+US	revolt
+S	thy
+U	on
+S	life
+U	my
+S	that
+U	since
+@
+S	find
+U	i
+S	do
+SU	title
+SU	happy
+U	a
+S	what
+U	o
+@
+S	die
+U	to
+US	happy
+S	love
+U	thy
+S	have
+U	to
+US	happy
+@
+S	blot
+U	no
+S	fears
+U	that
+US	blessed-fair
+S	so
+U	what's
+S	but
+@
+S	not
+U	it
+S	know
+U	i
+S	yet
+U	and
+S	false
+U	be
+S	mayst
+U	thou
+@
+S	true
+U	art
+S	thou
+USU	supposing
+S	live
+U	i
+S	shall
+U	so
+@
+S	face
+U	love's
+S	so
+SU	husband
+SU	deceived
+U	a
+S	like
+@
+S	new
+SU	altered
+U	though
+S	me
+U	to
+S	love
+U	seem
+S	still
+U	may
+@
+S	place
+SU	other
+U	in
+S	heart
+U	thy
+S	me
+U	with
+S	looks
+U	thy
+@
+S	eye
+U	thine
+S	in
+SU	hatred
+U	no
+S	live
+U	can
+S	there
+U	for
+@
+S	change
+U	thy
+S	know
+SU	cannot
+U	i
+S	that
+U	in
+US	therefore
+@
+SUS	history
+U	heart's
+S	false
+U	the
+S	looks
+U	many's
+S	in
+@
+S	strange
+SU	wrinkles
+U	and
+S	frowns
+U	and
+S	moods
+U	in
+S	writ
+U	is
+@
+US	decree
+S	did
+SU	creation
+U	thy
+S	in
+SU	heaven
+U	but
+@
+S	dwell
+U	ever
+S	should
+U	love
+S	sweet
+U	face
+S	thy
+U	in
+S	that
+@
+S	be
+SU	workings
+U	heart's
+S	thy
+U	or
+S	thoughts
+U	thy
+S	whate'er
+@
+S	tell
+SU	sweetness
+U	but
+S	thence
+SU	nothing
+U	should
+S	looks
+U	thy
+@
+S	grow
+SU	beauty
+U	thy
+S	doth
+SU	apple
+U	eve's
+S	like
+U	how
+@
+S	show
+U	thy
+S	not
+SU	answer
+U	virtue
+S	sweet
+U	thy
+S	if
+@
+S	none
+U	do
+S	will
+U	and
+S	hurt
+U	to
+US	power
+S	have
+U	that
+S	they
+@
+S	show
+U	do
+S	most
+U	they
+S	thing
+U	the
+S	do
+U	not
+S	do
+U	that
+@
+S	stone
+U	as
+US	themselves
+S	are
+SU	others
+SU	moving
+U	who
+@
+S	slow
+USU	temptation
+S	to
+U	and
+S	cold
+SU	unmoved
+@
+S	graces
+SU	heaven's
+USU	inherit
+S	do
+SU	rightly
+U	they
+@
+US	expense
+S	from
+SU	riches
+SU	nature's
+SU	husband
+U	and
+@
+S	faces
+U	their
+S	of
+SU	owners
+U	and
+S	lords
+U	the
+S	are
+U	tibey
+@
+SUS	excellence
+U	their
+S	of
+SU	stewards
+U	but
+US	others
+@
+S	sweet
+SU	summer
+U	the
+S	to
+U	is
+S	flower
+SU	summer's
+U	the
+@
+S	die
+U	and
+S	live
+U	only
+S	it
+U	self
+S	it
+U	to
+S	though
+@
+S	meet
+USU	infection
+S	base
+U	with
+S	flower
+U	that
+S	if
+U	but
+@
+SUS	dignity
+U	his
+US	outbraves
+S	weed
+U	basest
+S	the
+@
+S	deeds
+U	their
+S	by
+U	sourest
+S	turn
+U	things
+US	sweetest
+S	for
+@
+S	weeds
+U	than
+S	worse
+U	far
+S	smell
+SU	fester
+U	that
+S	lilies
+@
+S	shame
+U	the
+S	make
+U	thou
+S	dost
+SU	lovely
+U	and
+S	sweet
+U	how
+@
+S	rose
+SU	fragrant
+U	the
+S	in
+U	canker
+S	a
+U	like
+S	which
+@
+S	name
+SU	budding
+U	thy
+S	of
+SU	beauty
+U	the
+S	spot
+U	doth
+@
+US	enclose
+S	sins
+U	thy
+S	thou
+U	dost
+S	sweets
+U	what
+S	in
+U	o
+@
+S	days
+U	thy
+S	of
+SU	story
+U	the
+S	tells
+U	that
+S	tongue
+U	that
+@
+S	sport
+U	thy
+S	on
+SU	comments
+SUSU	lascivious
+SU	making
+@
+S	praise
+U	of
+S	kind
+U	a
+S	in
+U	but
+US	dispraise
+US	cannot
+@
+US	report
+S	ill
+U	an
+US	blesses
+S	name
+U	thy
+US	naming
+@
+S	got
+U	vices
+S	those
+U	have
+US	mansion
+S	a
+U	what
+S	o
+@
+S	thee
+U	out
+S	chose
+USU	habitation
+S	their
+U	for
+S	which
+@
+S	blot
+U	every
+US	cover
+S	doth
+U	veil
+US	beauty's
+S	where
+@
+S	see
+U	can
+S	eyes
+U	that
+S	fair
+U	to
+S	turns
+U	things
+S	all
+U	and
+@
+SUS	privilege
+U	large
+S	this
+U	of
+S	heart
+U	dear
+S	heed
+U	take
+@
+S	edge
+U	his
+S	lose
+U	doth
+US	ill-used
+S	knife
+SU	hardest
+U	the
+@
+SUS	wantonness
+U	some
+S	youth
+U	is
+S	fault
+U	thy
+S	say
+U	some
+@
+S	sport
+SU	gentle
+U	and
+S	youth
+U	is
+S	grace
+U	thy
+S	say
+U	some
+@
+S	less
+U	and
+S	more
+U	of
+S	loved
+U	are
+S	faults
+U	and
+S	grace
+U	both
+@
+US	resort
+S	thee
+U	to
+S	that
+U	graces
+S	faults
+U	mak'st
+S	thou
+@
+S	queen
+U	throned
+S	a
+U	of
+US	finger
+S	the
+U	on
+S	as
+@
+US	esteemed
+S	well
+U	be
+S	will
+SU	jewel
+U	basest
+S	the
+@
+S	seen
+U	are
+S	thee
+U	in
+S	that
+SU	errors
+U	those
+S	are
+U	so
+@
+S	deemed
+U	things
+S	true
+U	for
+S	and
+USU	translated
+S	truths
+U	to
+@
+US	betray
+S	wolf
+U	stern
+S	the
+U	might
+S	lambs
+U	many
+S	how
+@
+US	translate
+S	looks
+U	his
+S	could
+U	he
+S	lamb
+U	a
+S	like
+U	if
+@
+S	away
+U	lead
+S	thou
+U	mightst
+US	gazers
+S	many
+U	how
+@
+S	state
+U	thy
+S	all
+U	of
+S	strength
+U	the
+S	use
+U	wouldst
+S	thou
+U	if
+@
+S	sort
+U	such
+S	in
+U	thee
+S	love
+U	i
+S	so
+U	not
+S	do
+U	but
+@
+US	report
+S	good
+U	thy
+S	is
+U	mine
+S	mine
+SU	being
+U	thou
+S	as
+@
+S	been
+SU	absence
+U	my
+S	hath
+SU	winter
+U	a
+S	like
+U	how
+@
+S	year
+SU	fleeting
+U	the
+S	of
+SU	pleasure
+U	the
+S	thee
+U	from
+@
+S	seen
+U	days
+S	dark
+U	what
+S	felt
+U	i
+S	have
+SU	freezings
+U	what
+@
+US	everywhere
+US	bareness
+SUS	december's
+U	old
+S	what
+@
+S	time
+SU	summer's
+U	was
+US	removed
+S	time
+U	this
+S	yet
+U	and
+@
+US	increase
+S	rich
+U	with
+S	big
+SU	autumn
+SU	teeming
+U	the
+@
+S	prime
+U	the
+S	of
+SU	burden
+SU	wanton
+U	the
+US	bearing
+@
+US	decease
+US	lords
+S	their
+SU	after
+U	wombs
+US	widowed
+S	like
+@
+S	me
+U	to
+S	seemed
+SU	issue
+SU	abundant
+U	this
+S	yet
+@
+S	fruit
+USU	unfathered
+S	and
+SU	orphans
+U	of
+S	hope
+U	but
+@
+S	thee
+U	on
+S	wait
+SU	pleasures
+U	his
+S	and
+SU	summer
+U	for
+@
+S	mute
+U	are
+S	birds
+U	very
+S	the
+U	away
+S	thou
+U	and
+@
+S	cheer
+U	a
+S	dull
+U	so
+S	with
+U	tis
+S	sing
+U	they
+S	if
+U	or
+@
+S	near
+SU	winter's
+U	the
+US	dreading
+S	pale
+U	look
+S	leaves
+U	that
+@
+S	spring
+U	the
+S	in
+SU	absent
+U	been
+S	i
+U	have
+S	you
+U	from
+@
+S	trim
+U	his
+S	all
+U	in
+S	dressed
+U	april
+S	proud-pied
+U	when
+@
+S	thing
+U	every
+S	in
+U	youth
+S	of
+SU	spirit
+U	a
+S	put
+U	hath
+@
+S	him
+U	with
+S	leaped
+U	and
+S	laughed
+SU	saturn
+U	heavy
+S	that
+@
+S	smell
+U	sweet
+S	the
+U	nor
+S	birds
+U	of
+S	lays
+U	the
+S	nor
+U	yet
+@
+S	hue
+U	in
+S	and
+U	odour
+S	in
+SU	flowers
+USU	different
+S	of
+@
+S	tell
+SU	story
+SU	summer's
+U	any
+S	me
+U	make
+S	could
+@
+S	grew
+U	they
+S	where
+U	them
+S	pluck
+U	lap
+S	proud
+U	their
+S	from
+U	or
+@
+S	white
+U	lily's
+S	the
+U	at
+US	wonder
+S	i
+U	did
+S	nor
+@
+S	rose
+U	the
+S	in
+USU	vermilion
+S	deep
+U	the
+S	praise
+U	nor
+@
+US	delight
+S	of
+SU	figures
+U	but
+S	sweet
+U	but
+S	were
+U	they
+@
+S	those
+U	all
+S	of
+SU	pattern
+U	you
+S	you
+SU	after
+U	drawn
+@
+S	away
+U	you
+S	and
+U	still
+US	winter
+S	it
+U	seemed
+S	yet
+@
+S	play
+U	did
+S	these
+U	with
+S	i
+SU	shadow
+U	your
+S	with
+U	as
+@
+S	chide
+U	i
+S	did
+U	thus
+SUS	violet
+SU	forward
+U	the
+@
+S	smells
+U	that
+S	sweet
+U	thy
+S	steal
+U	thou
+S	didst
+U	whence
+S	thief
+U	sweet
+@
+S	pride
+SU	purple
+U	the
+S	breath
+U	love's
+S	my
+U	from
+S	not
+U	if
+@
+S	dwells
+USU	complexion
+S	for
+U	check
+S	soft
+U	thy
+S	on
+U	which
+@
+S	dyed
+SU	grossly
+U	too
+S	hast
+U	thou
+S	veins
+U	love's
+S	my
+U	in
+@
+S	hand
+U	thy
+S	for
+SU	condemned
+U	i
+S	lily
+U	the
+@
+S	hair
+U	thy
+S	stol'n
+U	had
+SUS	marjoram
+U	of
+S	buds
+U	and
+@
+S	stand
+U	did
+S	thorns
+U	on
+SUS	fearfully
+SU	roses
+U	the
+@
+US	despair
+S	white
+USU	another
+S	shame
+SU	blushing
+U	one
+@
+S	both
+U	of
+S	stol'n
+U	had
+S	white
+U	nor
+S	red
+U	nor
+S	third
+U	a
+@
+S	breath
+U	thy
+US	annexed
+S	had
+SU	robbery
+U	his
+S	to
+U	and
+@
+S	growth
+U	his
+S	all
+U	of
+S	pride
+U	in
+S	theft
+U	his
+S	for
+U	but
+@
+S	death
+U	to
+S	up
+U	him
+S	eat
+U	canker
+US	vengeful
+S	a
+@
+S	see
+U	could
+S	none
+U	i
+S	yet
+SU	noted
+U	i
+US	flowers
+S	more
+@
+S	thee
+U	from
+S	stol'n
+U	had
+S	it
+U	colour
+S	or
+U	sweet
+S	but
+@
+S	long
+U	so
+US	forget'st
+S	thou
+U	that
+S	muse
+U	thou
+S	art
+U	where
+@
+S	might
+U	thy
+S	all
+U	thee
+S	gives
+U	which
+S	that
+U	of
+S	speak
+U	to
+@
+S	song
+SU	worthless
+U	some
+S	on
+U	fury
+S	thy
+U	thou
+S	spend'st
+@
+S	light
+SU	subjects
+U	base
+S	lend
+U	to
+US	power
+S	thy
+USU	darkening
+@
+US	redeem
+S	straight
+U	and
+S	muse
+USU	forgetful
+US	return
+@
+S	spent
+U	idly
+S	so
+U	time
+US	numbers
+US	gentle
+S	in
+@
+US	esteem
+S	lays
+U	thy
+S	doth
+U	that
+S	ear
+U	the
+S	to
+U	sing
+@
+SUS	argument
+U	and
+S	skill
+U	both
+S	pen
+U	thy
+S	gives
+U	and
+@
+US	survey
+S	face
+U	sweet
+S	love's
+U	my
+S	muse
+U	resty
+S	rise
+@
+S	there
+U	graven
+US	wrinkle
+S	any
+U	have
+S	time
+U	if
+@
+US	decay
+S	to
+U	satire
+S	a
+U	be
+S	any
+U	if
+@
+US	everywhere
+US	despised
+S	spoils
+U	time's
+S	make
+U	and
+@
+S	life
+U	wastes
+S	time
+U	than
+S	faster
+U	fame
+S	love
+U	my
+S	give
+@
+S	knife
+U	crooked
+S	and
+U	scythe
+S	his
+USU	prevent'st
+S	thou
+U	so
+@
+S	amends
+U	thy
+S	be
+U	shall
+S	what
+U	muse
+US	truant
+S	o
+@
+S	dyed
+SU	beauty
+U	in
+S	truth
+U	of
+US	neglect
+S	thy
+U	for
+@
+US	depends
+S	love
+U	my
+S	on
+SU	beauty
+U	and
+S	truth
+U	both
+@
+SUS	dignified
+SU	therein
+U	and
+S	too
+U	thou
+S	dost
+U	so
+@
+S	say
+SU	haply
+U	not
+S	thou
+U	wilt
+S	muse
+SU	answer
+U	make
+@
+S	fixed
+U	colour
+S	his
+U	with
+S	colour
+U	no
+S	needs
+U	truth
+@
+S	lay
+U	to
+S	truth
+SU	beauty's
+SU	pencil
+U	no
+US	beauty
+@
+SUS	intermixed
+SU	never
+U	if
+S	best
+U	is
+S	best
+U	but
+@
+S	dumb
+U	be
+S	thou
+U	wilt
+S	praise
+U	no
+S	needs
+U	he
+US	because
+@
+S	thee
+U	in
+S	lies
+U	for't
+S	so
+SU	silence
+U	not
+US	excuse
+@
+S	tomb
+SU	gilded
+U	a
+US	outlive
+S	much
+U	him
+S	make
+U	to
+@
+S	be
+U	to
+S	yet
+U	ages
+S	of
+U	praised
+S	be
+U	to
+S	and
+@
+S	how
+U	thee
+S	teach
+U	i
+S	muse
+SU	office
+U	thy
+S	do
+U	then
+@
+S	now
+U	shows
+S	he
+U	as
+S	hence
+U	long
+S	seem
+U	him
+S	make
+U	to
+@
+US	seeming
+S	in
+U	weak
+S	more
+U	though
+US	strengthened
+S	is
+U	love
+S	my
+@
+US	appear
+S	show
+U	the
+S	less
+U	though
+S	less
+U	not
+S	love
+U	i
+@
+SUS	esteeming
+U	rich
+S	whose
+USU	merchandized
+S	is
+U	love
+S	that
+@
+S	where
+U	every
+US	publish
+S	doth
+U	tongue
+US	owner's
+S	the
+@
+S	spring
+U	the
+S	in
+U	but
+S	then
+U	and
+S	new
+U	was
+S	love
+U	our
+@
+S	lays
+U	my
+S	with
+U	it
+S	greet
+U	to
+S	wont
+U	was
+S	i
+U	when
+@
+S	sing
+U	doth
+S	front
+SU	summer's
+U	in
+S	philomel
+U	as
+@
+S	days
+U	riper
+S	of
+U	growth
+S	in
+U	pipe
+S	her
+U	stops
+S	and
+@
+S	now
+SU	pleasant
+U	less
+S	is
+SU	summer
+U	the
+S	that
+U	not
+@
+S	night
+U	the
+S	hush
+U	did
+S	hymns
+SU	mournful
+U	her
+S	when
+U	than
+@
+S	bough
+U	every
+US	burthens
+US	music
+S	wild
+U	that
+S	but
+@
+US	delight
+S	dear
+U	their
+S	lose
+SU	common
+U	grown
+S	sweets
+U	and
+@
+S	tongue
+U	my
+S	hold
+SU	sometime
+U	i
+S	her
+U	like
+US	therefore
+@
+S	song
+U	my
+S	with
+U	you
+S	dull
+U	not
+S	would
+U	i
+US	because
+@
+S	forth
+U	brings
+S	muse
+U	my
+US	poverty
+S	what
+U	alack
+@
+S	pride
+U	her
+S	show
+U	to
+S	scope
+U	a
+S	such
+SU	having
+U	that
+@
+S	worth
+U	more
+S	of
+U	is
+S	bare
+U	all
+SUS	argument
+U	the
+@
+US	beside
+S	praise
+U	added
+S	my
+U	hath
+S	it
+U	when
+S	than
+@
+S	write
+U	can
+S	more
+U	no
+S	i
+U	if
+S	not
+U	me
+S	blame
+U	o
+@
+S	face
+U	a
+US	appears
+S	there
+U	and
+S	glass
+U	your
+S	in
+U	look
+@
+S	quite
+USU	invention
+S	blunt
+U	my
+US	over-goes
+S	that
+@
+US	disgrace
+S	me
+SU	doing
+U	and
+S	lines
+U	my
+S	dulling
+@
+S	mend
+U	to
+US	striving
+S	then
+SU	sinful
+U	not
+S	it
+U	were
+@
+S	well
+U	was
+US	before
+S	that
+SU	subject
+U	the
+S	mar
+U	to
+@
+S	tend
+SU	verses
+U	my
+S	pass
+SU	other
+U	no
+S	to
+U	for
+@
+S	tell
+U	to
+S	gifts
+U	your
+S	and
+U	graces
+S	your
+U	of
+S	than
+@
+S	sit
+U	can
+S	verse
+U	my
+S	in
+U	than
+S	more
+U	much
+S	more
+U	and
+@
+S	it
+U	in
+S	look
+U	you
+S	when
+U	you
+S	shows
+U	glass
+S	own
+U	your
+@
+S	old
+U	be
+S	can
+SU	never
+U	you
+S	friend
+U	fair
+S	me
+U	to
+@
+S	eyed
+U	i
+S	eye
+U	your
+S	first
+U	when
+S	were
+U	you
+S	as
+U	for
+@
+S	cold
+SU	winters
+U	three
+S	still
+SU	beauty
+U	your
+S	seems
+U	such
+@
+S	pride
+USU	summers
+S	three
+U	shook
+S	forests
+U	the
+S	from
+U	have
+@
+S	turned
+SU	autumn
+SU	yellow
+U	to
+S	springs
+SU	beauteous
+U	three
+@
+S	seen
+U	i
+S	have
+SU	seasons
+U	the
+S	of
+U	process
+S	in
+@
+S	burned
+U	junes
+S	hot
+U	three
+S	in
+SU	perfumes
+U	april
+S	three
+@
+S	green
+U	are
+S	yet
+U	which
+S	fresh
+U	you
+S	saw
+U	i
+S	first
+U	since
+@
+S	hand
+U	dial
+S	a
+U	like
+US	beauty
+S	doth
+U	yet
+S	ah
+@
+US	perceived
+S	pace
+U	no
+S	and
+SU	figure
+U	his
+S	from
+U	steal
+@
+S	stand
+U	doth
+S	still
+SU	methinks
+U	which
+S	hue
+U	sweet
+S	your
+U	so
+@
+US	deceived
+S	be
+U	may
+S	eye
+U	mine
+S	and
+SU	motion
+U	hath
+@
+US	unbred
+S	age
+U	thou
+S	this
+U	hear
+S	which
+U	of
+S	fear
+U	for
+@
+S	dead
+SU	summer
+SU	beauty's
+U	was
+S	born
+U	were
+S	you
+U	ere
+@
+SUS	idolatry
+U	called
+S	be
+U	love
+S	my
+U	not
+S	let
+@
+S	show
+U	idol
+S	an
+U	as
+S	beloved
+U	my
+S	nor
+@
+S	be
+SU	praises
+U	and
+S	songs
+U	my
+S	alike
+U	all
+S	since
+@
+S	so
+U	ever
+S	and
+U	such
+S	still
+U	one
+S	of
+U	one
+S	to
+@
+S	kind
+USU	to-morrow
+US	to-day
+S	love
+U	my
+S	is
+U	kind
+@
+SUS	excellence
+SU	wondrous
+U	a
+S	in
+SU	constant
+U	still
+@
+US	confined
+SUS	constancy
+U	to
+S	verse
+U	my
+US	therefore
+@
+SUS	difference
+U	out
+S	leaves
+USU	expressing
+S	thing
+U	one
+@
+SUS	argument
+U	my
+S	all
+U	is
+S	true
+U	and
+S	kind
+U	fair
+@
+S	words
+SU	other
+U	to
+US	varying
+S	true
+U	and
+S	kind
+U	fair
+@
+S	spent
+USU	invention
+S	my
+U	is
+S	change
+U	this
+S	in
+U	and
+@
+US	affords
+S	scope
+SU	wondrous
+U	which
+S	one
+U	in
+S	themes
+U	three
+@
+S	alone
+U	lived
+US	often
+S	have
+U	true
+S	and
+U	kind
+S	fair
+@
+S	one
+U	in
+S	seat
+U	kept
+US	never
+S	now
+U	till
+S	three
+U	which
+@
+S	time
+SU	wasted
+U	of
+SUS	chronicle
+U	the
+S	in
+U	when
+@
+S	wights
+U	fairest
+S	the
+U	of
+SUS	descriptions
+U	see
+S	i
+@
+S	rhyme
+U	old
+SUS	beautiful
+SU	making
+SU	beauty
+U	and
+@
+S	knights
+SU	lovely
+U	and
+S	dead
+U	ladies
+S	of
+U	praise
+S	in
+@
+S	best
+SU	beauty's
+U	sweet
+S	of
+SU	blazon
+U	the
+S	in
+U	then
+@
+S	brow
+U	of
+S	eye
+U	of
+S	lip
+U	of
+S	foot
+U	of
+S	hand
+U	of
+@
+US	expressed
+S	have
+U	would
+S	pen
+SU	antique
+U	their
+S	see
+U	i
+@
+S	now
+SU	master
+U	you
+S	as
+SU	beauty
+U	a
+S	such
+U	even
+@
+US	prophecies
+S	but
+U	are
+US	praises
+S	their
+U	all
+S	so
+@
+USUS	prefiguring
+S	you
+U	all
+S	time
+U	our
+S	this
+U	of
+@
+S	eyes
+USU	divining
+S	with
+U	but
+S	looked
+U	they
+S	for
+U	and
+@
+S	sing
+U	to
+S	worth
+U	your
+S	enough
+U	skill
+S	not
+U	had
+S	they
+@
+S	days
+U	present
+S	these
+SU	behold
+U	now
+S	which
+U	we
+S	for
+@
+S	praise
+U	to
+S	tongues
+U	lack
+S	but
+SU	wonder
+U	to
+S	eyes
+U	have
+@
+S	soul
+SU	prophetic
+U	the
+S	nor
+U	fears
+S	own
+U	mine
+S	not
+@
+S	come
+U	to
+S	things
+U	on
+US	dreaming
+S	world
+U	wide
+S	the
+U	of
+@
+US	control
+S	love
+U	true
+S	my
+U	of
+S	lease
+U	the
+S	yet
+U	can
+@
+S	doom
+SU	confined
+U	a
+S	to
+SU	forfeit
+U	as
+US	supposed
+@
+US	endured
+S	eclipse
+U	her
+S	hath
+U	moon
+US	mortal
+S	the
+@
+S	presage
+U	own
+S	their
+U	mock
+US	augurs
+S	sad
+U	the
+S	and
+@
+US	assured
+US	themselves
+S	crown
+U	now
+USUS	incertainties
+@
+S	age
+SU	endless
+U	of
+S	olives
+SU	proclaims
+U	peace
+S	and
+@
+S	time
+U	balmy
+S	most
+U	this
+S	of
+U	drops
+S	the
+U	with
+S	now
+@
+US	subscribes
+S	me
+U	to
+S	death
+U	and
+S	fresh
+U	looks
+S	love
+U	my
+@
+S	rhyme
+U	poor
+S	this
+U	in
+S	live
+U	i'll
+S	him
+U	of
+S	spite
+U	since
+@
+S	tribes
+SU	speechless
+U	and
+S	dull
+U	o'er
+US	insults
+S	he
+U	while
+@
+SUS	monument
+U	thy
+S	find
+U	shalt
+S	this
+U	in
+S	thou
+U	and
+@
+S	spent
+U	are
+S	brass
+U	of
+S	tombs
+U	and
+S	crests
+U	tyrants
+S	when
+@
+SUS	character
+U	may
+S	ink
+U	that
+S	brain
+U	the
+S	in
+U	what's
+@
+US	spirit
+S	true
+U	my
+S	thee
+U	to
+US	figured
+S	not
+U	hath
+S	which
+@
+SUS	register
+U	to
+S	now
+U	what
+S	speak
+U	to
+S	new
+U	what's
+@
+US	merit
+S	dear
+U	thy
+S	or
+U	love
+S	my
+SU	express
+U	may
+S	that
+@
+US	divine
+S	prayers
+U	like
+S	yet
+U	but
+S	boy
+U	sweet
+US	nothing
+@
+S	same
+U	very
+S	the
+U	o'er
+S	say
+U	day
+S	each
+U	must
+S	i
+@
+S	thine
+U	i
+S	mine
+U	thou
+S	old
+U	thing
+S	old
+U	no
+US	counting
+@
+S	name
+U	fair
+S	thy
+SU	hallowed
+U	i
+S	first
+U	when
+S	as
+U	even
+@
+S	case
+U	fresh
+S	love's
+U	in
+S	love
+SU	eternal
+U	that
+S	so
+@
+S	age
+U	of
+US	injury
+S	and
+U	dust
+S	the
+U	not
+S	weighs
+@
+S	place
+SU	wrinkles
+USU	necessary
+S	to
+U	gives
+S	nor
+@
+S	page
+U	his
+S	aye
+U	for
+USUS	antiquity
+S	makes
+U	but
+@
+S	bred
+U	there
+S	love
+U	of
+US	conceit
+S	first
+U	the
+US	finding
+@
+S	dead
+U	it
+S	show
+U	would
+S	form
+SU	outward
+U	and
+S	time
+U	where
+@
+S	heart
+U	of
+S	false
+U	was
+S	i
+U	that
+S	say
+SU	never
+U	o
+@
+SUS	qualify
+U	to
+S	flame
+U	my
+S	seemed
+SU	absence
+U	though
+@
+US	depart
+S	self
+U	my
+S	from
+U	i
+S	might
+U	easy
+S	as
+@
+S	lie
+U	doth
+S	breast
+U	thy
+S	in
+U	which
+S	soul
+U	my
+S	from
+U	as
+@
+S	ranged
+U	have
+S	i
+U	if
+S	love
+U	of
+S	home
+U	my
+S	is
+U	that
+@
+S	again
+SU	return
+U	i
+US	travels
+S	that
+U	him
+S	like
+@
+US	exchanged
+S	time
+U	the
+S	with
+U	not
+S	time
+U	the
+S	to
+U	just
+@
+S	stain
+U	my
+S	for
+SU	water
+U	bring
+S	self
+U	my
+S	that
+U	so
+@
+S	reigned
+SU	nature
+U	my
+S	in
+U	though
+US	believe
+US	never
+@
+S	blood
+U	of
+S	kinds
+U	all
+US	besiege
+S	that
+SU	frailties
+U	all
+@
+S	stained
+U	be
+SUSUS	preposterously
+U	so
+S	could
+U	it
+S	that
+@
+S	good
+U	of
+S	sum
+U	thy
+S	all
+SU	nothing
+U	for
+S	leave
+U	to
+@
+S	call
+U	i
+US	universe
+S	wide
+U	this
+US	nothing
+S	for
+@
+S	all
+U	my
+S	art
+U	thou
+S	it
+U	in
+S	rose
+U	my
+S	thou
+U	save
+@
+S	there
+U	and
+S	here
+U	gone
+S	have
+U	i
+S	true
+U	tis
+S	alas
+@
+S	view
+U	the
+S	to
+SU	motley
+U	a
+S	self
+U	my
+S	made
+U	and
+@
+S	dear
+U	most
+S	is
+U	what
+S	cheap
+U	sold
+S	thoughts
+U	own
+S	mine
+U	gored
+@
+S	new
+USU	affections
+S	of
+SU	offences
+U	old
+S	made
+@
+S	truth
+U	on
+S	looked
+U	have
+S	i
+U	that
+S	is
+U	it
+S	true
+U	most
+@
+S	above
+U	all
+S	by
+U	but
+US	strangely
+S	and
+U	askance
+@
+S	youth
+USU	another
+S	heart
+U	my
+S	gave
+SU	blenches
+U	these
+@
+S	love
+U	of
+S	best
+U	my
+S	thee
+U	proved
+US	essays
+S	worse
+U	and
+@
+S	end
+U	no
+S	have
+U	shall
+S	what
+U	have
+S	done
+U	is
+S	all
+U	now
+@
+S	grind
+U	will
+S	more
+SU	never
+U	i
+US	appetite
+S	mine
+@
+S	friend
+SU	older
+U	an
+S	try
+U	to
+S	proof
+SU	newer
+U	on
+@
+US	confined
+S	am
+U	i
+S	whom
+U	to
+S	love
+U	in
+S	god
+U	a
+@
+S	best
+U	the
+US	heaven
+S	my
+U	next
+US	welcome
+S	me
+U	give
+S	then
+@
+S	breast
+SU	loving
+U	most
+S	most
+U	and
+S	pure
+U	thy
+S	to
+U	even
+@
+S	chide
+SU	fortune
+U	with
+S	you
+U	do
+S	sake
+U	my
+S	for
+U	o
+@
+S	deeds
+SU	harmful
+U	my
+S	of
+SU	goddess
+U	guilty
+S	the
+@
+US	provide
+S	life
+U	my
+S	for
+SU	better
+U	not
+S	did
+U	that
+@
+S	breeds
+SU	manners
+SU	public
+U	which
+S	means
+SU	public
+U	than
+@
+S	brand
+U	a
+US	receives
+S	name
+U	my
+S	that
+U	it
+S	comes
+U	thence
+@
+US	subdued
+S	is
+SU	nature
+U	my
+S	thence
+SU	almost
+U	and
+@
+S	hand
+SU	dyer's
+U	the
+S	like
+U	in
+S	works
+U	it
+S	what
+U	to
+@
+US	renewed
+S	were
+U	i
+S	wish
+U	and
+S	then
+U	me
+S	pity
+@
+S	drink
+U	will
+S	i
+SU	patient
+SU	willing
+U	a
+S	like
+U	whilst
+@
+SUS	infection
+U	strong
+S	my
+U	gainst
+S	eisel
+U	of
+US	potions
+@
+S	think
+SU	bitter
+U	will
+S	i
+U	that
+SUS	bitterness
+U	no
+@
+SUS	correction
+SU	correct
+U	to
+S	penance
+SU	double
+U	nor
+@
+S	ye
+SU	assure
+U	i
+S	and
+U	friend
+S	dear
+U	then
+S	me
+U	pity
+@
+S	me
+U	cure
+S	to
+U	enough
+S	is
+U	pity
+S	your
+U	that
+S	even
+@
+S	fill
+USU	impression
+S	th
+U	doth
+S	pity
+U	and
+S	love
+U	your
+@
+S	brow
+U	my
+S	upon
+U	stamped
+US	scandal
+US	vulgar
+S	which
+@
+S	ill
+U	or
+S	well
+U	me
+S	calls
+U	who
+S	i
+U	care
+S	what
+U	for
+@
+US	allow
+S	good
+U	my
+S	bad
+U	my
+US	o'er-green
+S	you
+U	so
+@
+S	strive
+U	must
+S	i
+U	and
+S	world
+U	the
+S	all
+U	my
+S	are
+U	you
+@
+S	tongue
+U	your
+S	from
+SU	praises
+U	and
+S	shames
+U	my
+S	know
+U	to
+@
+S	alive
+U	none
+S	to
+U	i
+S	nor
+U	me
+S	to
+U	else
+S	none
+@
+S	wrong
+U	or
+S	right
+U	changes
+S	or
+U	sense
+S	steeled
+U	my
+S	that
+@
+S	care
+U	all
+S	throw
+U	i
+S	abysm
+SU	profound
+U	so
+S	in
+@
+S	sense
+U	adder's
+S	my
+U	that
+US	voices
+SUS	others
+U	of
+@
+S	are
+U	stopped
+SUS	flatterer
+U	to
+S	and
+SU	critic
+U	to
+@
+US	dispense
+S	do
+U	i
+US	neglect
+S	my
+U	with
+S	how
+U	mark
+@
+S	bred
+SU	purpose
+U	my
+S	in
+SU	strongly
+U	so
+S	are
+U	you
+@
+S	dead
+U	are
+US	methinks
+US	besides
+S	world
+U	the
+S	all
+U	that
+@
+S	mind
+U	my
+S	in
+U	is
+S	eye
+U	mine
+S	you
+U	left
+S	i
+U	since
+@
+S	about
+U	go
+S	to
+U	me
+US	governs
+S	which
+U	that
+S	and
+@
+S	blind
+SU	partly
+U	is
+S	and
+SU	function
+U	his
+S	part
+U	doth
+@
+S	out
+U	is
+SUSUS	effectually
+U	but
+US	seeing
+S	seems
+@
+S	heart
+U	the
+S	to
+USU	delivers
+S	form
+U	no
+S	it
+U	for
+@
+S	latch
+U	doth
+S	it
+U	which
+S	shape
+U	or
+S	flower
+U	of
+S	bird
+U	of
+@
+S	part
+U	no
+S	mind
+U	the
+S	hath
+SU	objects
+U	quick
+S	his
+U	of
+@
+S	catch
+U	doth
+S	it
+U	what
+S	holds
+SU	vision
+U	own
+S	his
+U	nor
+@
+S	sight
+SU	gentlest
+U	or
+S	rud'st
+U	the
+S	see
+U	it
+S	if
+U	for
+@
+US	creature
+US	deformed'st
+S	or
+U	favour
+S	sweet
+U	most
+S	the
+@
+S	night
+U	or
+S	day
+U	the
+S	sea
+U	the
+S	or
+SU	mountain
+U	the
+@
+US	feature
+S	your
+U	to
+S	them
+U	shapes
+S	it
+U	dove
+S	or
+U	crow
+S	the
+@
+S	you
+U	with
+US	replete
+S	more
+U	of
+SUS	incapable
+@
+US	untrue
+S	mine
+U	maketh
+S	thus
+U	mind
+S	true
+U	most
+S	my
+@
+S	you
+U	with
+S	crowned
+SU	being
+U	mind
+S	my
+U	doth
+S	whether
+U	or
+@
+US	flattery
+S	this
+U	plague
+US	monarch's
+S	the
+U	up
+S	drink
+@
+S	true
+U	saith
+S	eye
+U	mine
+S	say
+U	i
+S	shall
+U	whether
+S	or
+@
+US	alchemy
+S	this
+U	it
+S	taught
+U	love
+S	your
+U	that
+S	and
+@
+SUS	indigest
+U	things
+S	and
+SU	monsters
+U	of
+S	make
+U	to
+@
+SUS	resemble
+U	self
+S	sweet
+U	your
+S	as
+SU	cherubins
+U	such
+@
+S	best
+SU	perfect
+U	a
+S	bad
+U	every
+SUS	creating
+@
+SUS	assemble
+U	beams
+S	his
+U	to
+US	objects
+S	as
+U	fast
+S	as
+@
+US	seeing
+S	my
+U	in
+US	flattery
+S	tis
+U	first
+S	the
+U	tis
+S	o
+@
+S	up
+U	it
+S	drinks
+SU	kingly
+U	most
+S	mind
+U	great
+S	my
+U	and
+@
+US	greeing
+S	is
+U	gust
+S	his
+U	with
+S	what
+U	knows
+S	well
+U	eye
+S	mine
+@
+S	cup
+U	the
+US	prepare
+S	doth
+U	palate
+S	his
+U	to
+S	and
+@
+S	sin
+SU	lesser
+U	the
+S	tis
+SU	poisoned
+U	be
+S	it
+U	if
+@
+US	begin
+S	first
+U	doth
+S	and
+U	it
+S	loves
+U	eye
+S	mine
+U	that
+@
+S	lie
+U	do
+S	writ
+U	have
+US	before
+S	i
+U	that
+S	lines
+U	those
+@
+US	dearer
+S	you
+U	love
+S	not
+U	could
+S	i
+U	said
+S	that
+U	those
+S	even
+@
+S	why
+SU	reason
+U	no
+S	knew
+SU	judgment
+U	my
+S	then
+U	yet
+@
+US	clearer
+S	burn
+USU	afterwards
+S	should
+U	flame
+S	full
+U	most
+S	my
+@
+SUS	accidents
+SU	millioned
+U	whose
+S	time
+USU	reckoning
+S	but
+@
+S	kings
+U	of
+US	decrees
+S	change
+U	and
+S	vows
+U	twixt
+S	in
+U	creep
+@
+US	intents
+S	sharp'st
+U	the
+S	blunt
+SU	beauty
+SU	sacred
+U	tan
+@
+S	things
+SU	alt'ring
+U	of
+S	course
+U	the
+S	to
+U	minds
+S	strong
+SU	divert
+@
+US	tyranny
+S	time's
+U	of
+US	fearing
+S	why
+U	alas
+@
+S	best
+U	you
+S	love
+U	i
+S	now
+U	say
+S	then
+U	not
+S	i
+U	might
+@
+USUS	incertainty
+S	o'er
+SU	certain
+U	was
+S	i
+U	when
+@
+S	rest
+U	the
+S	of
+SU	doubting
+U	present
+S	the
+SU	crowning
+@
+S	so
+U	say
+S	not
+U	i
+S	might
+U	then
+S	babe
+U	a
+S	is
+U	love
+@
+S	grow
+U	doth
+S	still
+U	which
+S	that
+U	to
+S	growth
+U	full
+S	give
+U	to
+@
+S	minds
+U	true
+S	of
+SU	marriage
+U	the
+S	to
+U	not
+S	me
+U	let
+@
+S	love
+U	not
+S	is
+U	love
+USUS	impediments
+US	admit
+@
+S	finds
+USU	alteration
+S	it
+U	when
+US	alters
+S	which
+@
+US	remove
+S	to
+SU	remover
+U	the
+S	with
+U	bends
+S	or
+@
+S	mark
+SU	ever-fixed
+U	an
+S	is
+U	it
+S	no
+U	o
+@
+US	shaken
+US	never
+S	is
+U	and
+US	tempests
+S	on
+U	looks
+S	that
+@
+S	bark
+U	wand'ring
+S	every
+U	to
+S	star
+U	the
+S	is
+U	it
+@
+US	taken
+S	be
+U	height
+S	his
+SU	although
+SU	unknown
+U	worth's
+S	whose
+@
+S	cheeks
+U	and
+S	lips
+U	rosy
+S	though
+U	fool
+S	time's
+U	not
+S	love's
+@
+S	come
+SU	compass
+SU	sickle's
+SU	bending
+U	his
+US	within
+@
+S	weeks
+U	and
+S	hours
+U	brief
+S	his
+U	with
+S	not
+SU	alters
+U	love
+@
+S	doom
+U	of
+S	edge
+U	the
+S	to
+U	even
+S	out
+U	it
+S	bears
+U	but
+@
+S	proved
+U	me
+S	upon
+U	and
+US	error
+S	be
+U	this
+S	if
+@
+S	loved
+U	ever
+S	man
+U	no
+S	nor
+U	writ
+US	never
+S	i
+@
+S	all
+SU	scanted
+U	have
+S	i
+U	that
+S	thus
+U	me
+US	accuse
+@
+US	repay
+S	deserts
+U	great
+S	your
+U	should
+S	i
+SU	wherein
+@
+S	call
+U	to
+S	love
+SU	dearest
+U	your
+S	upon
+SU	forgot
+@
+S	day
+U	by
+S	day
+U	me
+S	tie
+U	do
+S	bonds
+U	all
+US	whereto
+@
+S	minds
+SU	unknown
+U	with
+S	been
+SU	frequent
+U	have
+S	i
+U	that
+@
+S	right
+SU	dear-purchased
+U	own
+S	your
+U	time
+S	to
+SU	given
+U	and
+@
+S	winds
+U	the
+S	all
+U	to
+S	sail
+SU	hoisted
+U	have
+S	i
+U	that
+@
+S	sight
+U	your
+S	from
+SU	farthest
+U	me
+US	transport
+S	should
+U	which
+@
+S	down
+SU	errors
+U	and
+SUS	wilfulness
+U	my
+S	both
+U	book
+@
+USUS	accumulate
+US	surmise
+S	proof
+U	just
+S	on
+U	and
+@
+S	frown
+U	your
+S	of
+SU	level
+U	the
+US	within
+S	me
+U	bring
+@
+S	hate
+SU	wakened
+U	your
+S	in
+U	me
+S	at
+U	not
+S	shoot
+U	but
+@
+S	prove
+U	to
+S	strive
+U	did
+S	i
+U	says
+US	appeal
+S	my
+U	since
+@
+S	love
+U	your
+S	of
+U	virtue
+S	and
+USU	constancy
+S	the
+@
+S	keen
+U	more
+US	appetite
+S	our
+U	make
+S	to
+U	as
+S	like
+@
+S	urge
+U	palate
+S	our
+U	we
+US	compounds
+US	eager
+S	with
+@
+US	unseen
+US	maladies
+S	our
+SU	prevent
+U	to
+S	as
+@
+S	purge
+U	we
+S	when
+SU	sickness
+U	shun
+S	to
+SU	sicken
+U	we
+@
+US	sweetness
+SUS	ne'er-cloying
+U	your
+S	of
+U	full
+US	being
+S	so
+U	even
+@
+US	feeding
+S	my
+U	frame
+S	i
+U	did
+S	sauces
+SU	bitter
+U	to
+@
+US	meetness
+S	of
+U	kind
+S	a
+U	found
+US	welfare
+S	of
+U	sick
+S	and
+@
+US	needing
+S	true
+U	was
+S	there
+U	that
+S	ere
+SU	diseased
+U	be
+S	to
+@
+USUS	anticipate
+S	t
+U	love
+S	in
+USU	policy
+S	thus
+@
+US	assured
+S	faults
+U	to
+S	grew
+U	not
+S	were
+U	that
+S	ills
+U	the
+@
+S	state
+SU	healthful
+U	a
+SUS	medicine
+U	to
+S	brought
+U	and
+@
+S	cured
+U	be
+S	ill
+U	by
+S	would
+SU	goodness
+U	of
+S	rank
+U	which
+@
+S	true
+SU	lesson
+U	the
+S	find
+U	and
+S	learn
+U	i
+S	thence
+U	but
+@
+S	you
+U	of
+S	sick
+U	feil
+S	so
+U	that
+S	him
+SU	poison
+U	drugs
+@
+S	tears
+U	siren
+S	of
+U	drunk
+S	i
+U	have
+US	potions
+S	what
+@
+US	within
+S	hell
+U	as
+S	foul
+SU	limbecks
+U	from
+US	distilled
+@
+S	fears
+U	to
+S	hopes
+U	and
+S	hopes
+U	to
+S	fears
+USU	applying
+@
+S	win
+U	to
+S	self
+U	my
+S	saw
+U	i
+S	when
+SU	losing
+U	still
+@
+SUS	committed
+U	heart
+S	my
+U	hath
+US	errors
+S	wretched
+U	what
+@
+US	never
+S	blessed
+U	so
+S	self
+U	it
+S	thought
+U	hath
+S	it
+U	whilst
+@
+US	fitted
+S	been
+U	spheres
+S	their
+U	of
+S	out
+U	eyes
+S	mine
+U	have
+S	how
+@
+S	fever
+U	madding
+S	this
+U	of
+SUS	distraction
+U	the
+S	in
+@
+S	true
+U	find
+S	i
+U	now
+S	ill
+U	of
+SUS	benefit
+U	o
+@
+US	better
+S	made
+U	still
+S	evil
+U	by
+S	is
+SU	better
+U	that
+@
+S	anew
+U	built
+S	is
+U	it
+S	when
+U	love
+US	ruined
+S	and
+@
+S	greater
+U	far
+S	strong
+U	more
+S	first
+U	at
+S	than
+SU	fairer
+U	grows
+@
+US	content
+S	my
+U	to
+US	rebuked
+US	return
+S	i
+U	so
+@
+S	spent
+U	have
+S	i
+U	than
+S	more
+U	thrice
+S	ills
+U	by
+S	gain
+U	and
+@
+S	now
+U	me
+US	befriends
+US	unkind
+S	once
+U	were
+S	you
+U	that
+@
+S	feel
+U	did
+S	then
+U	i
+S	which
+SU	sorrow
+U	that
+S	for
+U	and
+@
+S	bow
+USU	transgression
+S	my
+SU	under
+U	i
+S	must
+U	needs
+@
+S	steel
+SU	hammered
+U	or
+S	brass
+U	were
+S	nerves
+U	my
+US	unless
+@
+US	shaken
+SUS	unkindness
+U	my
+S	by
+U	were
+S	you
+U	if
+S	for
+@
+S	time
+U	of
+S	hell
+U	a
+S	passed
+U	y'have
+S	yours
+U	by
+S	i
+U	as
+@
+US	taken
+S	leisure
+U	no
+S	have
+U	tyrant
+S	a
+U	i
+S	and
+@
+S	crime
+U	your
+S	in
+SU	suffered
+U	i
+S	once
+U	how
+S	weigh
+U	to
+@
+SUS	remembered
+U	have
+S	might
+U	woe
+S	of
+U	night
+S	our
+U	that
+S	o
+@
+S	hits
+SU	sorrow
+U	true
+S	hard
+U	how
+S	sense
+SU	deepest
+U	my
+@
+US	tendered
+S	then
+U	me
+S	to
+U	you
+S	as
+U	you
+S	to
+U	soon
+S	and
+@
+S	fits
+SU	bosoms
+SU	wounded
+U	which
+S	salve
+SU	humble
+U	the
+@
+S	fee
+U	a
+US	becomes
+S	now
+SU	trespass
+U	your
+S	that
+U	but
+@
+S	me
+SU	ransom
+U	must
+S	yours
+U	and
+S	yours
+SU	ransoms
+U	mine
+@
+US	esteemed
+S	vile
+U	than
+S	vile
+U	be
+S	to
+SU	better
+U	tis
+@
+US	being
+S	of
+SU	reproach
+SU	receives
+U	be
+S	to
+U	not
+S	when
+@
+S	deemed
+U	so
+S	is
+U	which
+S	lost
+SU	pleasure
+U	just
+S	the
+U	and
+@
+US	seeing
+SUS	others
+U	by
+S	but
+SU	feeling
+U	our
+S	by
+U	not
+@
+S	eyes
+USU	adulterate
+S	false
+USU	others
+S	should
+U	why
+S	for
+@
+S	blood
+U	sportive
+S	my
+U	to
+SUS	salutation
+U	give
+@
+S	spies
+SU	frailer
+U	are
+S	why
+SU	frailties
+U	my
+S	on
+U	or
+@
+S	good
+U	think
+S	i
+U	what
+S	bad
+U	count
+S	wills
+U	their
+S	in
+U	which
+@
+US	level
+S	that
+U	they
+S	and
+U	am
+S	i
+U	that
+S	am
+U	i
+S	no
+@
+S	own
+U	their
+S	up
+SU	reckon
+SU	abuses
+U	my
+S	at
+@
+US	bevel
+S	be
+SU	themselves
+U	they
+S	though
+U	straight
+S	be
+U	may
+S	i
+@
+S	shown
+U	be
+S	not
+U	must
+S	deeds
+U	my
+S	thoughts
+U	rank
+S	their
+U	by
+@
+US	maintain
+S	they
+U	evil
+SUS	general
+U	this
+US	unless
+@
+S	reign
+SU	badness
+U	their
+S	in
+U	and
+S	bad
+U	are
+S	men
+U	all
+@
+S	brain
+U	my
+US	within
+S	are
+SU	tables
+U	thy
+S	gift
+U	thy
+@
+SUS	memory
+SU	lasting
+U	with
+SUS	charactered
+U	full
+@
+US	remain
+S	rank
+U	idle
+S	that
+U	above
+S	shall
+U	which
+@
+SUS	eternity
+U	to
+S	even
+U	date
+S	all
+SU	beyond
+@
+S	heart
+U	and
+S	brain
+U	as
+S	long
+U	so
+S	least
+U	the
+S	at
+U	or
+@
+US	subsist
+S	to
+SU	nature
+U	by
+SUS	faculty
+U	have
+@
+S	part
+U	his
+S	yield
+SU	oblivion
+U	razed
+S	to
+U	each
+S	till
+@
+S	missed
+U	be
+S	can
+SU	never
+U	record
+S	thy
+U	thee
+S	of
+@
+S	hold
+U	much
+S	so
+U	not
+S	could
+USU	retention
+S	poor
+U	that
+@
+S	score
+U	to
+S	love
+U	dear
+S	thy
+SU	tallies
+U	i
+S	need
+U	nor
+@
+S	bold
+U	i
+S	was
+U	me
+S	from
+U	them
+S	give
+U	to
+US	therefore
+@
+S	more
+U	thee
+US	receive
+S	that
+SU	tables
+U	those
+S	trust
+U	to
+@
+S	thee
+USU	remember
+S	to
+SU	adjunct
+U	an
+S	keep
+U	to
+@
+S	me
+U	in
+USUS	forgetfulness
+US	import
+S	to
+U	were
+@
+S	change
+U	do
+S	i
+U	that
+S	boast
+U	not
+S	shalt
+U	thou
+S	time
+U	no
+@
+S	might
+SU	newer
+U	with
+S	up
+U	built
+US	pyramids
+S	thy
+@
+S	strange
+SU	nothing
+SU	novel
+SU	nothing
+U	are
+S	me
+U	to
+@
+S	sight
+SU	former
+U	a
+S	of
+SU	dressings
+U	but
+S	are
+U	they
+@
+US	admire
+S	we
+SU	therefore
+U	and
+S	brief
+U	are
+S	dates
+U	our
+@
+S	old
+U	is
+S	that
+U	us
+S	upon
+U	foist
+S	dost
+U	thou
+S	what
+@
+US	desire
+S	our
+U	to
+S	born
+U	them
+S	make
+U	rather
+S	and
+@
+S	told
+U	them
+S	heard
+U	have
+US	before
+S	we
+U	that
+S	think
+U	than
+@
+S	defy
+U	both
+S	i
+U	thee
+S	and
+USU	registers
+S	thy
+@
+S	past
+U	the
+S	nor
+U	present
+S	the
+U	at
+S	wond'ring
+U	not
+@
+S	lie
+U	doth
+S	see
+U	we
+S	what
+U	and
+S	records
+U	thy
+S	for
+@
+S	haste
+SUSU	continual
+U	thy
+S	by
+U	less
+S	or
+U	more
+S	made
+@
+S	be
+U	ever
+S	shall
+U	this
+S	and
+U	vow
+S	do
+U	i
+S	this
+@
+S	thee
+U	and
+S	scythe
+U	thy
+US	despite
+S	true
+U	be
+S	will
+U	i
+@
+S	state
+U	of
+S	child
+U	the
+S	but
+U	were
+S	love
+U	dear
+S	my
+U	if
+@
+SUS	unfathered
+U	be
+US	bastard
+US	fortune's
+S	for
+U	might
+S	it
+@
+S	hate
+U	time's
+S	to
+U	or
+S	love
+U	time's
+S	to
+SU	subject
+U	as
+@
+US	gathered
+US	flowers
+S	with
+SU	flowers
+U	or
+S	weeds
+U	among
+S	weeds
+@
+SUS	accident
+U	from
+S	far
+SU	builded
+U	was
+S	it
+U	no
+@
+S	falls
+U	nor
+S	pomp
+SU	smiling
+U	in
+S	not
+SU	suffers
+U	it
+@
+SUS	discontent
+U	thralled
+S	of
+U	blow
+S	the
+SU	under
+@
+S	calls
+SU	fashion
+U	our
+S	time
+SU	inviting
+U	th
+US	whereto
+@
+S	heretic
+U	that
+SUS	policy
+U	not
+S	fears
+U	it
+@
+S	hours
+USU	short-numbered
+S	of
+SU	leases
+U	on
+S	works
+U	which
+@
+S	politic
+SU	hugely
+U	stands
+S	alone
+U	all
+S	but
+@
+US	showers
+S	with
+U	drowns
+S	nor
+U	heat
+S	with
+U	grows
+S	nor
+U	it
+S	that
+@
+S	time
+U	of
+S	fools
+U	the
+S	call
+SU	witness
+U	i
+S	this
+U	to
+@
+S	crime
+U	for
+S	lived
+U	have
+S	who
+SU	goodness
+U	for
+S	die
+U	which
+@
+S	canopy
+U	the
+S	bore
+U	i
+S	me
+U	to
+S	aught
+U	were't
+@
+USUS	honouring
+US	outward
+S	the
+SU	extern
+U	my
+S	with
+@
+SUS	eternity
+U	for
+S	bases
+U	great
+S	laid
+U	or
+@
+SUS	ruining
+U	or
+S	waste
+U	than
+S	short
+U	more
+S	proves
+U	which
+@
+S	favour
+U	and
+S	form
+U	on
+S	dwellers
+U	seen
+S	not
+U	i
+S	have
+@
+S	rent
+U	much
+S	too
+SU	paying
+U	by
+S	more
+U	and
+S	all
+U	lose
+@
+S	savour
+SU	simple
+USU	forgoing
+S	sweet
+SU	compound
+U	for
+@
+S	spent
+SU	gazing
+U	their
+S	in
+U	thrivers
+US	pitiful
+@
+S	heart
+U	thy
+S	in
+USU	obsequious
+S	be
+U	me
+S	let
+U	no
+@
+S	free
+U	but
+S	poor
+SU	oblation
+U	my
+S	thou
+U	take
+S	and
+@
+S	art
+U	no
+S	knows
+SU	seconds
+U	with
+S	mixed
+U	not
+S	is
+U	which
+@
+S	thee
+U	for
+S	me
+U	only
+US	render
+SUS	mutual
+U	but
+@
+S	soul
+U	true
+S	a
+SU	informer
+SU	suborned
+U	thou
+S	hence
+@
+US	control
+S	thy
+U	in
+S	least
+U	stands
+US	impeached
+S	most
+U	when
+@
+US	power
+S	thy
+U	in
+S	who
+U	boy
+US	lovely
+S	my
+U	thou
+S	o
+@
+S	hour
+SU	fickle
+U	his
+S	glass
+SU	fickle
+U	time's
+S	hold
+U	dost
+@
+S	show'st
+SU	therein
+U	and
+S	grown
+SU	waning
+U	by
+S	hast
+U	who
+@
+S	grow'st
+U	self
+S	sweet
+U	thy
+S	as
+USU	withering
+S	lovers
+U	thy
+@
+S	wrack
+U	over
+US	mistress
+SUS	sovereign
+SU	nature
+U	if
+@
+S	back
+U	thee
+S	pluck
+U	will
+S	still
+SU	onwards
+U	goest
+S	thou
+U	as
+@
+S	skill
+U	her
+S	that
+SU	purpose
+U	this
+S	to
+U	thee
+S	keeps
+U	she
+@
+S	kill
+SU	minutes
+U	wretched
+S	and
+SU	disgrace
+U	time
+S	may
+@
+US	pleasure
+S	her
+U	of
+US	minion
+S	thou
+U	o
+S	her
+U	fear
+S	yet
+@
+US	treasure
+S	her
+U	keep
+S	still
+U	not
+S	but
+SU	detain
+U	may
+S	she
+@
+S	be
+U	must
+US	answered
+US	delayed
+S	though
+SU	audit
+U	her
+@
+S	thee
+SU	render
+U	to
+S	is
+SU	quietus
+U	her
+S	and
+@
+S	fair
+SU	counted
+U	not
+S	was
+U	black
+S	age
+U	old
+S	the
+U	in
+@
+S	name
+SU	beauty's
+U	not
+S	bore
+U	it
+S	were
+U	it
+S	if
+U	or
+@
+S	heir
+USU	successive
+US	beauty's
+S	black
+U	is
+S	now
+U	but
+@
+S	shame
+SU	bastard
+U	a
+S	with
+SU	slandered
+SU	beauty
+U	and
+@
+US	power
+US	nature's
+S	on
+U	put
+S	hath
+U	hand
+S	each
+U	since
+S	for
+@
+S	face
+SU	borrowed
+U	false
+S	art's
+U	with
+S	foul
+U	the
+US	fairing
+@
+US	bower
+S	holy
+U	no
+S	name
+U	no
+S	hath
+SU	beauty
+U	sweet
+@
+US	disgrace
+S	in
+U	lives
+S	not
+U	if
+US	profaned
+S	is
+U	but
+@
+S	black
+U	raven
+S	are
+U	eyes
+US	mistress
+S	my
+SU	therefore
+@
+S	seem
+SU	mourners
+U	they
+S	and
+SU	suited
+U	so
+S	eyes
+U	her
+@
+S	lack
+SU	beauty
+U	no
+S	fair
+U	born
+S	not
+U	who
+S	such
+U	at
+@
+US	esteem
+S	false
+U	a
+S	with
+SU	creation
+USU	slandering
+@
+S	woe
+U	their
+S	of
+USU	becoming
+S	mourn
+U	they
+S	so
+U	yet
+@
+S	so
+U	look
+S	should
+SU	beauty
+U	says
+S	tongue
+U	every
+S	that
+@
+S	play'st
+SU	music
+SU	music
+U	my
+S	thou
+U	when
+S	oft
+U	how
+@
+S	sounds
+SU	motion
+U	whose
+S	wood
+U	blessed
+S	that
+U	upon
+@
+S	sway'st
+SU	gently
+U	thou
+S	when
+SU	fingers
+U	sweet
+S	thy
+U	with
+@
+US	confounds
+S	ear
+U	mine
+S	that
+SU	concord
+U	wiry
+S	the
+@
+S	leap
+SU	nimble
+U	that
+S	jacks
+U	those
+S	envy
+U	i
+S	do
+@
+S	hand
+U	thy
+S	of
+SU	inward
+SU	tender
+U	the
+S	kiss
+U	to
+@
+S	reap
+SU	harvest
+U	that
+S	should
+U	which
+S	lips
+U	poor
+S	my
+U	whilst
+@
+S	stand
+SU	blushing
+U	thee
+S	by
+SU	boldness
+U	wood's
+S	the
+U	at
+@
+S	state
+U	their
+S	change
+U	would
+S	they
+SU	tickled
+U	so
+S	be
+U	to
+@
+S	chips
+SU	dancing
+U	those
+S	with
+SUSU	situation
+U	and
+@
+S	gait
+SU	gentle
+U	with
+S	walk
+SU	fingers
+U	thy
+S	whom
+U	o'er
+@
+S	lips
+SU	living
+U	than
+S	blest
+U	more
+S	wood
+U	dead
+US	making
+@
+S	this
+U	in
+S	are
+SU	happy
+U	so
+S	jacks
+U	saucy
+S	since
+@
+S	kiss
+U	to
+S	lips
+U	thy
+S	me
+SU	fingers
+U	thy
+S	them
+U	give
+@
+S	shame
+U	of
+S	waste
+U	a
+S	in
+SU	spirit
+U	of
+US	expense
+S	th
+@
+S	lust
+SU	action
+U	till
+S	and
+SU	action
+U	in
+S	lust
+U	is
+@
+S	blame
+U	of
+S	full
+U	bloody
+US	murd'rous
+US	perjured
+S	is
+@
+S	trust
+U	to
+S	not
+SU	cruel
+U	rude
+US	extreme
+US	savage
+@
+S	straight
+SU	despised
+U	but
+US	sooner
+S	no
+SU	enjoyed
+@
+S	had
+SU	sooner
+U	no
+S	and
+SU	hunted
+SU	reason
+U	past
+@
+S	bait
+SU	swallowed
+U	a
+S	as
+SU	hated
+SU	reason
+U	past
+@
+S	mad
+SU	taker
+U	the
+S	make
+U	to
+S	laid
+SU	purpose
+U	on
+@
+S	so
+USU	possession
+S	in
+U	and
+US	pursuit
+S	in
+U	mad
+@
+US	extreme
+S	have
+U	to
+S	quest
+U	in
+S	and
+SU	having
+U	had
+@
+S	woe
+U	very
+S	a
+U	proved
+S	and
+U	proof
+S	in
+U	bliss
+S	a
+@
+S	dream
+U	a
+US	behind
+US	proposed
+S	joy
+U	a
+US	before
+@
+S	well
+U	knows
+S	none
+U	yet
+S	knows
+U	well
+S	world
+U	the
+S	this
+U	all
+@
+S	hell
+U	this
+S	to
+U	men
+S	leads
+U	that
+US	heaven
+S	the
+U	shun
+S	to
+@
+S	sun
+U	the
+S	like
+SU	nothing
+U	are
+S	eyes
+SU	mistress
+U	my
+@
+S	red
+U	lips
+S	her
+U	than
+S	red
+U	more
+S	far
+U	is
+S	coral
+@
+S	dun
+U	are
+S	breasts
+U	her
+S	then
+U	why
+S	white
+U	be
+S	snow
+U	if
+@
+S	head
+U	her
+S	on
+U	grow
+S	wires
+U	black
+S	wires
+U	be
+S	hairs
+U	if
+@
+S	white
+U	and
+S	red
+U	damasked
+US	roses
+S	seen
+U	have
+S	i
+@
+S	cheeks
+U	her
+S	in
+U	i
+S	see
+SU	roses
+U	such
+S	no
+U	but
+@
+US	delight
+S	more
+U	there
+S	is
+SU	perfumes
+U	some
+S	in
+U	and
+@
+S	reeks
+SU	mistress
+U	my
+S	from
+U	that
+S	breath
+U	the
+S	in
+U	than
+@
+S	know
+U	i
+S	well
+U	yet
+S	speak
+U	her
+S	hear
+U	to
+S	love
+U	i
+@
+S	sound
+SU	pleasing
+U	more
+S	far
+U	a
+S	hath
+SU	music
+U	that
+@
+S	go
+SU	goddess
+U	a
+S	saw
+SU	never
+U	i
+S	grant
+U	i
+@
+S	ground
+U	the
+S	on
+U	treads
+S	walks
+U	she
+S	when
+SU	mistress
+U	my
+@
+S	rare
+U	as
+S	love
+U	my
+S	think
+U	i
+US	heaven
+S	by
+U	yet
+S	and
+@
+US	compare
+S	false
+U	with
+US	belied
+S	she
+U	any
+S	as
+@
+S	art
+U	thou
+S	as
+U	so
+US	tyrannous
+S	as
+U	art
+S	thou
+@
+US	cruel
+S	them
+U	make
+US	proudly
+US	beauties
+S	whose
+U	those
+S	as
+@
+S	heart
+SU	doting
+U	dear
+S	my
+U	to
+S	know'st
+U	thou
+S	well
+U	for
+@
+US	jewel
+US	precious
+S	most
+U	and
+S	fairest
+U	the
+S	art
+U	thou
+@
+US	behold
+S	thee
+U	that
+S	say
+U	some
+S	faith
+U	good
+S	in
+U	yet
+@
+S	groan
+U	love
+S	make
+U	to
+US	power
+S	the
+U	not
+S	hath
+U	face
+S	thy
+@
+S	bold
+U	so
+S	be
+U	not
+S	dare
+U	i
+S	err
+U	they
+S	say
+U	to
+@
+S	alone
+U	self
+S	my
+U	to
+S	it
+U	swear
+S	i
+SU	although
+@
+S	swear
+U	i
+S	false
+U	not
+S	is
+U	that
+S	sure
+U	be
+S	to
+U	and
+@
+S	face
+U	thy
+S	on
+SU	thinking
+U	but
+S	groans
+SU	thousand
+U	a
+@
+S	bear
+SU	witness
+U	do
+S	neck
+USU	another's
+S	on
+U	one
+@
+S	place
+USU	judgment's
+S	my
+U	in
+S	fairest
+U	is
+S	black
+U	thy
+@
+S	deeds
+U	thy
+S	in
+U	save
+S	black
+U	thou
+S	art
+SU	nothing
+U	in
+@
+US	proceeds
+S	think
+U	i
+S	as
+SU	slander
+U	this
+S	thence
+U	and
+@
+S	me
+SU	pitying
+U	as
+S	they
+U	and
+S	love
+U	i
+S	eyes
+U	thine
+@
+US	disdain
+S	with
+U	me
+US	torment
+S	heart
+U	thy
+US	knowing
+@
+S	be
+SU	mourners
+SU	loving
+U	and
+S	black
+U	on
+S	put
+U	have
+@
+S	pain
+U	my
+S	upon
+U	ruth
+US	pretty
+S	with
+SU	looking
+@
+US	heaven
+S	of
+U	sun
+US	morning
+S	the
+U	not
+US	truly
+S	and
+@
+S	east
+U	the
+S	of
+U	cheeks
+S	grey
+U	the
+US	becomes
+US	better
+@
+S	even
+U	the
+S	in
+SU	ushers
+U	that
+S	star
+U	full
+S	that
+U	nor
+@
+S	west
+U	sober
+S	the
+U	to
+US	glory
+S	that
+U	half
+S	doth
+@
+S	face
+U	thy
+US	become
+S	eyes
+SU	mourning
+U	two
+S	those
+U	as
+@
+S	heart
+U	thy
+US	beseem
+S	well
+U	as
+S	then
+U	it
+S	let
+U	o
+@
+S	grace
+U	thee
+S	doth
+SU	mourning
+U	since
+S	me
+U	for
+S	mourn
+U	to
+@
+S	part
+U	every
+S	in
+U	like
+S	pity
+U	thy
+S	suit
+U	and
+@
+S	black
+U	is
+US	herself
+US	beauty
+S	swear
+U	i
+S	will
+U	then
+@
+S	lack
+USU	complexion
+S	thy
+U	that
+S	foul
+U	they
+S	all
+U	and
+@
+S	groan
+U	to
+S	heart
+U	my
+S	makes
+U	that
+S	heart
+U	that
+S	beshrew
+@
+S	me
+U	and
+S	friend
+U	my
+S	gives
+U	it
+S	wound
+U	deep
+S	that
+U	for
+@
+S	alone
+U	me
+US	torture
+S	to
+U	enough
+S	not
+U	is't
+@
+S	be
+U	must
+S	friend
+SU	sweet'st
+U	my
+US	slavery
+S	to
+U	slave
+S	but
+@
+US	taken
+S	hath
+U	eye
+US	cruel
+S	thy
+U	self
+S	my
+U	from
+S	me
+@
+US	engrossed
+S	hast
+SU	harder
+U	thou
+S	self
+U	next
+S	my
+U	and
+@
+SUS	forsaken
+U	am
+S	i
+U	thee
+S	and
+U	self
+S	my
+U	him
+S	of
+@
+S	crossed
+U	be
+S	to
+U	thus
+US	three-fold
+S	thrice
+SU	torment
+U	a
+@
+S	ward
+SU	bosom's
+U	steel
+S	thy
+U	in
+S	heart
+U	my
+S	prison
+@
+S	bail
+U	heart
+S	poor
+U	my
+S	let
+U	heart
+S	friend's
+U	my
+S	then
+U	but
+@
+S	guard
+U	his
+S	be
+U	heart
+S	my
+U	let
+S	me
+U	keeps
+S	whoe'er
+@
+S	gaol
+U	my
+S	in
+U	rigour
+S	use
+U	then
+S	not
+U	canst
+S	thou
+@
+S	thee
+U	in
+S	pent
+SU	being
+U	i
+S	for
+U	wilt
+S	thou
+U	yet
+S	and
+@
+S	me
+U	in
+S	is
+U	that
+S	all
+U	and
+S	thine
+U	am
+US	perforce
+@
+S	thine
+U	is
+S	he
+U	that
+US	confessed
+S	have
+U	i
+S	now
+U	so
+@
+S	will
+U	thy
+S	to
+SU	mortgaged
+U	am
+S	self
+U	my
+S	i
+U	and
+@
+S	mine
+SU	other
+U	that
+S	so
+SU	forfeit
+U	i'll
+S	self
+U	my
+@
+S	still
+SU	comfort
+U	my
+S	be
+U	to
+US	restore
+S	wilt
+U	thou
+@
+S	free
+U	be
+S	not
+U	will
+S	he
+U	nor
+S	not
+U	wilt
+S	thou
+U	but
+@
+S	kind
+U	is
+S	he
+U	and
+US	covetous
+S	art
+U	thou
+S	for
+@
+S	me
+U	for
+S	write
+U	to
+SUS	surety-like
+U	but
+S	learned
+U	he
+@
+S	bind
+U	doth
+S	fist
+U	as
+S	him
+U	that
+S	bond
+U	that
+US	under
+@
+S	take
+U	wilt
+S	thou
+SU	beauty
+U	thy
+S	of
+U	statute
+S	the
+@
+S	use
+U	to
+S	all
+U	forth
+S	put'st
+U	that
+S	usurer
+U	thou
+@
+S	sake
+U	my
+S	for
+U	debtor
+S	came
+U	friend
+S	a
+U	sue
+S	and
+@
+S	abuse
+SU	unkind
+U	my
+S	through
+U	lose
+S	i
+U	him
+S	so
+@
+S	me
+U	and
+S	him
+U	both
+S	hast
+U	thou
+S	lost
+U	i
+S	have
+U	him
+@
+S	free
+U	not
+S	i
+U	am
+S	yet
+U	and
+S	whole
+U	the
+S	pays
+U	he
+@
+S	will
+U	thy
+S	hast
+U	thou
+S	wish
+U	her
+S	hath
+USU	whoever
+@
+US	over-plus
+S	in
+U	will
+S	and
+U	boot
+S	to
+U	will
+S	and
+@
+S	still
+U	thee
+S	vex
+U	that
+S	i
+U	am
+S	enough
+U	than
+S	more
+@
+S	thus
+USU	addition
+US	making
+S	will
+U	sweet
+S	thy
+U	to
+@
+US	spacious
+S	and
+U	large
+S	is
+U	will
+S	whose
+U	thou
+S	wilt
+@
+S	thine
+U	in
+S	will
+U	my
+S	hide
+U	to
+US	vouchsafe
+S	once
+U	not
+@
+US	gracious
+S	right
+U	seem
+US	others
+S	in
+U	will
+S	shall
+@
+S	shine
+USU	acceptance
+S	fair
+U	no
+S	will
+U	my
+S	in
+U	and
+@
+S	still
+U	rain
+US	receives
+S	yet
+SU	water
+U	all
+S	sea
+U	the
+@
+S	store
+U	his
+S	to
+SU	addeth
+SU	abundance
+U	in
+S	and
+@
+S	will
+U	thy
+S	to
+U	add
+S	will
+U	in
+S	rich
+SU	being
+U	thou
+S	so
+@
+S	more
+U	will
+S	large
+U	thy
+S	make
+U	to
+S	mine
+U	of
+S	will
+U	one
+@
+S	kill
+USU	beseechers
+S	fair
+U	no
+US	unkind
+S	no
+U	let
+@
+S	will
+U	one
+S	that
+U	in
+S	me
+U	and
+S	one
+U	but
+S	all
+U	think
+@
+S	near
+U	so
+S	come
+U	i
+S	that
+U	thee
+S	check
+U	soul
+S	thy
+U	if
+@
+S	will
+U	thy
+S	was
+U	i
+S	that
+U	soul
+S	blind
+U	thy
+S	to
+U	swear
+@
+S	there
+USU	admitted
+S	is
+U	knows
+S	soul
+U	thy
+S	will
+U	and
+@
+US	fulfil
+S	sweet
+SU	love-suit
+U	my
+S	love
+U	for
+S	far
+U	thus
+@
+S	love
+U	thy
+S	of
+SU	treasure
+U	the
+US	fulfil
+S	will
+U	will
+@
+S	one
+U	will
+S	my
+U	and
+S	wills
+U	with
+S	full
+U	it
+S	fill
+U	ay
+@
+S	prove
+U	we
+S	case
+U	with
+US	receipt
+S	great
+U	of
+S	things
+U	in
+@
+S	none
+SU	reckoned
+U	is
+S	one
+SU	number
+U	a
+S	among
+@
+US	untold
+S	pass
+U	me
+S	let
+SU	number
+U	the
+S	in
+U	then
+@
+S	be
+U	must
+S	one
+U	i
+US	account
+S	store's
+U	thy
+S	in
+U	though
+@
+S	hold
+U	thee
+S	please
+U	it
+S	so
+U	me
+S	hold
+SU	nothing
+U	for
+@
+S	thee
+U	to
+S	sweet
+SU	something
+U	a
+S	me
+SU	nothing
+U	that
+@
+S	still
+U	that
+S	love
+U	and
+S	love
+U	thy
+S	name
+U	my
+S	but
+U	make
+@
+S	will
+U	is
+S	name
+U	my
+S	for
+U	me
+S	lov'st
+U	thou
+S	then
+U	and
+@
+S	eyes
+U	mine
+S	to
+U	thou
+S	dost
+U	what
+S	love
+U	fool
+S	blind
+U	thou
+@
+S	see
+U	they
+S	what
+U	not
+S	see
+U	and
+US	behold
+S	they
+U	that
+@
+S	lies
+U	it
+S	where
+U	see
+S	is
+SU	beauty
+U	what
+S	know
+U	they
+@
+S	be
+U	to
+S	worst
+U	the
+S	take
+U	is
+S	best
+U	the
+S	what
+U	yet
+@
+S	looks
+USU	over-partial
+S	by
+SU	corrupt
+U	eyes
+S	if
+@
+S	ride
+U	men
+S	all
+U	where
+S	bay
+U	the
+S	in
+SU	anchored
+U	be
+@
+S	hooks
+U	forged
+S	thou
+U	hast
+US	falsehood
+US	eyes
+S	of
+U	why
+@
+S	tied
+U	is
+S	heart
+U	my
+S	of
+SU	judgment
+U	the
+US	whereto
+@
+S	plot
+USU	several
+S	a
+U	that
+S	think
+U	heart
+S	my
+U	should
+S	why
+@
+S	place
+SU	common
+U	world's
+S	wide
+U	the
+S	knows
+U	heart
+S	my
+U	which
+@
+S	not
+U	is
+S	this
+U	say
+S	this
+SU	seeing
+U	eyes
+S	mine
+U	or
+@
+S	face
+U	a
+S	foul
+U	so
+S	upon
+U	truth
+S	fair
+U	put
+S	to
+@
+S	erred
+U	have
+S	eyes
+U	and
+S	heart
+U	my
+S	true
+U	right
+S	things
+U	in
+@
+US	transferred
+S	now
+U	they
+S	are
+U	plague
+S	false
+U	this
+S	to
+U	and
+@
+S	truth
+U	of
+S	made
+U	is
+S	she
+U	that
+S	swears
+U	love
+S	my
+U	when
+@
+S	lies
+U	she
+S	know
+U	i
+S	though
+U	her
+US	believe
+S	do
+U	i
+@
+S	youth
+USU	untutored
+S	some
+U	me
+S	think
+U	might
+S	she
+U	that
+@
+US	subtleties
+S	false
+U	world's
+S	the
+U	in
+US	unlearned
+@
+S	young
+U	me
+S	thinks
+U	she
+S	that
+SU	thinking
+SU	vainly
+U	thus
+@
+S	best
+U	the
+S	past
+U	are
+S	days
+U	my
+S	knows
+U	she
+US	although
+@
+S	tongue
+USU	false-speaking
+S	her
+SU	credit
+U	i
+US	simply
+@
+US	suppressed
+S	truth
+SU	simple
+U	is
+S	thus
+U	sides
+S	both
+U	on
+@
+US	unjust
+S	is
+U	she
+S	not
+U	she
+S	says
+SU	wherefore
+U	but
+@
+S	old
+U	am
+S	i
+U	that
+S	i
+U	not
+S	say
+SU	wherefore
+U	and
+@
+S	trust
+SU	seeming
+U	in
+S	is
+U	habit
+S	best
+U	love's
+S	o
+@
+S	told
+U	years
+S	have
+U	to
+S	not
+U	loves
+S	love
+U	in
+S	age
+U	and
+@
+S	me
+U	with
+S	she
+U	and
+S	her
+U	with
+S	lie
+U	i
+US	therefore
+@
+S	be
+SU	flattered
+U	we
+S	lies
+U	by
+S	faults
+U	our
+S	in
+U	and
+@
+S	wrong
+U	the
+SUS	justify
+U	to
+S	me
+U	not
+S	call
+U	o
+@
+S	heart
+U	my
+S	upon
+U	lays
+SUS	unkindness
+U	thy
+S	that
+@
+S	tongue
+U	thy
+S	with
+U	but
+S	eye
+U	thine
+S	with
+U	not
+S	me
+U	wound
+@
+S	art
+U	by
+S	not
+U	me
+S	slay
+U	and
+US	power
+S	with
+SU	power
+U	use
+@
+S	sight
+U	my
+S	in
+U	but
+US	elsewhere
+S	lov'st
+U	thou
+S	me
+U	tell
+@
+S	aside
+U	eye
+S	thine
+U	glance
+S	to
+SU	forbear
+U	heart
+S	dear
+@
+S	might
+U	thy
+S	when
+SU	cunning
+U	with
+S	wound
+U	thou
+S	need'st
+U	what
+@
+S	bide
+U	can
+US	defence
+US	o'erpressed
+S	my
+U	than
+S	more
+U	is
+@
+S	knows
+U	well
+S	love
+U	my
+S	ah
+U	thee
+US	excuse
+S	me
+U	let
+@
+SUS	enemies
+U	mine
+S	been
+U	have
+S	looks
+SU	pretty
+U	her
+@
+S	foes
+U	my
+S	turns
+U	she
+S	face
+U	my
+S	from
+SU	therefore
+U	and
+@
+US	injuries
+S	their
+U	dart
+S	might
+SU	elsewhere
+U	they
+S	that
+@
+S	slain
+U	near
+S	am
+U	i
+S	since
+U	but
+S	so
+U	not
+S	do
+U	yet
+@
+S	pain
+U	my
+S	rid
+U	and
+S	looks
+U	with
+US	outright
+S	me
+U	kill
+@
+S	press
+U	not
+S	do
+SU	cruel
+U	art
+S	thou
+U	as
+S	wise
+U	be
+@
+US	disdain
+S	much
+U	too
+S	with
+SU	patience
+U	tongue-tied
+S	my
+@
+US	express
+S	words
+U	and
+S	words
+U	me
+S	lend
+SU	sorrow
+U	lest
+@
+S	pain
+USU	pity-wanting
+S	my
+U	of
+US	manner
+S	the
+@
+S	were
+U	it
+US	better
+S	wit
+U	thee
+S	teach
+U	might
+S	i
+U	if
+@
+S	so
+U	me
+S	tell
+U	to
+S	love
+U	yet
+S	love
+U	to
+S	not
+U	though
+@
+S	near
+U	be
+S	deaths
+U	their
+S	when
+U	men
+S	sick
+U	testy
+S	as
+@
+S	know
+SU	physicians
+U	their
+S	from
+U	health
+S	but
+U	news
+S	no
+@
+S	mad
+U	grow
+S	should
+U	i
+US	despair
+S	should
+U	i
+S	if
+U	for
+@
+S	thee
+U	of
+S	ill
+U	speak
+S	might
+SU	madness
+U	my
+S	in
+U	and
+@
+S	bad
+U	so
+S	grown
+U	is
+S	world
+USU	ill-wresting
+S	this
+U	now
+@
+S	be
+SU	believed
+U	ears
+S	mad
+U	by
+SUS	slanderers
+U	mad
+@
+US	belied
+S	thou
+U	nor
+S	so
+U	be
+S	not
+U	may
+S	i
+U	that
+@
+S	wide
+U	go
+S	heart
+U	proud
+S	thy
+U	though
+S	straight
+U	eyes
+S	thine
+U	bear
+@
+S	eyes
+U	mine
+S	with
+U	thee
+S	love
+U	not
+S	do
+U	i
+S	faith
+U	in
+@
+S	note
+SU	errors
+SU	thousand
+U	a
+S	thee
+U	in
+S	they
+U	for
+@
+US	despise
+S	they
+U	what
+S	loves
+U	that
+S	heart
+U	my
+S	tis
+U	but
+@
+S	dote
+U	to
+S	pleased
+U	is
+S	view
+U	of
+US	despite
+S	in
+U	who
+@
+SUS	delighted
+U	tune
+S	tongue's
+U	thy
+S	with
+U	cars
+S	mine
+U	are
+S	nor
+@
+S	prone
+SU	touches
+U	base
+S	to
+SU	feeling
+SU	tender
+U	nor
+@
+SUS	invited
+U	be
+S	to
+SU	desire
+U	smell
+S	nor
+U	taste
+S	nor
+@
+S	alone
+U	thee
+S	with
+U	feast
+SUS	sensual
+U	any
+S	to
+@
+S	can
+SU	senses
+U	five
+S	my
+U	nor
+S	wits
+U	five
+S	my
+U	but
+@
+S	thee
+SU	serving
+U	from
+S	heart
+SU	foolish
+U	one
+US	dissuade
+@
+S	man
+U	a
+S	of
+SU	likeness
+U	the
+S	unswayed
+U	leaves
+S	who
+@
+S	be
+U	to
+S	wretch
+SU	vassal
+U	and
+S	slave
+U	heart's
+S	proud
+U	thy
+@
+S	gain
+U	my
+S	count
+U	i
+S	far
+U	thus
+S	plague
+U	my
+S	only
+@
+S	pain
+U	me
+S	awards
+U	sin
+S	me
+U	makes
+S	that
+U	she
+S	that
+@
+S	hate
+U	virtue
+S	dear
+U	thy
+S	and
+U	sin
+S	my
+U	is
+S	love
+@
+US	loving
+US	sinful
+S	on
+SU	grounded
+U	sin
+S	my
+U	of
+S	hate
+@
+S	state
+U	own
+S	thine
+U	thou
+US	compare
+S	mine
+U	with
+S	but
+U	o
+@
+SUS	reproving
+U	not
+US	merits
+S	it
+U	find
+S	shalt
+U	thou
+S	and
+@
+S	thine
+U	of
+S	lips
+U	those
+S	from
+U	not
+S	do
+U	it
+S	if
+U	or
+@
+SUS	ornaments
+SU	scarlet
+U	their
+US	profaned
+S	have
+U	that
+@
+S	mine
+U	as
+S	oft
+U	as
+S	love
+U	of
+S	bonds
+U	false
+S	sealed
+U	and
+@
+S	rents
+U	their
+S	of
+SU	revenues
+SU	beds
+USU	others
+S	robbed
+@
+S	those
+U	lov'st
+S	thou
+U	as
+S	thee
+U	love
+S	i
+SU	lawful
+U	it
+S	be
+@
+S	thee
+USU	importune
+S	mine
+U	as
+S	woo
+U	eyes
+S	thine
+U	whom
+@
+S	grows
+U	it
+S	when
+U	that
+S	heart
+U	thy
+S	in
+U	pity
+S	root
+@
+S	be
+U	pitied
+S	to
+SU	deserve
+U	may
+S	pity
+U	thy
+@
+S	hide
+U	dost
+S	thou
+U	what
+S	have
+U	to
+S	seek
+U	dost
+S	thou
+U	if
+@
+US	denied
+S	be
+U	thou
+S	mayst
+SUSU	self-example
+U	by
+@
+S	catch
+U	to
+S	runs
+U	huswife
+US	careful
+S	a
+U	as
+S	lo
+@
+S	away
+U	broke
+US	creatures
+US	feathered
+S	her
+U	of
+S	one
+@
+US	dispatch
+S	swift
+U	all
+S	makes
+U	and
+S	babe
+U	her
+S	down
+U	sets
+@
+S	stay
+U	have
+S	would
+U	she
+S	thing
+U	the
+S	of
+SU	pursuit
+U	in
+@
+S	chase
+U	in
+S	her
+U	holds
+S	child
+USU	neglected
+S	her
+U	whilst
+@
+S	bent
+U	is
+S	care
+U	busy
+S	whose
+U	her
+S	catch
+U	to
+S	cries
+@
+S	face
+U	her
+US	before
+S	flies
+U	which
+S	that
+SU	follow
+U	to
+@
+SUS	discontent
+USU	infant's
+S	poor
+U	her
+US	prizing
+S	not
+@
+S	thee
+U	from
+S	flies
+U	which
+S	that
+SU	after
+U	thou
+S	run'st
+U	so
+@
+US	behind
+S	afar
+U	thee
+S	chase
+U	babe
+S	thy
+U	i
+S	whilst
+@
+S	me
+U	to
+S	back
+U	turn
+S	hope
+U	thy
+S	catch
+U	thou
+S	if
+U	but
+@
+S	kind
+U	be
+S	me
+U	kiss
+S	part
+SU	mother's
+U	the
+S	play
+U	and
+@
+S	will
+U	thy
+S	have
+U	mayst
+S	thou
+U	that
+S	pray
+U	i
+S	will
+U	so
+@
+S	still
+SU	crying
+U	loud
+S	my
+U	and
+S	back
+U	turn
+S	thou
+U	if
+@
+US	despair
+S	and
+SU	comfort
+U	of
+S	have
+U	i
+S	loves
+U	two
+@
+S	still
+U	me
+US	suggest
+S	do
+SU	spirits
+U	two
+S	like
+U	which
+@
+S	fair
+U	right
+S	man
+U	a
+S	is
+SU	angel
+SU	better
+U	the
+@
+S	ill
+U	coloured
+S	woman
+U	a
+US	spirit
+US	worser
+S	the
+@
+S	evil
+SU	female
+U	my
+S	hell
+U	to
+S	soon
+U	me
+S	win
+U	to
+@
+S	side
+U	my
+S	from
+SU	angel
+SU	better
+U	my
+S	tempteth
+@
+US	devil
+S	a
+U	be
+S	to
+U	saint
+S	my
+SU	corrupt
+U	would
+S	and
+@
+S	pride
+U	foul
+S	her
+U	with
+SUS	purity
+U	his
+US	wooing
+@
+S	fiend
+U	turned
+S	be
+SU	angel
+U	my
+S	that
+U	whether
+S	and
+@
+S	tell
+USU	directly
+S	not
+U	yet
+S	may
+U	i
+US	suspect
+@
+S	friend
+U	each
+S	to
+U	both
+S	me
+U	from
+S	both
+SU	being
+U	but
+@
+S	hell
+USU	another's
+S	in
+SU	angel
+U	one
+S	guess
+U	i
+@
+S	doubt
+U	in
+S	live
+U	but
+S	know
+U	ne'er
+S	i
+U	shall
+S	this
+U	yet
+@
+S	out
+U	one
+S	good
+U	my
+S	fire
+SU	angel
+U	bad
+S	my
+U	till
+@
+S	make
+U	did
+S	hand
+U	own
+S	love's
+U	that
+S	lips
+U	those
+@
+S	hate
+U	i
+S	said
+U	that
+S	sound
+U	the
+S	forth
+U	breathed
+@
+S	sake
+U	her
+S	for
+SU	languished
+U	that
+S	me
+U	to
+@
+S	state
+SU	woeful
+U	my
+S	saw
+U	she
+S	when
+U	but
+@
+S	come
+SU	mercy
+U	did
+S	heart
+U	her
+S	in
+U	straight
+@
+S	sweet
+U	ever
+S	that
+U	tongue
+S	that
+SU	chiding
+@
+S	doom
+SU	gentle
+SU	giving
+U	in
+S	used
+U	was
+@
+S	greet
+U	to
+S	anew
+U	thus
+S	it
+U	taught
+S	and
+@
+S	end
+U	an
+S	with
+SU	altered
+U	she
+S	hate
+U	i
+@
+S	day
+SU	gentle
+U	as
+S	it
+SU	followed
+U	that
+@
+S	fiend
+U	a
+S	like
+U	who
+S	night
+SU	follow
+U	doth
+@
+S	away
+U	flown
+S	is
+U	hell
+S	to
+SU	heaven
+U	from
+@
+S	threw
+U	she
+S	away
+U	hate
+S	from
+U	hate
+S	i
+@
+S	you
+U	not
+US	saying
+S	life
+U	my
+S	saved
+U	and
+@
+S	earth
+SU	sinful
+U	my
+S	of
+SU	centre
+U	the
+S	soul
+U	poor
+@
+US	array
+US	powers
+S	rebel
+U	these
+S	earth
+SU	sinful
+U	my
+@
+S	dearth
+SU	suffer
+U	and
+US	within
+S	pine
+U	thou
+S	dost
+U	why
+@
+S	gay
+SU	costly
+U	so
+S	walls
+SU	outward
+U	thy
+US	painting
+@
+S	lease
+U	a
+S	short
+U	so
+US	having
+S	cost
+U	large
+S	so
+U	why
+@
+S	spend
+SU	mansion
+SU	fading
+U	thy
+S	upon
+U	thou
+S	dost
+@
+US	excess
+S	this
+U	of
+USUS	inheritors
+S	worms
+U	shall
+@
+S	end
+U	body's
+S	thy
+U	this
+S	is
+U	charge
+S	thy
+U	up
+S	eat
+@
+S	loss
+USU	servant's
+S	thy
+U	upon
+S	thou
+U	live
+S	soul
+U	then
+@
+S	store
+U	thy
+SUS	aggravate
+U	to
+S	pine
+U	that
+S	let
+U	and
+@
+S	dross
+U	of
+S	hours
+SU	selling
+U	in
+US	divine
+S	terms
+U	buy
+@
+S	more
+U	no
+S	rich
+U	be
+US	without
+S	fed
+U	be
+US	within
+@
+S	men
+U	on
+S	feeds
+U	that
+S	death
+U	on
+S	feed
+U	thou
+S	shall
+U	so
+@
+S	then
+SU	dying
+U	more
+S	no
+U	there's
+S	dead
+U	once
+S	death
+U	and
+@
+S	still
+SU	longing
+U	fever
+S	a
+U	as
+S	is
+U	love
+S	my
+@
+US	disease
+S	the
+U	nurseth
+S	longer
+U	which
+S	that
+U	for
+@
+S	ill
+U	the
+US	preserve
+S	doth
+U	which
+S	that
+U	on
+US	feeding
+@
+S	please
+U	to
+US	appetite
+US	sickly
+SUS	uncertain
+U	th
+@
+S	love
+U	my
+S	to
+SU	physician
+U	the
+US	reason
+S	my
+@
+S	kept
+U	not
+S	are
+USU	prescriptions
+S	his
+U	that
+US	angry
+@
+US	approve
+S	now
+USU	desperate
+S	i
+U	and
+S	me
+U	left
+S	hath
+@
+US	except
+S	did
+U	physic
+S	which
+U	death
+S	is
+SU	desire
+@
+S	care
+U	past
+S	is
+SU	reason
+U	now
+S	am
+U	i
+S	cure
+U	past
+@
+US	unrest
+US	evermore
+S	with
+USU	frantic-mad
+S	and
+@
+S	are
+U	men's
+S	mad
+U	as
+US	discourse
+S	my
+U	and
+S	thoughts
+U	my
+@
+US	expressed
+US	vainly
+S	truth
+U	the
+S	from
+SU	random
+U	at
+@
+S	bright
+U	thee
+S	thought
+U	and
+S	fair
+U	thee
+S	sworn
+U	have
+S	i
+U	for
+@
+S	night
+U	as
+S	dark
+U	as
+S	hell
+U	as
+S	black
+U	as
+S	art
+U	who
+@
+S	head
+U	my
+S	in
+U	put
+S	love
+U	hath
+S	eyes
+U	what
+S	me
+U	o
+@
+S	sight
+U	true
+S	with
+SUSU	correspondence
+U	no
+S	have
+U	which
+@
+S	fled
+SU	judgment
+U	my
+S	is
+U	where
+S	have
+U	they
+S	if
+U	or
+@
+S	aright
+U	see
+S	they
+U	what
+US	falsely
+US	censures
+S	that
+@
+S	dote
+U	eyes
+S	false
+U	my
+US	whereon
+S	fair
+U	be
+S	that
+U	if
+@
+S	so
+U	not
+S	is
+U	it
+S	say
+U	to
+S	world
+U	the
+S	means
+U	what
+@
+US	denote
+S	well
+U	doth
+S	love
+U	then
+S	not
+U	be
+S	it
+U	if
+@
+S	no
+U	men's
+S	all
+U	as
+S	true
+U	so
+S	not
+U	is
+S	eye
+U	love's
+@
+S	true
+U	be
+S	eye
+U	love's
+S	can
+U	how
+S	o
+U	it
+S	can
+U	how
+@
+S	tears
+U	with
+S	and
+SU	watching
+U	with
+S	vexed
+U	so
+S	is
+U	that
+@
+S	view
+U	my
+US	mistake
+S	i
+U	though
+S	then
+SU	marvel
+U	no
+@
+S	clears
+SU	heaven
+U	till
+S	not
+U	sees
+S	self
+U	it
+S	sun
+U	the
+@
+S	blind
+U	me
+US	keep'st
+S	thou
+U	tears
+S	with
+U	love
+US	cunning
+S	o
+@
+S	find
+U	should
+S	faults
+U	foul
+S	thy
+SU	well-seeing
+U	eyes
+S	lest
+@
+S	not
+U	thee
+S	love
+U	i
+S	say
+SU	cruel
+U	o
+S	thou
+U	canst
+@
+US	partake
+S	thee
+U	with
+S	self
+U	my
+S	against
+U	i
+S	when
+@
+US	forgot
+S	i
+U	when
+S	thee
+U	on
+S	think
+U	not
+S	i
+U	do
+@
+S	sake
+U	thy
+S	for
+USU	all-tyrant
+S	self
+U	my
+S	of
+U	am
+@
+S	friend
+U	my
+S	call
+U	do
+S	i
+U	that
+S	thee
+U	hateth
+S	who
+@
+S	upon
+U	fawn
+S	do
+U	i
+S	that
+U	thou
+S	frown'st
+U	whom
+S	on
+@
+S	spend
+U	not
+S	i
+U	do
+S	me
+U	on
+S	lour'st
+U	thou
+S	if
+U	nay
+@
+S	moan
+U	present
+S	with
+U	self
+S	my
+U	upon
+US	revenge
+@
+US	respect
+S	self
+U	my
+S	in
+U	i
+S	do
+SU	merit
+U	what
+@
+US	despise
+S	to
+SU	service
+U	thy
+S	proud
+U	so
+S	is
+U	that
+@
+US	defect
+S	thy
+SU	worship
+U	doth
+S	best
+U	my
+S	all
+U	when
+@
+S	eyes
+U	thine
+S	of
+SU	motion
+U	the
+S	by
+USU	commanded
+@
+S	mind
+U	thy
+S	know
+U	i
+S	now
+U	for
+S	on
+U	hate
+S	love
+U	but
+@
+S	blind
+U	am
+S	i
+U	and
+S	lov'st
+U	thou
+S	see
+U	can
+S	that
+U	those
+@
+S	might
+USU	powerful
+S	this
+U	thou
+S	hast
+SU	power
+U	what
+S	from
+U	o
+@
+S	sway
+U	to
+S	heart
+U	my
+SUSUS	insufficiency
+U	with
+@
+S	sight
+U	true
+S	my
+U	to
+S	lie
+U	the
+S	give
+U	me
+S	make
+U	to
+@
+S	day
+U	the
+S	grace
+U	not
+S	doth
+SU	brightness
+U	that
+S	swear
+U	and
+@
+S	ill
+U	things
+S	of
+USU	becoming
+S	this
+U	thou
+S	hast
+U	whence
+@
+S	deeds
+U	thy
+S	of
+U	refuse
+S	very
+U	the
+S	in
+U	that
+@
+S	skill
+U	of
+SUS	warrantise
+U	and
+S	strength
+U	such
+S	is
+U	there
+@
+US	exceeds
+S	best
+U	all
+S	worst
+U	thy
+S	mind
+U	my
+S	in
+U	that
+@
+S	more
+U	thee
+S	love
+U	me
+S	make
+U	to
+S	how
+U	thee
+S	taught
+U	who
+@
+S	hate
+U	of
+S	cause
+U	just
+S	see
+U	and
+S	hear
+U	i
+S	more
+U	the
+@
+US	abhor
+S	do
+SU	others
+U	what
+S	love
+U	i
+S	though
+U	o
+@
+S	state
+U	my
+US	abhor
+S	not
+U	shouldst
+S	thou
+SU	others
+U	with
+@
+S	me
+U	in
+S	love
+U	raised
+USUS	unworthiness
+S	thy
+U	if
+@
+S	thee
+U	of
+S	beloved
+U	be
+S	to
+U	i
+US	worthy
+S	more
+@
+S	is
+SU	conscience
+U	what
+S	know
+U	to
+S	young
+U	too
+S	is
+U	love
+@
+S	love
+U	of
+S	born
+U	is
+US	conscience
+S	not
+U	knows
+S	who
+U	yet
+@
+S	amiss
+U	my
+S	not
+U	urge
+S	cheater
+SU	gentle
+U	then
+@
+S	prove
+U	self
+S	sweet
+U	thy
+S	faults
+U	my
+S	of
+U	guilty
+S	lest
+@
+US	betray
+S	do
+U	i
+S	me
+USU	betraying
+S	thou
+U	for
+@
+US	treason
+S	body's
+U	gross
+S	my
+U	to
+S	part
+SU	nobler
+U	my
+@
+S	may
+U	he
+S	that
+U	body
+S	my
+U	tell
+S	doth
+U	soul
+S	my
+@
+US	reason
+US	farther
+S	no
+U	stays
+S	flesh
+U	love
+S	in
+SU	triumph
+@
+S	thee
+U	out
+S	point
+U	doth
+S	name
+U	thy
+S	at
+SU	rising
+U	but
+@
+S	pride
+U	this
+S	of
+U	proud
+S	prize
+SU	triumphant
+U	his
+S	as
+@
+S	be
+U	to
+S	drudge
+U	poor
+S	thy
+USU	contented
+S	is
+U	he
+@
+S	side
+U	thy
+S	by
+U	fall
+US	affairs
+S	thy
+U	in
+S	stand
+U	to
+@
+S	call
+U	i
+S	that
+U	it
+S	hold
+SU	conscience
+U	of
+S	want
+U	no
+@
+S	fall
+U	and
+S	rise
+U	i
+S	love
+U	dear
+S	whose
+U	for
+S	love
+U	her
+@
+US	forsworn
+S	am
+U	i
+S	know'st
+U	thou
+S	thee
+SU	loving
+U	in
+@
+US	swearing
+S	love
+U	me
+S	to
+SU	forsworn
+U	twice
+S	art
+U	thou
+S	but
+@
+S	torn
+U	faith
+S	new
+U	and
+S	broke
+U	bed-vow
+S	thy
+U	act
+S	in
+@
+US	bearing
+S	love
+U	new
+US	after
+S	hate
+U	new
+US	vowing
+S	in
+@
+S	thee
+SU	accuse
+U	i
+S	do
+U	breach
+US	oaths
+S	two
+U	of
+S	why
+U	but
+@
+S	most
+SU	perjured
+U	am
+S	i
+SU	twenty
+U	break
+S	i
+U	when
+@
+S	thee
+SU	misuse
+U	to
+S	but
+U	oaths
+S	are
+U	vows
+S	my
+U	all
+S	for
+@
+S	lost
+U	is
+S	thee
+U	in
+S	faith
+SU	honest
+U	my
+S	all
+U	and
+@
+US	kindness
+S	deep
+U	thy
+S	of
+U	oaths
+S	deep
+U	sworn
+S	have
+U	i
+S	for
+@
+SUS	constancy
+U	thy
+S	truth
+U	thy
+S	love
+U	thy
+S	of
+U	oaths
+@
+US	blindness
+S	to
+U	eyes
+S	gave
+U	thee
+SUS	enlighten
+U	to
+S	and
+@
+S	see
+U	they
+S	thing
+U	the
+S	against
+U	swear
+S	them
+U	made
+S	or
+@
+S	i
+SU	perjured
+U	more
+S	fair
+U	thee
+S	sworn
+U	have
+S	i
+U	for
+@
+S	be
+U	a
+S	foul
+U	so
+S	truth
+U	the
+S	against
+U	swear
+S	to
+@
+S	asleep
+U	fell
+S	and
+U	brand
+S	his
+U	by
+S	laid
+SU	cupid
+@
+S	found
+USU	advantage
+S	this
+SU	dian's
+U	of
+S	maid
+U	a
+@
+S	steep
+SU	quickly
+U	did
+S	fire
+SU	love-kindling
+U	his
+S	and
+@
+S	ground
+U	that
+S	of
+SUSU	valley-fountain
+U	cold
+S	a
+U	in
+@
+S	love
+U	of
+S	fire
+U	holy
+S	this
+U	from
+US	borrowed
+S	which
+@
+US	endure
+S	to
+U	still
+S	heat
+SU	lively
+SU	dateless
+U	a
+@
+S	prove
+U	men
+S	yet
+U	which
+S	bath
+SU	seeting
+U	a
+S	grew
+U	and
+@
+S	cure
+USU	sovereign
+S	a
+SU	maladies
+U	strange
+S	against
+@
+US	new-fired
+S	brand
+U	love's
+S	eye
+SU	mistress
+U	my
+S	at
+U	but
+@
+S	breast
+U	my
+S	touch
+U	would
+S	needs
+SU	trial
+U	for
+S	boy
+U	the
+@
+US	desired
+S	bath
+U	of
+S	help
+U	the
+US	withal
+S	sick
+U	i
+@
+S	guest
+USU	distempered
+S	sad
+U	a
+S	hied
+SU	thither
+U	and
+@
+S	lies
+U	help
+S	my
+U	for
+S	bath
+U	the
+S	cure
+U	no
+S	found
+U	but
+@
+S	eyes
+SU	mistress
+U	my
+S	fire
+U	new
+S	got
+SU	cupid
+U	where
+@
+S	asleep
+U	once
+US	lying
+US	love-god
+US	little
+S	the
+@
+S	brand
+USU	heart-inflaming
+S	his
+U	side
+S	his
+U	by
+S	laid
+@
+S	keep
+U	to
+S	life
+U	chaste
+S	vowed
+U	that
+S	nymphs
+U	many
+S	whilst
+@
+S	hand
+SU	maiden
+U	her
+S	in
+U	but
+S	by
+SU	tripping
+U	came
+@
+S	fire
+U	that
+S	up
+U	took
+S	votary
+U	fairest
+S	the
+@
+S	warmed
+U	had
+S	hearts
+U	true
+S	of
+SU	legions
+U	many
+S	which
+@
+US	desire
+S	hot
+U	of
+SUS	general
+U	the
+S	so
+U	and
+@
+US	disarmed
+S	hand
+SU	virgin
+U	a
+S	by
+SU	sleeping
+U	was
+@
+S	by
+U	well
+S	cool
+U	a
+S	in
+U	quenched
+S	she
+U	brand
+S	this
+@
+USUS	perpetual
+S	heat
+U	took
+S	fire
+U	love's
+S	from
+U	which
+@
+SUS	remedy
+SU	healthful
+U	and
+S	bath
+U	a
+US	growing
+@
+S	thrall
+SU	mistress
+U	my
+S	i
+U	but
+US	discased
+S	men
+U	for
+@
+S	prove
+U	i
+S	that
+U	by
+S	this
+U	and
+S	cure
+U	for
+S	there
+U	came
+@
+S	love
+U	not
+S	cools
+SU	water
+SU	water
+U	heats
+S	fire
+U	love's
+@

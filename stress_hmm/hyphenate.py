@@ -1,4 +1,6 @@
-# literally copied from http://nedbatchelder.com/code/modules/hyphenate.py
+# literally (shamelessly) copied from 
+# http://nedbatchelder.com/code/modules/hyphenate.py
+# thanks to Ned Batchelder
 
 """ Hyphenation, using Frank Liang's algorithm.
 
@@ -523,4 +525,3 @@ if __name__ == '__main__':
     else:
         import doctest
         doctest.testmod(verbose=True)
-        
