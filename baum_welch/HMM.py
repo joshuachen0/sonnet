@@ -7,6 +7,7 @@
 ########################################
 
 import random
+import math
 
 class HiddenMarkovModel:
     '''
@@ -194,7 +195,7 @@ class HiddenMarkovModel:
         # the code under the comment is part of the M-step.
 
         for iteration in range(iters):
-            print("Iteration: " + str(iteration))
+            # print("Iteration: " + str(iteration))
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]
@@ -333,6 +334,45 @@ class HiddenMarkovModel:
             state = next_state
 
         return emission
+
+    def probability_alphas(self, x):
+        '''
+        Finds the maximum probability of a given input sequence using
+        the forward algorithm.
+
+        Arguments:
+            x:          Input sequence in the form of a list of length M,
+                        consisting of integers ranging from 0 to D - 1.
+
+        Returns:
+            prob:       Total probability that x can occur.
+        '''
+        # Calculate alpha vectors.
+        alphas = self.forward(x)
+
+        # alpha_j(M) gives the probability that the output sequence ends
+        # in j. Summing this value over all possible states j gives the
+        # total probability of x paired with any output sequence, i.e. the
+        # probability of x.
+        prob = sum(alphas[-1])
+        return prob
+
+    def score_emission(self, x):
+        '''
+        :param x: A list of integers in [0, D - 1] representing an emission.
+        :return: The log-likelihood of generating x.
+        '''
+        return math.log(self.probability_alphas(x))
+
+    def score(self, X):
+        '''
+        :param X: A dataset consisting of input sequences in the form
+                  of lists of variable length, consisting of integers
+                  ranging from 0 to D - 1. In other words, a list of lists.
+        :return: The total log-likelihood of generating X.
+        '''
+        return sum([self.score_emission(x) for x in X])
+
 
 def unsupervised_HMM(X, n_states, n_iters):
     '''
