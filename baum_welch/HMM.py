@@ -261,6 +261,39 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
+    def generate_observation(self, this_state=None):
+        '''
+        Generate a single observation.
+
+        Arguments:
+            this_state: None, or an integer in [0, D - 1] representing the
+                        current state of HMM. If None, choose a start state
+                        at random. Default None.
+        Returns:
+            obs:        Observation.
+            next_state: Next state of HMM, an integer in [0, D - 1].
+        '''
+        if this_state == None:
+            this_state = random.choice(range(self.L))
+
+        # Sample next observation.
+        rand_var = random.uniform(0, 1)
+        obs = 0
+        while rand_var > 0:
+            rand_var -= self.O[this_state][obs]
+            obs += 1
+        obs -= 1
+
+        # Sample next state.
+        rand_var = random.uniform(0, 1)
+        next_state = 0
+        while rand_var > 0:
+            rand_var -= self.A[this_state][next_state]
+            next_state += 1
+        next_state -= 1
+
+        return obs, next_state
+
     def generate_emission(self, M):
         '''
         Generates an emission of length M, assuming that the starting state
