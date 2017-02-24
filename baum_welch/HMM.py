@@ -187,8 +187,8 @@ class HiddenMarkovModel:
             iters:      Number of E-M iterations to train the HMM.
 
         Returns:
-            scores:     Dict where scores[x] is the score after x E-M
-                        iterations. Populated every 10 iterations, and after
+            scores:     List of (i, score after i E-M iterations) tuples.
+                        Computed every 10 iterations, and after
                         the last iteration.
         '''
 
@@ -198,11 +198,11 @@ class HiddenMarkovModel:
         # Similarly, a comment starting with 'M' refers to the fact that
         # the code under the comment is part of the M-step.
 
-        scores = {}
+        scores = []
 
         for iteration in range(iters):
             if iteration % 10 == 0:
-                scores[iteration] = self.score(X)
+                scores.append((iteration, self.score(X)))
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]
@@ -269,7 +269,7 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
-        scores[iters] = self.score(X)
+        scores.append((iters, self.score(X)))
         return scores
 
     def generate_observation(self, this_state=None):
@@ -401,8 +401,7 @@ def unsupervised_HMM(X, n_states, n_iters):
 
     Returns:
         hmm:        Trained HMM.
-        scores:     Dict where scores[x] is the score after x E-M iterations
-                    of training the HMM.
+        scores:     List of (i, score after i E-M iterations) tuples.
     '''
 
     # Make a set of observations.
