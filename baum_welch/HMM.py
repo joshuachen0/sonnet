@@ -184,6 +184,7 @@ class HiddenMarkovModel:
             X:          A dataset consisting of input sequences in the form
                         of lists of length M, consisting of integers ranging
                         from 0 to D - 1. In other words, a list of lists.
+            iters:      Number of E-M iterations to train the HMM.
         '''
 
         # Note that a comment starting with 'E' refers to the fact that
@@ -313,6 +314,7 @@ def unsupervised_HMM(X, n_states, n_iters):
                     ranging from 0 to D - 1. In other words, a list of lists.
 
         n_states:   Number of hidden states to use in training.
+        n_iters:    Number of E-M iterations.
     '''
 
     # Make a set of observations.
