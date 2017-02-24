@@ -36,20 +36,21 @@ def generate_line_naive(hmm, word_map, num_words):
 
 def train_n_states(X, word_map):
     """Train several HMMs. Vary on the number of states."""
-    n_states_vals = range(2, 21, 2)  # 2, 4, ..., 20
+    states_vals = range(2, 21, 2)  # 2, 4, ..., 20
     n_iterations = 100
+    n_models = 3
 
-    for n_states in n_states_vals:
-        hmm = unsupervised_HMM(X, n_states, n_iterations)
-        print(
-            str(n_states_vals) + 'hidden states, '
-            + str(n_iterations) + 'iterations'
-        )
-        # Generate a line
-        print(
-            generate_line_naive(hmm, word_map, 100)
-        )
-        print()
+    for n_states in states_vals:
+        print('-' * 70)
+        print('{} hidden states, {} iterations'.format(n_states, n_iterations))
+
+        for i in range(n_models):
+            hmm, scores = unsupervised_HMM(X, n_states, n_iterations)
+
+            print('Model {}'.format(i))
+            print(scores)
+            print(generate_line_naive(hmm, word_map, 400))
+            print
 
 X, word_map = poem.load_sp()
-
+train_n_states(X, word_map)
