@@ -1,6 +1,5 @@
 from HMM import *
 
-
 def invert_map(my_map):
     """
     :param my_map: Map to invert, with unique values.
@@ -28,17 +27,28 @@ def generate_line_naive(hmm, word_map, num_words):
     # Reverse so it makes sense to us
     words.reverse()
 
+    # Titlecase the first word
+    words[0] = words[0].title()
+
     # Join with spaces
     return ' '.join(words)
 
 def train_n_states(X, word_map):
     """Train several HMMs. Vary on the number of states."""
-    open('train/train_n_states_out.txt', )
     n_states_vals = range(2, 21, 2)  # 2, 4, ..., 20
     n_iterations = 100
 
     for n_states in n_states_vals:
-        hmm = unsupervised_HMM(X, n_states, 100)
-        generate_line_naive(hmm, word_map, 100)
+        hmm = unsupervised_HMM(X, n_states, n_iterations)
+        print(
+            str(n_states_vals) + 'hidden states, '
+            + str(n_iterations) + 'iterations'
+        )
+        # Generate a line
+        print(
+            generate_line_naive(hmm, word_map, 100)
+        )
+        print()
+
 
 
