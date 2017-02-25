@@ -1,6 +1,7 @@
 from baum_welch.HMM import *
 import poem
 import multiprocessing as mp
+import pronouncing
 import functools
 
 def invert_map(my_map):
@@ -9,6 +10,21 @@ def invert_map(my_map):
     :return: Map of values -> keys.
     """
     return {v: k for k, v in my_map.iteritems()}
+
+
+def est_num_syllables(word):
+    """
+    :param word: A string.
+    :return: An estimate of the number of syllables in the word.
+        If it's in the dictionary, return the actual number of syllables.
+        Else return # characters / 4.
+    """
+    phones = pronouncing.phones_for_word(word)
+    if phones:
+        return pronouncing.syllable_count(phones[0])
+    else:
+        return len(word) / 4
+
 
 def generate_line_naive(hmm, word_map, num_words):
     """
@@ -76,3 +92,4 @@ def train_over_states(X):
 if __name__ == '__main__':
     X, word_map = poem.load_sp()
     train_over_states(X)
+    
