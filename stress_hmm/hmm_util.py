@@ -132,6 +132,19 @@ def make_emission_supervised(HMM, word_map):
 
     return res
 
+def make_sonnet(HMM, word_map, supervised=False):
+    for i in range(14):
+        if supervised is False:
+            res = make_emission(HMM, word_map)
+            res.reverse()
+
+            for i in res:
+                print (i, end=' ')
+            print(end='\n')
+        else:
+            res = make_emission_supervised(HMM, word_map)
+        print
+
 def main():
     supervised = False
 
@@ -147,23 +160,17 @@ def main():
     
 
     if supervised is False:
-        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=1)
+        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=500)
     else:
         HMM = supervised_HMM(words, stresses)
 
+    for i in range(5):
+        make_sonnet(HMM, word_map, supervised=False)
+        print(end='\n')
+
     # Get rhyme pair
     # make pair of lines with rhyme pair as "ending" word
-    for i in range(14):
-        if supervised is False:
-            res = make_emission(HMM, word_map)
-            res.reverse()
-
-            for i in res:
-                print (i, end=' ')
-            print(end='\n')
-        else:
-            res = make_emission_supervised(HMM, word_map)
-        print
+    
     
 
 if __name__ == '__main__':
