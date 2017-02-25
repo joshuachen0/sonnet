@@ -1,5 +1,6 @@
 from __future__ import print_function
 from HMM import unsupervised_HMM, supervised_HMM
+import numpy as np
 
 
 def load_sonnets(f_name, supervised=True):
@@ -120,53 +121,84 @@ def make_emission(HMM, word_map):
     #     print i
 
     return temp
+    
 
-
-def make_emission_supervised(HMM, word_map):
-    temp = HMM.generate_emission_sonnet(10)
-
-    for i in temp:
-        word = word_map.keys()[word_map.values().index(i)]
-        res.append(word)
-        print (word)
-
-    return res
-
-def make_sonnet(HMM, word_map, supervised=False):
+def make_sonnet(HMM, word_map, rhymes, supervised=False):
     for i in range(14):
         if supervised is False:
             res = make_emission(HMM, word_map)
             res.reverse()
-
-            for i in res:
-                print (i, end=' ')
-            print(end='\n')
         else:
-            res = make_emission_supervised(HMM, word_map)
+            res = make_emission(HMM, word_map)
+
+        for i in res:
+            print (i, end=' ')
+        print(end='\n')
+        
         print
 
+def load_rhymes(f_name):
+    rhyme_list = []
+
+    with open(f_name, 'r') as f:
+        for line in f:
+            # print (line)
+            rhymes = line.split()
+            # print (rhymes)
+
+            if len(rhymes) > 1:
+                rhyme_list.append(rhymes)
+
+    # print (rhyme_list)
+    return rhyme_list
+
+def pick_rhymes(rhymes):
+    seeds = []
+    indices = np.random.choice(np.arange(len(rhymes)), 7)
+
+    for i in range(0, 5, 2):
+        rhyme1_ind = np.random.choice(np.arange(len(rhymes[i])), 2)
+        rhyme2_ind = np.random.choice(np.arange(len(rhymes[i + 1])), 2)
+
+        for index in range(2):
+            seeds.append(rhymes[i][index])
+            seeds.append(rhymes[i + 1][index])
+    last_index = indices[-1]
+    
+    last_ind = np.random.choice(np.arange(len(rhymes[last_index])), 2)
+
+    for i in last_ind:
+        seeds.append(rhymes[last_index][i])
+
+    return seeds
+
+
 def main():
-    supervised = False
+    supervised = True
+    rhymes = load_rhymes("data/rhymes.txt")
+    rhymes = pick_rhymes(rhymes)
 
-    if supervised is True:
-        stresses, stress_map, words, word_map = \
-            load_sonnets("data/concat_words_supervised.txt", supervised=True)
-        print (len(stress_map.keys()))
-        print (stress_map)
-    else:
-        words, word_map = load_sonnets("data/concat_words.txt", supervised=False)
+    print (rhymes)
+
+    # if supervised is True:
+    #     stresses, stress_map, words, word_map = \
+    #         load_sonnets("data/concat_words_supervised_punct.txt", supervised=True)
+    #     print (len(stress_map.keys()))
+    #     print (stress_map)
+    # else:
+    #     words, word_map = load_sonnets("data/concat_words_punct.txt", supervised=False)
     
-    print (len(word_map.keys()))
+    # print (len(word_map.keys()))
     
 
-    if supervised is False:
-        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=500)
-    else:
-        HMM = supervised_HMM(words, stresses)
+    # if supervised is False:
+    #     HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=500)
+    # else:
+    #     HMM = supervised_HMM(words, stresses)
 
-    for i in range(5):
-        make_sonnet(HMM, word_map, supervised=False)
-        print(end='\n')
+    # for i in range(5):
+    #     make_sonnet(HMM, word_map, rhymes, supervised=supervised)
+    #     print(end='\n')
 
     # Get rhyme pair
     # make pair of lines with rhyme pair as "ending" word
