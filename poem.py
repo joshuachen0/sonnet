@@ -17,7 +17,7 @@ def load_sp(strip_punc=True):
             elif is_int(fline.strip()) or '' == fline.strip():
                 continue
             # Split the lines into its words
-            line = fline.strip().lower().split()
+            line = fline.strip().split()
             for word_ in line:
                 # Strip punctuation
                 word = word_
@@ -25,11 +25,10 @@ def load_sp(strip_punc=True):
                     for punc in punctuation:
                         word = word.strip(punc)
                 else:
-                    for punc in ['\'', ':', ';']:
+                    for punc in ['\'', ':', ';', '(', ')']:
                         word = word.strip(punc)
-                '''
-                
-                '''
+
+                word = word.lower()
                 if word not in word_map:
                     word_map[word] = word_counter
                     word_counter += 1
@@ -80,6 +79,19 @@ def write_rhymes(rhymes):
     with open('rhymes.txt', 'w') as f_out:
         for rhyme in rhymes:
             f_out.write(' '.join(rhyme) + '\n')
+
+def format_line(line):
+    words = line.strip().split(' ')
+    words[0] = words[0][0].upper() + words[0][1:]
+    for i in range(len(words) - 1):
+        if words[i][-1] == '.':
+            words[i + 1] = words[i + 1][0].upper() + words[i + 1][1:]
+        if words[i][0] == 'i':
+            words[i][0] = words[i][0].upper()
+    # Add end of line punctuation
+    if words[-1][-1] not in [',', '.', ';', '?', '!']:
+        words[-1] += '.'
+    return ' '.join(words) + '\n'
 
 if __name__ == '__main__':
     print('Loading words...')
