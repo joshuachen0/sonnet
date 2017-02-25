@@ -1,4 +1,4 @@
-def load_sp():
+def load_sp(strip_punc=True):
     words = []
     word_map = {}
     word_counter = 0
@@ -21,8 +21,12 @@ def load_sp():
             for word_ in line:
                 # Strip punctuation
                 word = word_
-                for punc in punctuation:
-                    word = word.strip(punc)
+                if strip_punc:
+                    for punc in punctuation:
+                        word = word.strip(punc)
+                '''
+                
+                '''
                 if word not in word_map:
                     word_map[word] = word_counter
                     word_counter += 1
