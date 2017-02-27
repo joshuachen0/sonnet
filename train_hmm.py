@@ -2,7 +2,7 @@ from baum_welch.HMM import *
 import poem
 import multiprocessing as mp
 import pronouncing
-import functools
+import pickle
 
 def invert_map(my_map):
     """
@@ -62,6 +62,7 @@ def train_and_print(X, n_states, n_iters, model_i, word_map):
     :param model_i: Model identifier, for multiple models with the same
         parameters.
     :param word_map: Dict of words to ints.
+    :return The trained HMM.
     """
     hmm, scores = unsupervised_HMM(X, n_states, n_iters)
     print('-' * 70)
@@ -69,7 +70,29 @@ def train_and_print(X, n_states, n_iters, model_i, word_map):
           .format(n_states, n_iters, model_i))
     print(scores)
     print(generate_line_naive(hmm, word_map, 300))
+    return hmm
+
+
+def interpret(hmm, word_map):
+    """Print interpretive information about the HMM, such as most likely
+    words per state.
+    :param hmm: A trained HMM.
+    :param word_map: Dict of words to ints.
+    """
+    # Map of obs -> word
+    obs_map = invert_map(word_map)
+
+    print('Most likely words per state:')
+    top = hmm.top_obs_per_state(10)
+    for state in range(hmm.L):
+        top_words = ['{} {:.2g}'.format(obs_map[obs], obs_prob)
+                     for obs, obs_prob in top[state]]
+        print('{}: {}'.format(state, ', '.join(top_words)))
+
     print
+    print('Transition matrix:')
+    for row in hmm.A:
+        print(' '.join(map('{:<7.3f}'.format, row)))
 
 
 def train_over_states(X):
@@ -91,5 +114,7 @@ def train_over_states(X):
 
 if __name__ == '__main__':
     X, word_map = poem.load_sp()
-    train_over_states(X)
-    
+    # hmm = train_and_print(X, 5, 100, 0, word_map)
+    # pickle.dump(hmm, open('hmm_interpret.p', 'wb'))
+    hmm = pickle.load(open('hmm_interpret.p', 'rb'))
+    interpret(hmm, word_map)

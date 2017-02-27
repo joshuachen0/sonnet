@@ -1,0 +1,16 @@
+5 hidden states, 250 iterations, model 0
+[(0, -143041.42561581143), (10, -109902.44092616203), (20, -108229.52430718535), (30, -107853.35765035797), (40, -107680.63311601889), (50, -107582.93563945334), (60, -107529.39337473433), (70, -107486.10115580747), (80, -107454.51354243516), (90, -107424.94193906037), (100, -107402.55893999332), (110, -107385.04008821439), (120, -107374.50178856462), (130, -107365.76922505326), (140, -107350.75383525298), (150, -107341.64195388442), (160, -107338.37994443803), (170, -107331.36457258259), (180, -107316.56861375716), (190, -107310.74901547853), (200, -107305.41835813336), (210, -107298.06509559996), (220, -107294.96964523697), (230, -107288.65290665532), (240, -107284.33373520157), (250, -107282.15399619332)]
+Admiring near neigh doth with counterpart not list lease have pyramids my everywhere white which shall of my for looks where how thee thought seeming worth wide song my no before lack after and cool away slide dwell woman a you put looks affable i'll of women's thy in my of images is brow with debateth shouldst painting held thrivers my the better for feil taught my nobler art in reigned of thy contain form stormy in was black sunset thy for lays in my death or with now alchemy to date sight own thou dost is main thou blood of art as influence best work's nature we hard painter the are will which doth or whilst on not so love canst sweetest my glass themselves all pierced shape shall sighs is this when face for to eyes and day i'll praise love thee be holy beseechers woman's wail the you youth all poor so a increase in which hate for will as are invention how my that thee self the cost or mute beauty and a dimmed one hold those when to i self of it the even office no thou way so love durst and now not to of in reign youth liberty in yet you shade share partake if shall prouder she a true he and but to heart shade some nature's hateth thus for so cause deceived own your men's of than her be to old thou and o wherein not whilst thou but but th earth thou and the of my best relief and stain can but that i lest alone this and controlling the finger true my best all the show not lascivious fast the when to night the in not not to say presume upon successive steel be tender thou to where now
+Most likely words per state:
+0: with 0.03, a 0.026, that 0.023, i 0.023, and 0.02, be 0.02, doth 0.016, thee 0.016, you 0.016, mine 0.012
+1: to 0.11, i 0.07, and 0.037, but 0.026, the 0.025, that 0.021, me 0.019, it 0.019, not 0.016, they 0.016
+2: my 0.085, the 0.071, thy 0.062, of 0.029, and 0.024, in 0.022, that 0.021, your 0.017, is 0.014, his 0.011
+3: of 0.06, in 0.045, thou 0.04, is 0.026, love 0.024, all 0.019, the 0.019, for 0.018, self 0.017, and 0.015
+4: and 0.051, that 0.028, when 0.022, if 0.02, be 0.02, not 0.018, thou 0.016, for 0.016, love 0.014, so 0.013
+
+Transition matrix:
+0.886 &  0.003 &  0.096 &  0.000 &  0.015 \\
+0.082 &  0.027 &  0.082 &  0.000 &  0.809 \\
+0.000 &  0.000 &  0.120 &  0.880 &  0.000 \\
+0.106 &  0.185 &  0.708 &  0.000 &  0.000 \\
+0.000 &  0.686 &  0.006 &  0.308 &  0.000 \\

@@ -383,6 +383,26 @@ class HiddenMarkovModel:
         '''
         return sum([self.score_emission(x) for x in X])
 
+    def top_obs_per_state(self, num_obs):
+        """
+        :param num_obs: The top 'num_obs' observations will be returned
+        :return: top. For each state, top[state] is a list of (observation,
+            probability) 2-tuples of the top num_obs most likely observations
+            and their probabilities. top[state][0] = most likely observation
+            and its probability, etc.
+        """
+        top = []
+        for state in range(self.L):
+            # Sort all observations [0...D - 1] by key = likelihood of
+            # observing that from state, most likely first
+            top_obs = sorted(range(self.D),
+                             key=lambda obs: self.O[state][obs],
+                             reverse=True)
+            top.append(
+                [(obs, self.O[state][obs]) for obs in top_obs[:num_obs]]
+            )
+        return top
+
 
 def unsupervised_HMM(X, n_states, n_iters):
     '''
