@@ -82,13 +82,6 @@ def load_sonnets(f_name, supervised=True):
 
 
 def unsupervised_learning(words, word_map, n_states, n_iters):
-    '''
-    Trains an HMM using supervised learning on the file 'ron.txt' and
-    prints the results.
-
-    Arguments:
-        n_states:   Number of hidden states that the HMM should have.
-    '''
 
     # Train the HMM.
     HMM = unsupervised_HMM(words, n_states, n_iters)
@@ -111,11 +104,11 @@ def unsupervised_learning(words, word_map, n_states, n_iters):
 
     return HMM
 
-def make_emission(HMM, word_map):
+def make_emission(HMM, word_map, seed):
     # pick a number of syllables (a state)
     # generate a word from this state
     # repeat until we've exhausted 10 syllables
-    temp = HMM.generate_emission(10, word_map)
+    temp = HMM.generate_emission(10, word_map, seed)
 
     # for i in temp:
     #     print i
@@ -124,12 +117,14 @@ def make_emission(HMM, word_map):
     
 
 def make_sonnet(HMM, word_map, rhymes, supervised=False):
-    for i in range(14):
+    rhymes = pick_rhymes(rhymes)
+
+    for i in range(len(rhymes)):
         if supervised is False:
-            res = make_emission(HMM, word_map)
+            res = make_emission(HMM, word_map, rhymes[i])
             res.reverse()
         else:
-            res = make_emission(HMM, word_map)
+            res = make_emission(HMM, word_map, rhymes[i])
 
         for i in res:
             print (i, end=' ')
@@ -154,18 +149,19 @@ def load_rhymes(f_name):
 
 def pick_rhymes(rhymes):
     seeds = []
-    indices = np.random.choice(np.arange(len(rhymes)), 7)
+    indices = np.random.choice(np.arange(len(rhymes)), 7, replace=False)
 
     for i in range(0, 5, 2):
-        rhyme1_ind = np.random.choice(np.arange(len(rhymes[i])), 2)
-        rhyme2_ind = np.random.choice(np.arange(len(rhymes[i + 1])), 2)
+        rhyme1_ind = np.random.choice(np.arange(len(rhymes[i])), 2, replace=False)
+        rhyme2_ind = np.random.choice(np.arange(len(rhymes[i + 1])), 2, replace=False)
 
         for index in range(2):
-            seeds.append(rhymes[i][index])
-            seeds.append(rhymes[i + 1][index])
+            seeds.append(rhymes[i][rhyme1_ind[index]])
+            seeds.append(rhymes[i + 1][rhyme2_ind[index]])
+
     last_index = indices[-1]
     
-    last_ind = np.random.choice(np.arange(len(rhymes[last_index])), 2)
+    last_ind = np.random.choice(np.arange(len(rhymes[last_index])), 2, replace=False)
 
     for i in last_ind:
         seeds.append(rhymes[last_index][i])
@@ -174,31 +170,28 @@ def pick_rhymes(rhymes):
 
 
 def main():
-    supervised = True
+    supervised = False
     rhymes = load_rhymes("data/rhymes.txt")
-    rhymes = pick_rhymes(rhymes)
 
-    print (rhymes)
-
-    # if supervised is True:
-    #     stresses, stress_map, words, word_map = \
-    #         load_sonnets("data/concat_words_supervised_punct.txt", supervised=True)
-    #     print (len(stress_map.keys()))
-    #     print (stress_map)
-    # else:
-    #     words, word_map = load_sonnets("data/concat_words_punct.txt", supervised=False)
+    if supervised is True:
+        stresses, stress_map, words, word_map = \
+            load_sonnets("data/concat_words_supervised.txt", supervised=True)
+        print (len(stress_map.keys()))
+        print (stress_map)
+    else:
+        words, word_map = load_sonnets("data/concat_words.txt", supervised=False)
     
-    # print (len(word_map.keys()))
+    print (len(word_map.keys()))
     
 
-    # if supervised is False:
-    #     HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=500)
-    # else:
-    #     HMM = supervised_HMM(words, stresses)
+    if supervised is False:
+        HMM = unsupervised_learning(words, word_map, n_states=10, n_iters=1)
+    else:
+        HMM = supervised_HMM(words, stresses)
 
-    # for i in range(5):
-    #     make_sonnet(HMM, word_map, rhymes, supervised=supervised)
-    #     print(end='\n')
+    for i in range(5):
+        make_sonnet(HMM, word_map, rhymes, supervised=supervised)
+        print(end='\n')
 
     # Get rhyme pair
     # make pair of lines with rhyme pair as "ending" word

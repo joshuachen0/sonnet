@@ -9,6 +9,7 @@
 import random
 import numpy as np
 from hyphenate import hyphenate_word
+from sklearn.preprocessing import normalize
 
 class HiddenMarkovModel:
     '''
@@ -314,7 +315,7 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
-    def generate_emission(self, M, word_map):
+    def generate_emission(self, M, word_map, seed_word):
         '''
         Generates an emission of M syllables, assuming that the starting state
         is chosen uniformly at random. 
@@ -325,9 +326,18 @@ class HiddenMarkovModel:
         Returns:
             emission:   The randomly generated emission as a string.
         '''
-
         emission = []
-        state = random.choice(range(self.L))
+        numeric_seed = word_map[seed_word]
+        
+        seed_col = column(self.O, numeric_seed)
+        seed_sum = sum(seed_col)
+
+        for i in range(len(seed_col)):
+            seed_col[i] /= seed_sum
+ 
+        state = np.random.choice(np.arange(self.L), p=seed_col)
+        emission.append(seed_word)
+        M -= len(hyphenate_word(seed_word))
 
         while M > 0:
             obs = np.random.choice(np.arange(self.D), p=self.O[state])
@@ -374,6 +384,9 @@ class HiddenMarkovModel:
                 p=self.O[curr_state]))
 
         return emission
+
+def column(matrix, i):
+    return [row[i] for row in matrix]
 
 def supervised_HMM(X, Y):
     '''
