@@ -62,43 +62,44 @@ def train_and_print(X, n_states, n_iters, model_i, word_map):
     # Check that list of rhyming words is > 1, more than 1 rhymed word
     rhymes = [rhyme for rhyme in rhymes if len(rhyme) > 1]
     random.seed()
+    rhyme = random.sample(range(len(rhymes)), 7)
     # Generate line by line
     for i in range(14):
         # Select random rhymes from list of generated rhymes
-        rhyme = random.sample(range(len(rhymes)), 7)
-        prev_start = ''
+        #rhyme = random.sample(range(len(rhymes)), 7)
+        prev_starts = []
         start = ''
         # Generated rhyming words
         if i == 0 or i == 2:
             # Check rhyme is not repeated with word in same line and previous
             # set of lines
-            while start == prev_start:
-                start = str(random.sample(rhymes[0], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[0]], 1)[0])
+            prev_starts.append(start)
         if i == 1 or i == 3:
-            while start == prev_start:
-                start = str(random.sample(rhymes[1], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[1]], 1)[0])
+            prev_starts.append(start)
         if i == 4 or i == 6:
-            while start == prev_start:
-                start = str(random.sample(rhymes[2], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[2]], 1)[0])
+            prev_starts.append(start)
         if i == 5 or i == 7:
-            while start == prev_start:
-                start = str(random.sample(rhymes[3], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[3]], 1)[0])
+            prev_starts.append(start)
         if i == 8 or i == 10:
-            while start == prev_start:
-                start = str(random.sample(rhymes[4], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[4]], 1)[0])
+            prev_starts.append(start)
         if i == 9 or i == 11:
-            while start == prev_start:
-                start = str(random.sample(rhymes[5], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[5]], 1)[0])
+            prev_starts.append(start)
         if i == 12 or i == 13:
-            while start == prev_start:
-                start = str(random.sample(rhymes[6], 1)[0])
-            prev_start = start
+            while start == '' or start in prev_starts:
+                start = str(random.sample(rhymes[rhyme[6]], 1)[0])
+            prev_starts.append(start)
         # Generate the 10-syllable line with the rhyme
         print(poem.format_line(generate_line_naive(hmm, word_map, 10, start)))
     print
@@ -121,4 +122,4 @@ if __name__ == '__main__':
     # Load the words and word_map
     X, word_map = poem.load_sp()
     # Train HMM and print poem
-    train_and_print(X, 5, 50, 0, word_map)
+    train_and_print(X, 10, 100, 0, word_map)
