@@ -315,7 +315,7 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
-    def generate_emission(self, M, word_map, seed_word):
+    def generate_emission(self, M, word_map, seed_word, supervised=False):
         '''
         Generates an emission of M syllables, assuming that the starting state
         is chosen uniformly at random. 
@@ -344,6 +344,10 @@ class HiddenMarkovModel:
             word = word_map.keys()[word_map.values().index(obs)]
             
             while len(hyphenate_word(word)) > M:
+                if supervised is True:
+                    state = np.random.choice(np.arange(self.L), 
+                    p=self.A[state])
+
                 obs = np.random.choice(np.arange(self.D), p=self.O[state])
                 word = word_map.keys()[word_map.values().index(obs)]
             

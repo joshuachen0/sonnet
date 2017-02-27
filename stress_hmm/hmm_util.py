@@ -104,11 +104,11 @@ def unsupervised_learning(words, word_map, n_states, n_iters):
 
     return HMM
 
-def make_emission(HMM, word_map, seed):
+def make_emission(HMM, word_map, seed, supervised=False):
     # pick a number of syllables (a state)
     # generate a word from this state
     # repeat until we've exhausted 10 syllables
-    temp = HMM.generate_emission(10, word_map, seed)
+    temp = HMM.generate_emission(10, word_map, seed, supervised=supervised)
 
     # for i in temp:
     #     print i
@@ -120,12 +120,8 @@ def make_sonnet(HMM, word_map, rhymes, supervised=False):
     rhymes = pick_rhymes(rhymes)
 
     for i in range(len(rhymes)):
-        if supervised is False:
-            res = make_emission(HMM, word_map, rhymes[i])
-            res.reverse()
-        else:
-            res = make_emission(HMM, word_map, rhymes[i])
-            res.reverse()
+        res = make_emission(HMM, word_map, rhymes[i], supervised=supervised)
+        res.reverse()
 
         for i in res:
             print (i, end=' ')
@@ -190,7 +186,9 @@ def main():
     else:
         HMM = supervised_HMM(words, stresses)
 
-    for i in range(5):
+    print ("sonnet time!")
+
+    for i in range(4):
         make_sonnet(HMM, word_map, rhymes, supervised=supervised)
         print(end='\n')
 
