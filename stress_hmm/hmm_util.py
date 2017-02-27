@@ -125,6 +125,7 @@ def make_sonnet(HMM, word_map, rhymes, supervised=False):
             res.reverse()
         else:
             res = make_emission(HMM, word_map, rhymes[i])
+            res.reverse()
 
         for i in res:
             print (i, end=' ')
@@ -170,7 +171,7 @@ def pick_rhymes(rhymes):
 
 
 def main():
-    supervised = False
+    supervised = True
     rhymes = load_rhymes("data/rhymes.txt")
 
     if supervised is True:
