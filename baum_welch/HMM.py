@@ -394,9 +394,10 @@ class HiddenMarkovModel:
         top = []
         for state in range(self.L):
             # Sort all observations [0...D - 1] by key = likelihood of
-            # observing that from state
+            # observing that from state, most likely first
             top_obs = sorted(range(self.D),
-                             key=lambda obs: self.O[state][obs])
+                             key=lambda obs: self.O[state][obs],
+                             reverse=True)
             top.append(
                 [(obs, self.O[state][obs]) for obs in top_obs[:num_obs]]
             )
