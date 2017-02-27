@@ -82,13 +82,6 @@ def load_sonnets(f_name, supervised=True):
 
 
 def unsupervised_learning(words, word_map, n_states, n_iters):
-    '''
-    Trains an HMM using supervised learning on the file 'ron.txt' and
-    prints the results.
-
-    Arguments:
-        n_states:   Number of hidden states that the HMM should have.
-    '''
 
     # Train the HMM.
     HMM = unsupervised_HMM(words, n_states, n_iters)
@@ -125,7 +118,7 @@ def make_emission(HMM, word_map, seed):
 
 def make_sonnet(HMM, word_map, rhymes, supervised=False):
     rhymes = pick_rhymes(rhymes)
-    
+
     for i in range(len(rhymes)):
         if supervised is False:
             res = make_emission(HMM, word_map, rhymes[i])
