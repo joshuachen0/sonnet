@@ -14,3 +14,33 @@ Transition matrix:
 0.000 &  0.000 &  0.120 &  0.880 &  0.000 \\
 0.106 &  0.185 &  0.708 &  0.000 &  0.000 \\
 0.000 &  0.686 &  0.006 &  0.308 &  0.000 \\
+
+
+-------------------
+10 hidden states, 250 iterations, model 0
+[(0, -142276.1428131415), (10, -109351.81238958247), (20, -105656.8596966163), (30, -104768.11796253109), (40, -104400.43954764435), (50, -104225.2685535268), (60, -104119.62409789539), (70, -104065.41892417648), (80, -104022.90254861419), (90, -103982.2813232515), (100, -103953.9850890344), (110, -103933.46016900548), (120, -103916.65814420153), (130, -103903.06826631461), (140, -103889.94862876167), (150, -103883.75779500388), (160, -103873.93803623092), (170, -103864.34599870534), (180, -103851.22481500063), (190, -103840.57651275146), (200, -103826.30406201672), (210, -103817.59418089617), (220, -103814.45378475096), (230, -103808.94683094784), (240, -103803.9483468468), (250, -103799.31399323994)]
+And gives mortal the so witness a wit i this old this of again do turns worth apple and will beauty where find more shall these in pent hearts is better should since one seen who bounty love thy from whoever be hand i give live an this unfolding if should glass her haply or hold pretty death wantonness to all to do my constancy i return my with calls my see sweetly surly well one fairly every do kissing it to large do sparkling beauty not in loved sweet in thou thy beggar let that gaze triumph old so show end an grossly delight mistress thy shines wit so themselves and not with this in before dear in i form years me of be she being which might love my neglected crystal hours self thy with not prophecies tyrant power gav'st be is pine methinks yet made to thou me have sweet you love's so spoil cloud will to make thief the thought nothing it more sweet the when masked ashes moving herd like give thee to making an eyes more to from but when let pebbled shady hath should way now stronger his come i to by more nor leave shall chose your new faults say are is near truly too dead dead you of count infection triumph that worth shamefully and engraft thy comfort bounty peace to thee mark never new love in centre very counterfeit then do that doth willingly despite with niggard of state my wrongfully th covetous thy tears what have this to other and region i he that best thine of youth mind you dispatch doth for away not conspire in me to sail be cure in eyes mine into summer's the to burn me strange me and ocean day endless to false
+
+Most likely words per state:
+0: which 0.057, as 0.056, when 0.044, that 0.04, but 0.037, if 0.032, and 0.022, so 0.017, for 0.017, still 0.017
+1: of 0.1, in 0.093, with 0.047, that 0.044, to 0.035, and 0.027, for 0.025, from 0.024, is 0.024, on 0.022
+2: thou 0.098, be 0.045, i 0.04, a 0.038, is 0.031, it 0.03, thy 0.029, not 0.026, to 0.025, with 0.017
+3: the 0.13, to 0.054, of 0.034, me 0.024, a 0.021, in 0.021, and 0.017, with 0.013, world 0.012, by 0.0098
+4: not 0.045, art 0.028, is 0.019, thou 0.015, be 0.014, made 0.013, that 0.011, never 0.011, eye 0.0097, away 0.008
+5: my 0.11, i 0.082, thy 0.077, the 0.044, his 0.03, your 0.021, and 0.018, to 0.018, their 0.016, of 0.015
+6: that 0.059, thee 0.048, me 0.038, all 0.037, you 0.024, this 0.023, for 0.022, what 0.021, my 0.02, love 0.018
+7: and 0.23, to 0.065, so 0.043, in 0.038, but 0.037, or 0.024, nor 0.023, me 0.021, yet 0.018, than 0.015
+8: love 0.037, self 0.022, to 0.018, heart 0.016, have 0.016, eyes 0.015, am 0.012, will 0.012, sweet 0.011, doth 0.01
+9: and 0.13, but 0.082, for 0.069, o 0.067, then 0.033, when 0.031, let 0.024, how 0.023, that 0.02, who 0.02
+
+Transition matrix:
+0.000   0.011   0.456   0.468   0.000   0.064   0.000   0.000   0.000   0.000  
+0.000   0.000   0.018   0.000   0.000   0.435   0.547   0.000   0.000   0.000  
+0.000   0.000   0.357   0.000   0.641   0.000   0.000   0.002   0.000   0.000  
+0.000   0.200   0.029   0.771   0.000   0.000   0.000   0.000   0.000   0.000  
+0.000   0.405   0.000   0.000   0.000   0.000   0.000   0.595   0.000   0.000  
+0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   1.000   0.000  
+0.184   0.269   0.182   0.000   0.000   0.365   0.000   0.000   0.000   0.000  
+0.000   0.197   0.021   0.282   0.000   0.000   0.501   0.000   0.000   0.000  
+0.039   0.341   0.179   0.000   0.000   0.438   0.000   0.000   0.000   0.002  
+0.007   0.000   0.000   0.000   0.000   0.000   0.745   0.000   0.000   0.248  
