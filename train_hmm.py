@@ -53,6 +53,14 @@ def generate_line_naive(hmm, word_map, num_words):
     return ' '.join(words)
 
 
+def generate_sonnet_naive(hmm, word_map):
+    """Generate a 14-line sonnet line by line with no constraints."""
+    # Number of words per line to get about 10 syllables
+    NUM_WORDS = 8
+    for line in range(14):
+        print(generate_line_naive(hmm, word_map, NUM_WORDS))
+
+
 def train_and_print(X, n_states, n_iters, model_i, word_map):
     """
     Train one hidden model and print the results.
@@ -114,7 +122,8 @@ def train_over_states(X):
 
 if __name__ == '__main__':
     X, word_map = poem.load_sp()
-    # hmm = train_and_print(X, 5, 100, 0, word_map)
-    # pickle.dump(hmm, open('hmm_interpret.p', 'wb'))
-    hmm = pickle.load(open('hmm_interpret.p', 'rb'))
-    interpret(hmm, word_map)
+    # hmm = train_and_print(X, 5, 250, 0, word_map)
+    # pickle.dump(hmm, open('hmm_interpret_5.p', 'wb'))
+    hmm = pickle.load(open('hmm_interpret_5.p', 'rb'))
+    # interpret(hmm, word_map)
+    generate_sonnet_naive(hmm, word_map)
